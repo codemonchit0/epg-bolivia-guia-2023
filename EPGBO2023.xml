@@ -33,11 +33,12 @@
   <programme start="20230912000000 +0000" stop="20230912010000 +0000" channel="RED UNO LPZ">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
+    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3618769" />
     <country lang="bo">bolivia</country>
   </programme>
   <programme start="20230912010000 +0000" stop="20230912030000 +0000" channel="RED UNO LPZ">
     <title>Notivision edicion central repris</title>
-    <desc>repris de notivisin central</desc>
+    <desc>repris de notivision central</desc>
     <country lang="bo">bolivia</country>
   </programme>
   <programme start="20230912030000 +0000" stop="20230912040000 +0000" channel="RED UNO LPZ">
@@ -47,7 +48,7 @@
   </programme>
   <programme start="20230912040000 +0000" stop="20230912045500 +0000" channel="RED UNO LPZ">
     <title>La faborita</title>
-    <desc>novela</desc>
+    <desc>Después de cumplir una condena por el asesinato del marido de su ex pareja, Donatela Flora deja la cárcel dispuesta a demostrar su inocencia. </desc>
   </programme>
   <programme start="20230912045500 +0000" stop="20230912055500 +0000" channel="RED UNO LPZ">
     <title>problemas y soluciones</title>
@@ -56,16 +57,16 @@
   </programme>
   <programme start="20230912055500 +0000" stop="20230912060000 +0000" channel="RED UNO LPZ">
     <title>Identificacion de red</title>
-    <desc>himno nacional marcha naval</desc>
+    <desc>himno nacional y marcha naval</desc>
     <country lang="bo">bolivia</country>
   </programme>
   <programme start="20230912060000 +0000" stop="20230912070000 +0000" channel="RED UNO LPZ">
-    <title>notivision primero</title>
+    <title>Notivision Primero</title>
     <desc>noticias red uno madrugada</desc>
     <country lang="bo">bolivia</country>
   </programme>
   <programme start="20230912070000 +0000" stop="20230912095500 +0000" channel="RED UNO LPZ">
-    <title>el mañanero</title>
+    <title>El Mañanero</title>
     <desc>revista matinal de entrenimiento y noticias</desc>
     <country lang="bo">bolivia</country>
   </programme>
@@ -104,17 +105,17 @@
   </programme>
   <programme start="20230912174500 +0000" stop="20230912181000 +0000" channel="RED UNO LPZ">
     <title>dragon ball Z</title>
-    <desc>serie clasica anime</desc>
+    <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defender el planeta tierra de un ataque de enemigos extraterrestres, donde transcurso de cada batalla iran adquiriendo poderes increibles.</desc>
     <country lang="bo">bolivia</country>
   </programme>
   <programme start="20230912181000 +0000" stop="20230912185500 +0000" channel="RED UNO LPZ">
-    <title>amor de familia</title>
-    <desc>novela turka</desc>
+    <title>Amor de Familia</title>
+    <desc>Después de cumplir una condena por el asesinato del marido de su ex pareja, Donatela Flora deja la cárcel dispuesta a demostrar su inocencia.</desc>
     <country lang="bo">bolivia</country>
   </programme>
   <programme start="20230912185500 +0000" stop="20230912205000 +0000" channel="RED UNO LPZ">
     <title>Notivision Edicion Central</title>
-    <desc>Central de noticias de red uno</desc>
+    <desc>Central de noticias de red uno, con las noticias mas importantes de toda la jornada</desc>
     <country lang="bo">bolivia</country>
   </programme>
   <programme start="20230912205000 +0000" stop="20230912220500 +0000" channel="RED UNO LPZ">

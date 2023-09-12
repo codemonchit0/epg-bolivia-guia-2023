@@ -30,3 +30,14 @@ solo que el detalle es que difiere la muestra de horarios, pero si
 muestra el programa en ese horario, solo que en pantalla muestra una
 hora diferente del program en vivo.
 
+
+****************************************************************
+Enlace de la guia EPG de la programacion de canales de bolivia para agregar a su reproductor
+
+https://raw.githubusercontent.com/codemonchit0/epgbo/main/EPGBO2023.xml
+----------------------------------------------------------------------
+Enlace para el reproductor EXTREME IPTV:
+
+https://boliviaepg.000webhostapp.com/epg/EPGBO2023.xml
+
+*****************************************************************
