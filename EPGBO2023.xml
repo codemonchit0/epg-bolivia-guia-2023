@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="RED UNO LPZ">
+    <display-name>red uno la paz</display-name>
+    <url>https://www.reduno.com.bo</url>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" />
+  </channel>
+  <channel id="BOLIVISION LPZ HD">
+    <display-name>Bolivision la paz HD</display-name>
+    <url>https://www.redbolivision.tv.bo</url>
+    <icon src="https://i.ibb.co/CtDdqVw/NEW-BOLIVISION-HD.jpg" />
+  </channel>  
+  <programme start="20230908055500 -0400" stop="20230908060000 -0400" channel="RED UNO LPZ">
+    <title>Identificacion de red</title>
+    <desc>himno nacional marcha naval</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908060000 -0400" stop="20230908070000 -0400" channel="RED UNO LPZ">
+    <title>notivision primero</title>
+    <desc>noticias red uno madrugada</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908070000 -0400" stop="20230908095500 -0400" channel="RED UNO LPZ">
+    <title>el mañanero</title>
+    <desc>revista matinal de entrenimiento y noticias</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908095500 -0400" stop="20230908100000 -0400" channel="RED UNO LPZ">
+    <title>Plim plam plum</title>
+    <desc>un heroe del corazon</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908100000 -0400" stop="20230908122500 -0400" channel="RED UNO LPZ">
+    <title>Sabores bolivianos</title>
+    <desc>programa de entretenimiento y cocina boliviana</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908122500 -0400" stop="20230908140000 -0400" channel="RED UNO LPZ">
+    <title>NOTIVISION</title>
+    <desc>Noticias de red uno edicion meridiana</desc>
+  </programme>
+  <programme start="20230908140000 -0400" stop="20230908145500 -0400" channel="RED UNO LPZ">
+    <title>pantanal</title>
+    <desc>novela brasileña</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908145500 -0400" stop="20230908154500 -0400" channel="RED UNO LPZ">
+    <title>la favorita</title>
+    <desc>novela</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908154500 -0400" stop="20230908164000 -0400" channel="RED UNO LPZ">
+    <title>la familia ingals</title>
+    <desc>serie clasica familiar</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908164000 -0400" stop="20230908174500 -0400" channel="RED UNO LPZ">
+    <title>Mundo Geek</title>
+    <desc>programa juvenil de anime gamer y noticias y entretenimiento</desc>
+  </programme>
+  <programme start="20230908174500 -0400" stop="20230908181000 -0400" channel="RED UNO LPZ">
+    <title>dragon ball Z</title>
+    <desc>serie clasica anime</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908181000 -0400" stop="20230908185500 -0400" channel="RED UNO LPZ">
+    <title>amor de familia</title>
+    <desc>novela turka</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908185500 -0400" stop="20230908205000 -0400" channel="RED UNO LPZ">
+    <title>Notivision Edicion Central</title>
+    <desc>Central de noticias de red uno</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230908205000 -0400" stop="20230908220500 -0400" channel="RED UNO LPZ">
+    <title>100 Bolivianos dicen</title>
+    <desc>programa de concursos y entretenimiento de la television boliviana</desc>
+  </programme>
+  <programme start="20230908220500 -0400" stop="20230909000000 -0400" channel="RED UNO LPZ">
+    <title>Que no me pierda</title>
+    <desc>revista nocturna de noticias de bolivia y del mundo</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230909000000 -0400" stop="20230909010000 -0400" channel="RED UNO LPZ">
+    <title>problemas y soluciones</title>
+    <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230909010000 -0400" stop="20230909030000 -0400" channel="RED UNO LPZ">
+    <title>Notivision edicion central repris</title>
+    <desc>repris de notivisin central</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230909030000 -0400" stop="20230909040000 -0400" channel="RED UNO LPZ">
+   <title>Pantanal repris</title>
+   <desc>repris de la novela pantanal</desc>
+   <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230909040000 -0400" stop="20230909045500 -0400" channel="RED UNO LPZ">
+    <title>La faborita</title>
+    <desc>novela</desc>
+  </programme>
+  <programme start="20230909045500 -0400" stop="20230909055500 -0400" channel="RED UNO LPZ">
+    <title>problemas y soluciones</title>
+    <desc>programa religioso para dar solucion con fe a problemas de la familia</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910000000 -0400" stop="20230910010000 -0400" channel="BOLIVISION LPZ HD">
+    <title>CSI nueva york</title>
+    <desc>Ambientada en la ciudad de New York, la serie sigue a un grupo de investigadores que trabajan para el laboratorio criminalístico de la ciudad.</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910010000 -0400" stop="20230910020000 -0400" channel="BOLIVISION LPZ HD">
+    <title>NCI los angeles</title>
+    <desc>Serie policíaca y de ficción estadounidense sobre un equipo de agentes de la ciudad de los Ángeles que trabajan encubiertos con la tecnología disponible más avanzada para atrapar a los</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910020000 -0400" stop="20230910040000 -0400" channel="BOLIVISION LPZ HD">
+    <title>Fear Factor</title>
+    <desc>Es un reality show de juegos, espectáculo deportivo estadounidense y de suspenso. El programa enfrenta a los concursantes unos contra otros en una variedad de trucos</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910040000 -0400" stop="20230910050000 -0400" channel="BOLIVISION LPZ HD">
+    <title>NCI navy</title>
+    <desc>La serie sigue a un grupo de agentes federales del equipo de respuesta en casos principales del servicio de investigación criminal naval, cuyo cuartel general está en el arsenal naval</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910050000 -0400" stop="20230910060000 -0400" channel="BOLIVISION LPZ HD">
+    <title>Al extremo</title>
+    <desc>Producción mexicana, con noticias impactantes, historias extremas, asombrosas, sorprendentes y audaces, especialmente de Estados Unidos y México.</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910060000 -0400" stop="20230910063000 -0400" channel="BOLIVISION LPZ HD">
+    <title>1-2-3 Vamos</title>
+    <desc>Serie animada, educativa y de ciencia ficción. Sucesor de Plaza Sésamo, en la que participan algunos muppets originales y únicos de esta serie, como ser Abby Cadabby, Elmo, Beto y</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910063000 -0400" stop="20230910070000 -0400" channel="BOLIVISION LPZ HD">
+    <title>Vicky the Viking</title>
+    <desc>El personaje principal de la serie es Vicky, hijo de Halvar, jefe del pueblo vikingo de Flake. A diferencia de sus compañeros de la aldea, incluidos la mayoría de los otros niños de su edad,</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910070000 -0400" stop="20230910073000 -0400" channel="BOLIVISION LPZ HD">
+    <title>plaza sesamo</title>
+    <desc>Serie de televisión educativa en español para niños en edad preescolar que se estrenó en México en 1972. Es una de las primeras coproducciones internacionales de Plaza Sésamo</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910073000 -0400" stop="20230910074500 -0400" channel="BOLIVISION LPZ HD">
+    <title>duda y dada</title>
+    <desc>Duda, un topo de 6 años, solía vivir bajo tierra hasta que un día, se atreve a salir. Para Duda, todo sobre el “bosque desconocido” es emocionante y nuevo.</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910074500 -0400" stop="20230910081500 -0400" channel="BOLIVISION LPZ HD">
+    <title>Dino Ranch</title>
+    <desc>Dino Ranch sigue las aventuras llenas de acción de la familia Cassidy como enfrentarse a la vida en un mundo prehistórico fantástico por donde los dinosaurios todavía pasean.</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910081500 -0400" stop="20230910085000 -0400" channel="BOLIVISION LPZ HD">
+    <title>Hold on Tight</title>
+    <desc>serie anime</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910081500 -0400" stop="20230910085000 -0400" channel="BOLIVISION LPZ HD">
+    <title>Hold on Tight</title>
+    <desc>serie anime</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910085000 -0400" stop="20230910103000 -0400" channel="BOLIVISION LPZ HD">
+    <title>lucha libre mexicana</title>
+    <desc>lucha libre de mexico</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910103000 -0400" stop="20230910105500 -0400" channel="BOLIVISION LPZ HD">
+    <title>total insame</title>
+    <desc>record gines</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910105500 -0400" stop="20230910114000 -0400" channel="BOLIVISION LPZ HD">
+    <title>escape perfecto</title>
+    <desc>reality show</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910114000 -0400" stop="20230910122500 -0400" channel="BOLIVISION LPZ HD">
+    <title>los mensajeros</title>
+    <desc>serie de tv</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910122500 -0400" stop="20230910133000 -0400" channel="BOLIVISION LPZ HD">
+    <title>Noticiero Al Dia segunda edicion</title>
+    <desc>noticiero meridiano de bolivision</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910133000 -0400" stop="20230910143000 -0400" channel="BOLIVISION LPZ HD">
+    <title>American ninja warriors</title>
+    <desc>programa de competencia en vivo por television americana</desc>
+    <country lang="bo">bolivia</country>
+  </programme>
+  <programme start="20230910143000 -0400" stop="20230910151500 -0400" channel="BOLIVISION LPZ HD">
+    <title>snack down</title>
+    <desc>lucha libre americana</desc>
+    <country lang="bo">bolivia</country>
+  </programme>  
+  </tv>

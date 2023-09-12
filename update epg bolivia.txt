@@ -1,0 +1,4 @@
+lista de cambios y actualizacion
+------------------------------------------
+actualizacon fecha  11 septiembre 2023
+- se incorpora epg completa para los canales RED UNO locales de bolivia.
