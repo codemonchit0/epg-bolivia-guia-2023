@@ -121,7 +121,7 @@
     <title>100 Bolivianos dicen</title>
     <desc>programa de concursos y entretenimiento de la television boliviana</desc>
   </programme>
-  <programme start="20230912220500 +0000" stop="20230909000000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912220500 +0000" stop="20230913000000 +0000" channel="RED UNO LPZ">
     <title>Que no me pierda</title>
     <desc>revista nocturna de noticias de bolivia y del mundo</desc>
     <country lang="bo">bolivia</country>
@@ -313,7 +313,7 @@
     <title>100 Bolivianos dicen</title>
     <desc>programa de concursos y entretenimiento de la television boliviana</desc>
   </programme>
-  <programme start="20230912220500 +0000" stop="20230909000000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912220500 +0000" stop="20230913000000 +0000" channel="RED UNO SCZ">
     <title>Que no me pierda</title>
     <desc>revista nocturna de noticias de bolivia y del mundo</desc>
     <country lang="bo">bolivia</country>
@@ -409,7 +409,7 @@
     <title>100 Bolivianos dicen</title>
     <desc>programa de concursos y entretenimiento de la television boliviana</desc>
   </programme>
-  <programme start="20230912220500 +0000" stop="20230909000000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912220500 +0000" stop="20230913000000 +0000" channel="RED UNO CBBA">
     <title>Que no me pierda</title>
     <desc>revista nocturna de noticias de bolivia y del mundo</desc>
     <country lang="bo">bolivia</country>
