@@ -15,7 +15,7 @@
     <url>https://www.reduno.com.bo</url>
     <icon src="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" />
   </channel>
-  <channel id="BOLIVISION SCZ HD">
+  <channel id="BOLIVISION LPZ HD">
     <display-name>Red bolivision La paz</display-name>
     <url>https://www.redbolivision.tv.bo</url>
     <icon src="https://i.ibb.co/CtDdqVw/NEW-BOLIVISION-HD.jpg" />
@@ -30,290 +30,290 @@
     <url>https://www.redbolivision.tv.bo</url>
     <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION-HD-NEW-2.jpg" />
   </channel>
-  <programme start="20230911000000 +0000" stop="20230911010000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912000000 +0000" stop="20230912010000 +0000" channel="RED UNO LPZ">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911010000 +0000" stop="20230911030000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912010000 +0000" stop="20230912030000 +0000" channel="RED UNO LPZ">
     <title>Notivision edicion central repris</title>
     <desc>repris de notivisin central</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911030000 +0000" stop="20230911040000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912030000 +0000" stop="20230912040000 +0000" channel="RED UNO LPZ">
    <title>Pantanal repris</title>
    <desc>repris de la novela pantanal</desc>
    <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911040000 +0000" stop="20230911045500 +0000" channel="RED UNO LPZ">
+  <programme start="20230912040000 +0000" stop="20230912045500 +0000" channel="RED UNO LPZ">
     <title>La faborita</title>
     <desc>novela</desc>
   </programme>
-  <programme start="20230911045500 +0000" stop="20230911055500 +0000" channel="RED UNO LPZ">
+  <programme start="20230912045500 +0000" stop="20230912055500 +0000" channel="RED UNO LPZ">
     <title>problemas y soluciones</title>
     <desc>programa religioso para dar solucion con fe a problemas de la familia</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911055500 +0000" stop="20230911060000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912055500 +0000" stop="20230912060000 +0000" channel="RED UNO LPZ">
     <title>Identificacion de red</title>
     <desc>himno nacional marcha naval</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911060000 +0000" stop="20230911070000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912060000 +0000" stop="20230912070000 +0000" channel="RED UNO LPZ">
     <title>notivision primero</title>
     <desc>noticias red uno madrugada</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911070000 +0000" stop="20230911095500 +0000" channel="RED UNO LPZ">
+  <programme start="20230912070000 +0000" stop="20230912095500 +0000" channel="RED UNO LPZ">
     <title>el mañanero</title>
     <desc>revista matinal de entrenimiento y noticias</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911095500 +0000" stop="20230911100000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912095500 +0000" stop="20230912100000 +0000" channel="RED UNO LPZ">
     <title>Plim plam plum</title>
     <desc>un heroe del corazon</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911100000 +0000" stop="20230911122500 +0000" channel="RED UNO LPZ">
+  <programme start="20230912100000 +0000" stop="20230912122500 +0000" channel="RED UNO LPZ">
     <title>Sabores bolivianos</title>
     <desc>programa de entretenimiento y cocina boliviana</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911122500 +0000" stop="20230911140000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912122500 +0000" stop="20230912140000 +0000" channel="RED UNO LPZ">
     <title>NOTIVISION</title>
     <desc>Noticias de red uno edicion meridiana</desc>
   </programme>
-  <programme start="20230911140000 +0000" stop="20230911145500 +0000" channel="RED UNO LPZ">
+  <programme start="20230912140000 +0000" stop="20230912145500 +0000" channel="RED UNO LPZ">
     <title>pantanal</title>
     <desc>novela brasileña</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911145500 +0000" stop="20230911154500 +0000" channel="RED UNO LPZ">
+  <programme start="20230912145500 +0000" stop="20230912154500 +0000" channel="RED UNO LPZ">
     <title>la favorita</title>
     <desc>novela</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911154500 +0000" stop="20230911164000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912154500 +0000" stop="20230912164000 +0000" channel="RED UNO LPZ">
     <title>la familia ingals</title>
     <desc>serie clasica familiar</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911164000 +0000" stop="20230911174500 +0000" channel="RED UNO LPZ">
+  <programme start="20230912164000 +0000" stop="20230912174500 +0000" channel="RED UNO LPZ">
     <title>Mundo Geek</title>
     <desc>programa juvenil de anime gamer y noticias y entretenimiento</desc>
   </programme>
-  <programme start="20230911174500 +0000" stop="20230911181000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912174500 +0000" stop="20230912181000 +0000" channel="RED UNO LPZ">
     <title>dragon ball Z</title>
     <desc>serie clasica anime</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911181000 +0000" stop="20230911185500 +0000" channel="RED UNO LPZ">
+  <programme start="20230912181000 +0000" stop="20230912185500 +0000" channel="RED UNO LPZ">
     <title>amor de familia</title>
     <desc>novela turka</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911185500 +0000" stop="20230911205000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912185500 +0000" stop="20230912205000 +0000" channel="RED UNO LPZ">
     <title>Notivision Edicion Central</title>
     <desc>Central de noticias de red uno</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911205000 +0000" stop="20230911220500 +0000" channel="RED UNO LPZ">
+  <programme start="20230912205000 +0000" stop="20230912220500 +0000" channel="RED UNO LPZ">
     <title>100 Bolivianos dicen</title>
     <desc>programa de concursos y entretenimiento de la television boliviana</desc>
   </programme>
-  <programme start="20230911220500 +0000" stop="20230909000000 +0000" channel="RED UNO LPZ">
+  <programme start="20230912220500 +0000" stop="20230909000000 +0000" channel="RED UNO LPZ">
     <title>Que no me pierda</title>
     <desc>revista nocturna de noticias de bolivia y del mundo</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911010000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912000000 +0000" stop="20230912010000 +0000" channel="RED UNO SCZ">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911010000 +0000" stop="20230911030000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912010000 +0000" stop="20230912030000 +0000" channel="RED UNO SCZ">
     <title>Notivision edicion central repris</title>
     <desc>repris de notivisin central</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911030000 +0000" stop="20230911040000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912030000 +0000" stop="20230912040000 +0000" channel="RED UNO SCZ">
    <title>Pantanal repris</title>
    <desc>repris de la novela pantanal</desc>
    <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911040000 +0000" stop="20230911045500 +0000" channel="RED UNO SCZ">
+  <programme start="20230912040000 +0000" stop="20230912045500 +0000" channel="RED UNO SCZ">
     <title>La faborita</title>
     <desc>novela</desc>
   </programme>
-  <programme start="20230911045500 +0000" stop="20230911055500 +0000" channel="RED UNO SCZ">
+  <programme start="20230912045500 +0000" stop="20230912055500 +0000" channel="RED UNO SCZ">
     <title>problemas y soluciones</title>
     <desc>programa religioso para dar solucion con fe a problemas de la familia</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911055500 +0000" stop="20230911060000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912055500 +0000" stop="20230912060000 +0000" channel="RED UNO SCZ">
     <title>Identificacion de red</title>
     <desc>himno nacional marcha naval</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911060000 +0000" stop="20230911070000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912060000 +0000" stop="20230912070000 +0000" channel="RED UNO SCZ">
     <title>notivision primero</title>
     <desc>noticias red uno madrugada</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911070000 +0000" stop="20230911095500 +0000" channel="RED UNO SCZ">
+  <programme start="20230912070000 +0000" stop="20230912095500 +0000" channel="RED UNO SCZ">
     <title>el mañanero</title>
     <desc>revista matinal de entrenimiento y noticias</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911095500 +0000" stop="20230911100000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912095500 +0000" stop="20230912100000 +0000" channel="RED UNO SCZ">
     <title>Plim plam plum</title>
     <desc>un heroe del corazon</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911100000 +0000" stop="20230911122500 +0000" channel="RED UNO SCZ">
+  <programme start="20230912100000 +0000" stop="20230912122500 +0000" channel="RED UNO SCZ">
     <title>Sabores bolivianos</title>
     <desc>programa de entretenimiento y cocina boliviana</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911122500 +0000" stop="20230911140000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912122500 +0000" stop="20230912140000 +0000" channel="RED UNO SCZ">
     <title>NOTIVISION</title>
     <desc>Noticias de red uno edicion meridiana</desc>
   </programme>
-  <programme start="20230911140000 +0000" stop="20230911145500 +0000" channel="RED UNO SCZ">
+  <programme start="20230912140000 +0000" stop="20230912145500 +0000" channel="RED UNO SCZ">
     <title>pantanal</title>
     <desc>novela brasileña</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911145500 +0000" stop="20230911154500 +0000" channel="RED UNO SCZ">
+  <programme start="20230912145500 +0000" stop="20230912154500 +0000" channel="RED UNO SCZ">
     <title>la favorita</title>
     <desc>novela</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911154500 +0000" stop="20230911164000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912154500 +0000" stop="20230912164000 +0000" channel="RED UNO SCZ">
     <title>la familia ingals</title>
     <desc>serie clasica familiar</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911164000 +0000" stop="20230911174500 +0000" channel="RED UNO SCZ">
+  <programme start="20230912164000 +0000" stop="20230912174500 +0000" channel="RED UNO SCZ">
     <title>Mundo Geek</title>
     <desc>programa juvenil de anime gamer y noticias y entretenimiento</desc>
   </programme>
-  <programme start="20230911174500 +0000" stop="20230911181000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912174500 +0000" stop="20230912181000 +0000" channel="RED UNO SCZ">
     <title>dragon ball Z</title>
     <desc>serie clasica anime</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911181000 +0000" stop="20230911185500 +0000" channel="RED UNO SCZ">
+  <programme start="20230912181000 +0000" stop="20230912185500 +0000" channel="RED UNO SCZ">
     <title>amor de familia</title>
     <desc>novela turka</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911185500 +0000" stop="20230911205000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912185500 +0000" stop="20230912205000 +0000" channel="RED UNO SCZ">
     <title>Notivision Edicion Central</title>
     <desc>Central de noticias de red uno</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911205000 +0000" stop="20230911220500 +0000" channel="RED UNO SCZ">
+  <programme start="20230912205000 +0000" stop="20230912220500 +0000" channel="RED UNO SCZ">
     <title>100 Bolivianos dicen</title>
     <desc>programa de concursos y entretenimiento de la television boliviana</desc>
   </programme>
-  <programme start="20230911220500 +0000" stop="20230909000000 +0000" channel="RED UNO SCZ">
+  <programme start="20230912220500 +0000" stop="20230909000000 +0000" channel="RED UNO SCZ">
     <title>Que no me pierda</title>
     <desc>revista nocturna de noticias de bolivia y del mundo</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911000000 +0000" stop="20230911010000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912000000 +0000" stop="20230912010000 +0000" channel="RED UNO CBBA">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911010000 +0000" stop="20230911030000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912010000 +0000" stop="20230912030000 +0000" channel="RED UNO CBBA">
     <title>Notivision edicion central repris</title>
     <desc>repris de notivisin central</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911030000 +0000" stop="20230911040000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912030000 +0000" stop="20230912040000 +0000" channel="RED UNO CBBA">
    <title>Pantanal repris</title>
    <desc>repris de la novela pantanal</desc>
    <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911040000 +0000" stop="20230911045500 +0000" channel="RED UNO CBBA">
+  <programme start="20230912040000 +0000" stop="20230912045500 +0000" channel="RED UNO CBBA">
     <title>La faborita</title>
     <desc>novela</desc>
   </programme>
-  <programme start="20230911045500 +0000" stop="20230911055500 +0000" channel="RED UNO CBBA">
+  <programme start="20230912045500 +0000" stop="20230912055500 +0000" channel="RED UNO CBBA">
     <title>problemas y soluciones</title>
     <desc>programa religioso para dar solucion con fe a problemas de la familia</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911055500 +0000" stop="20230911060000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912055500 +0000" stop="20230912060000 +0000" channel="RED UNO CBBA">
     <title>Identificacion de red</title>
     <desc>himno nacional marcha naval</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911060000 +0000" stop="20230911070000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912060000 +0000" stop="20230912070000 +0000" channel="RED UNO CBBA">
     <title>notivision primero</title>
     <desc>noticias red uno madrugada</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911070000 +0000" stop="20230911095500 +0000" channel="RED UNO CBBA">
+  <programme start="20230912070000 +0000" stop="20230912095500 +0000" channel="RED UNO CBBA">
     <title>el mañanero</title>
     <desc>revista matinal de entrenimiento y noticias</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911095500 +0000" stop="20230911100000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912095500 +0000" stop="20230912100000 +0000" channel="RED UNO CBBA">
     <title>Plim plam plum</title>
     <desc>un heroe del corazon</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911100000 +0000" stop="20230911122500 +0000" channel="RED UNO CBBA">
+  <programme start="20230912100000 +0000" stop="20230912122500 +0000" channel="RED UNO CBBA">
     <title>Sabores bolivianos</title>
     <desc>programa de entretenimiento y cocina boliviana</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911122500 +0000" stop="20230911140000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912122500 +0000" stop="20230912140000 +0000" channel="RED UNO CBBA">
     <title>NOTIVISION</title>
     <desc>Noticias de red uno edicion meridiana</desc>
   </programme>
-  <programme start="20230911140000 +0000" stop="20230911145500 +0000" channel="RED UNO CBBA">
+  <programme start="20230912140000 +0000" stop="20230912145500 +0000" channel="RED UNO CBBA">
     <title>pantanal</title>
     <desc>novela brasileña</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911145500 +0000" stop="20230911154500 +0000" channel="RED UNO CBBA">
+  <programme start="20230912145500 +0000" stop="20230912154500 +0000" channel="RED UNO CBBA">
     <title>la favorita</title>
     <desc>novela</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911154500 +0000" stop="20230911164000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912154500 +0000" stop="20230912164000 +0000" channel="RED UNO CBBA">
     <title>la familia ingals</title>
     <desc>serie clasica familiar</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911164000 +0000" stop="20230911174500 +0000" channel="RED UNO CBBA">
+  <programme start="20230912164000 +0000" stop="20230912174500 +0000" channel="RED UNO CBBA">
     <title>Mundo Geek</title>
     <desc>programa juvenil de anime gamer y noticias y entretenimiento</desc>
   </programme>
-  <programme start="20230911174500 +0000" stop="20230911181000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912174500 +0000" stop="20230912181000 +0000" channel="RED UNO CBBA">
     <title>dragon ball Z</title>
     <desc>serie clasica anime</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911181000 +0000" stop="20230911185500 +0000" channel="RED UNO CBBA">
+  <programme start="20230912181000 +0000" stop="20230912185500 +0000" channel="RED UNO CBBA">
     <title>amor de familia</title>
     <desc>novela turka</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911185500 +0000" stop="20230911205000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912185500 +0000" stop="20230912205000 +0000" channel="RED UNO CBBA">
     <title>Notivision Edicion Central</title>
     <desc>Central de noticias de red uno</desc>
     <country lang="bo">bolivia</country>
   </programme>
-  <programme start="20230911205000 +0000" stop="20230911220500 +0000" channel="RED UNO CBBA">
+  <programme start="20230912205000 +0000" stop="20230912220500 +0000" channel="RED UNO CBBA">
     <title>100 Bolivianos dicen</title>
     <desc>programa de concursos y entretenimiento de la television boliviana</desc>
   </programme>
-  <programme start="20230911220500 +0000" stop="20230909000000 +0000" channel="RED UNO CBBA">
+  <programme start="20230912220500 +0000" stop="20230909000000 +0000" channel="RED UNO CBBA">
     <title>Que no me pierda</title>
     <desc>revista nocturna de noticias de bolivia y del mundo</desc>
     <country lang="bo">bolivia</country>
