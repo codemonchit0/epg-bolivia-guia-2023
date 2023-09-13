@@ -1,703 +1,494 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="RED UNO LPZ">
-    <display-name>red uno la paz</display-name>
+  <channel id="RED UNO BOLIVIA">
+    <display-name>red uno bolivia</display-name>
     <url>https://www.reduno.com.bo</url>
     <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" />
   </channel>
-  <channel id="RED UNO SCZ">
-    <display-name>red uno santa cruz</display-name>
-    <url>https://www.reduno.com.bo</url>
-    <icon src="https://i.ibb.co/WPqdtn0/RED-UNO-PLAY-SCZ-HD.jpg" />
-  </channel>
-  <channel id="RED UNO CBBA">
-    <display-name>red uno cochamba</display-name>
-    <url>https://www.reduno.com.bo</url>
-    <icon src="https://i.ibb.co/dBVC3cC/RED-UNO-PLAY-CBBA-HD.jpg" />
-  </channel>
-  <channel id="BOLIVISION LPZ HD">
-    <display-name>Red bolivision La paz</display-name>
-    <url>https://www.redbolivision.tv.bo</url>
-    <icon src="https://i.ibb.co/CtDdqVw/NEW-BOLIVISION-HD.jpg" />
-  </channel>
-  <channel id="BOLIVISION SCZ HD">
-    <display-name>Red bolivision Santa Cruz</display-name>
-    <url>https://www.redbolivision.tv.bo</url>
-    <icon src="https://i.postimg.cc/KY8T9SJH/BOLIVISION-HD-SCZ.jpg" />
-  </channel>
-  <channel id="BOLIVISION BOLIVIA HD">
-    <display-name>Red bolivision Bolivia</display-name>
-    <url>https://www.redbolivision.tv.bo</url>
-    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION-HD-NEW-2.jpg" />
-  </channel>
-  <programme start="20230912000000 +0000" stop="20230912010000 +0000" channel="RED UNO LPZ">
-    <title>problemas y soluciones</title>
-    <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
-    <icon src="https://www.movistarplus.es/recorte/n/caratula4/F3618769" />
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912010000 +0000" stop="20230912030000 +0000" channel="RED UNO LPZ">
-    <title>Notivision edicion central repris</title>
-    <desc>repris de notivision central</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912030000 +0000" stop="20230912040000 +0000" channel="RED UNO LPZ">
-   <title>Pantanal repris</title>
-   <desc>repris de la novela pantanal</desc>
-   <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912040000 +0000" stop="20230912045500 +0000" channel="RED UNO LPZ">
-    <title>La faborita</title>
-    <desc>Después de cumplir una condena por el asesinato del marido de su ex pareja, Donatela Flora deja la cárcel dispuesta a demostrar su inocencia. </desc>
-  </programme>
-  <programme start="20230912045500 +0000" stop="20230912055500 +0000" channel="RED UNO LPZ">
-    <title>problemas y soluciones</title>
-    <desc>programa religioso para dar solucion con fe a problemas de la familia</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912055500 +0000" stop="20230912060000 +0000" channel="RED UNO LPZ">
-    <title>Identificacion de red</title>
-    <desc>himno nacional y marcha naval</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912060000 +0000" stop="20230912070000 +0000" channel="RED UNO LPZ">
-    <title>Notivision Primero</title>
-    <desc>noticias red uno madrugada</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912070000 +0000" stop="20230912095500 +0000" channel="RED UNO LPZ">
-    <title>El Mañanero</title>
-    <desc>revista matinal de entrenimiento y noticias</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912095500 +0000" stop="20230912100000 +0000" channel="RED UNO LPZ">
-    <title>Plim plam plum</title>
-    <desc>un heroe del corazon</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912100000 +0000" stop="20230912122500 +0000" channel="RED UNO LPZ">
-    <title>Sabores bolivianos</title>
-    <desc>programa de entretenimiento y cocina boliviana</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912122500 +0000" stop="20230912140000 +0000" channel="RED UNO LPZ">
-    <title>NOTIVISION</title>
-    <desc>Noticias de red uno edicion meridiana</desc>
-  </programme>
-  <programme start="20230912140000 +0000" stop="20230912145500 +0000" channel="RED UNO LPZ">
-    <title>pantanal</title>
-    <desc>novela brasileña</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912145500 +0000" stop="20230912154500 +0000" channel="RED UNO LPZ">
-    <title>la favorita</title>
-    <desc>novela</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912154500 +0000" stop="20230912164000 +0000" channel="RED UNO LPZ">
-    <title>la familia ingals</title>
-    <desc>serie clasica familiar</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912164000 +0000" stop="20230912174500 +0000" channel="RED UNO LPZ">
-    <title>Mundo Geek</title>
-    <desc>programa juvenil de anime gamer y noticias y entretenimiento</desc>
-  </programme>
-  <programme start="20230912174500 +0000" stop="20230912181000 +0000" channel="RED UNO LPZ">
-    <title>dragon ball Z</title>
-    <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defender el planeta tierra de un ataque de enemigos extraterrestres, donde transcurso de cada batalla iran adquiriendo poderes increibles.</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912181000 +0000" stop="20230912185500 +0000" channel="RED UNO LPZ">
-    <title>Amor de Familia</title>
-    <desc>Después de cumplir una condena por el asesinato del marido de su ex pareja, Donatela Flora deja la cárcel dispuesta a demostrar su inocencia.</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912185500 +0000" stop="20230912205000 +0000" channel="RED UNO LPZ">
-    <title>Notivision Edicion Central</title>
-    <desc>Central de noticias de red uno, con las noticias mas importantes de toda la jornada</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912205000 +0000" stop="20230912220500 +0000" channel="RED UNO LPZ">
-    <title>100 Bolivianos dicen</title>
-    <desc>programa de concursos y entretenimiento de la television boliviana</desc>
-  </programme>
-  <programme start="20230912220500 +0000" stop="20230913000000 +0000" channel="RED UNO LPZ">
-    <title>Que no me pierda</title>
-    <desc>revista nocturna de noticias de bolivia y del mundo</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230911000000 +0000" stop="20230911010000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913000000 +0000" stop="20230913010000 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911010000 +0000" stop="20230911030000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913010000 +0000" stop="20230913030000 +0000" channel="RED UNO BOLIVIA">
     <title>Notivision edicion central repris</title>
     <desc>repris de notivisin central</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911030000 +0000" stop="20230911040000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913030000 +0000" stop="20230913040000 +0000" channel="RED UNO BOLIVIA">
    <title>Pantanal repris</title>
    <desc>repris de la novela pantanal</desc>
    <country lang="bo">bolivia</country>
+   <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911040000 +0000" stop="20230911045500 +0000" channel="RED UNO LPZ">
+  <programme start="20230913040000 +0000" stop="20230913045500 +0000" channel="RED UNO BOLIVIA">
     <title>La faborita</title>
     <desc>novela</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911045500 +0000" stop="20230911055500 +0000" channel="RED UNO LPZ">
+  <programme start="20230913045500 +0000" stop="20230913055500 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
     <desc>programa religioso para dar solucion con fe a problemas de la familia</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911055500 +0000" stop="20230911060000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913055500 +0000" stop="20230913060000 +0000" channel="RED UNO BOLIVIA">
     <title>Identificacion de red</title>
     <desc>himno nacional marcha naval</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911060000 +0000" stop="20230911070000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913060000 +0000" stop="20230913070000 +0000" channel="RED UNO BOLIVIA">
     <title>notivision primero</title>
     <desc>noticias red uno madrugada</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911070000 +0000" stop="20230911095500 +0000" channel="RED UNO LPZ">
+  <programme start="20230913070000 +0000" stop="20230913095500 +0000" channel="RED UNO BOLIVIA">
     <title>el mañanero</title>
     <desc>revista matinal de entrenimiento y noticias</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911095500 +0000" stop="20230911100000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913095500 +0000" stop="20230913100000 +0000" channel="RED UNO BOLIVIA">
     <title>Plim plam plum</title>
     <desc>un heroe del corazon</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911100000 +0000" stop="20230911122500 +0000" channel="RED UNO LPZ">
+  <programme start="20230913100000 +0000" stop="20230913122500 +0000" channel="RED UNO BOLIVIA">
     <title>Sabores bolivianos</title>
     <desc>programa de entretenimiento y cocina boliviana</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911122500 +0000" stop="20230911140000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913122500 +0000" stop="20230913140000 +0000" channel="RED UNO BOLIVIA">
     <title>NOTIVISION</title>
     <desc>Noticias de red uno edicion meridiana</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911140000 +0000" stop="20230911145500 +0000" channel="RED UNO LPZ">
+  <programme start="20230913140000 +0000" stop="20230913145500 +0000" channel="RED UNO BOLIVIA">
     <title>pantanal</title>
     <desc>novela brasileña</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911145500 +0000" stop="20230911154500 +0000" channel="RED UNO LPZ">
+  <programme start="20230913145500 +0000" stop="20230913154500 +0000" channel="RED UNO BOLIVIA">
     <title>la favorita</title>
     <desc>novela</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911154500 +0000" stop="20230911164000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913154500 +0000" stop="20230913164000 +0000" channel="RED UNO BOLIVIA">
     <title>la familia ingals</title>
     <desc>serie clasica familiar</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911164000 +0000" stop="20230911174500 +0000" channel="RED UNO LPZ">
+  <programme start="20230913164000 +0000" stop="20230913174500 +0000" channel="RED UNO BOLIVIA">
     <title>Mundo Geek</title>
     <desc>programa juvenil de anime gamer y noticias y entretenimiento</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911174500 +0000" stop="20230911181000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913174500 +0000" stop="20230913181000 +0000" channel="RED UNO BOLIVIA">
     <title>dragon ball Z</title>
     <desc>serie clasica anime</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911181000 +0000" stop="20230911185500 +0000" channel="RED UNO LPZ">
+  <programme start="20230913181000 +0000" stop="20230913185500 +0000" channel="RED UNO BOLIVIA">
     <title>amor de familia</title>
     <desc>novela turka</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911185500 +0000" stop="20230911205000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913185500 +0000" stop="20230913205000 +0000" channel="RED UNO BOLIVIA">
     <title>Notivision Edicion Central</title>
     <desc>Central de noticias de red uno</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911205000 +0000" stop="20230911220500 +0000" channel="RED UNO LPZ">
+  <programme start="20230913205000 +0000" stop="20230913220500 +0000" channel="RED UNO BOLIVIA">
     <title>100 Bolivianos dicen</title>
     <desc>programa de concursos y entretenimiento de la television boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230911220500 +0000" stop="20230912000000 +0000" channel="RED UNO LPZ">
+  <programme start="20230913220500 +0000" stop="20230914000000 +0000" channel="RED UNO BOLIVIA">
     <title>Que no me pierda</title>
     <desc>revista nocturna de noticias de bolivia y del mundo</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912000000 +0000" stop="20230912010000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914000000 +0000" stop="20230914010000 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912010000 +0000" stop="20230912030000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914010000 +0000" stop="20230914030000 +0000" channel="RED UNO BOLIVIA">
     <title>Notivision edicion central repris</title>
     <desc>repris de notivisin central</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912030000 +0000" stop="20230912040000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914030000 +0000" stop="20230914040000 +0000" channel="RED UNO BOLIVIA">
    <title>Pantanal repris</title>
    <desc>repris de la novela pantanal</desc>
    <country lang="bo">bolivia</country>
+   <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912040000 +0000" stop="20230912045500 +0000" channel="RED UNO SCZ">
+  <programme start="20230914040000 +0000" stop="20230914045500 +0000" channel="RED UNO BOLIVIA">
     <title>La faborita</title>
     <desc>novela</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912045500 +0000" stop="20230912055500 +0000" channel="RED UNO SCZ">
+  <programme start="20230914045500 +0000" stop="20230914055500 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
     <desc>programa religioso para dar solucion con fe a problemas de la familia</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912055500 +0000" stop="20230912060000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914055500 +0000" stop="20230914060000 +0000" channel="RED UNO BOLIVIA">
     <title>Identificacion de red</title>
     <desc>himno nacional marcha naval</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912060000 +0000" stop="20230912070000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914060000 +0000" stop="20230914070000 +0000" channel="RED UNO BOLIVIA">
     <title>notivision primero</title>
     <desc>noticias red uno madrugada</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912070000 +0000" stop="20230912095500 +0000" channel="RED UNO SCZ">
+  <programme start="20230914070000 +0000" stop="20230914095500 +0000" channel="RED UNO BOLIVIA">
     <title>el mañanero</title>
     <desc>revista matinal de entrenimiento y noticias</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912095500 +0000" stop="20230912100000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914095500 +0000" stop="20230914100000 +0000" channel="RED UNO BOLIVIA">
     <title>Plim plam plum</title>
     <desc>un heroe del corazon</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912100000 +0000" stop="20230912122500 +0000" channel="RED UNO SCZ">
+  <programme start="20230914100000 +0000" stop="20230914122500 +0000" channel="RED UNO BOLIVIA">
     <title>Sabores bolivianos</title>
     <desc>programa de entretenimiento y cocina boliviana</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912122500 +0000" stop="20230912140000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914122500 +0000" stop="20230914140000 +0000" channel="RED UNO BOLIVIA">
     <title>NOTIVISION</title>
     <desc>Noticias de red uno edicion meridiana</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912140000 +0000" stop="20230912145500 +0000" channel="RED UNO SCZ">
+  <programme start="20230914140000 +0000" stop="20230914145500 +0000" channel="RED UNO BOLIVIA">
     <title>pantanal</title>
     <desc>novela brasileña</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912145500 +0000" stop="20230912154500 +0000" channel="RED UNO SCZ">
+  <programme start="20230914145500 +0000" stop="20230914154500 +0000" channel="RED UNO BOLIVIA">
     <title>la favorita</title>
     <desc>novela</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912154500 +0000" stop="20230912164000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914154500 +0000" stop="20230914164000 +0000" channel="RED UNO BOLIVIA">
     <title>la familia ingals</title>
     <desc>serie clasica familiar</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912164000 +0000" stop="20230912174500 +0000" channel="RED UNO SCZ">
+  <programme start="20230914164000 +0000" stop="20230914174500 +0000" channel="RED UNO BOLIVIA">
     <title>Mundo Geek</title>
     <desc>programa juvenil de anime gamer y noticias y entretenimiento</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912174500 +0000" stop="20230912181000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914174500 +0000" stop="20230914181000 +0000" channel="RED UNO BOLIVIA">
     <title>dragon ball Z</title>
     <desc>serie clasica anime</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912181000 +0000" stop="20230912185500 +0000" channel="RED UNO SCZ">
+  <programme start="20230914181000 +0000" stop="20230914185500 +0000" channel="RED UNO BOLIVIA">
     <title>amor de familia</title>
     <desc>novela turka</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912185500 +0000" stop="20230912205000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914185500 +0000" stop="20230914205000 +0000" channel="RED UNO BOLIVIA">
     <title>Notivision Edicion Central</title>
     <desc>Central de noticias de red uno</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912205000 +0000" stop="20230912220500 +0000" channel="RED UNO SCZ">
+  <programme start="20230914205000 +0000" stop="20230914220500 +0000" channel="RED UNO BOLIVIA">
     <title>100 Bolivianos dicen</title>
     <desc>programa de concursos y entretenimiento de la television boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912220500 +0000" stop="20230913000000 +0000" channel="RED UNO SCZ">
+  <programme start="20230914220500 +0000" stop="20230915000000 +0000" channel="RED UNO BOLIVIA">
     <title>Que no me pierda</title>
     <desc>revista nocturna de noticias de bolivia y del mundo</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912000000 +0000" stop="20230912010000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915000000 +0000" stop="20230915010000 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912010000 +0000" stop="20230912030000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915010000 +0000" stop="20230915030000 +0000" channel="RED UNO BOLIVIA">
     <title>Notivision edicion central repris</title>
     <desc>repris de notivisin central</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912030000 +0000" stop="20230912040000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915030000 +0000" stop="20230915040000 +0000" channel="RED UNO BOLIVIA">
    <title>Pantanal repris</title>
    <desc>repris de la novela pantanal</desc>
    <country lang="bo">bolivia</country>
+   <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912040000 +0000" stop="20230912045500 +0000" channel="RED UNO CBBA">
+  <programme start="20230915040000 +0000" stop="20230915045500 +0000" channel="RED UNO BOLIVIA">
     <title>La faborita</title>
     <desc>novela</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912045500 +0000" stop="20230912055500 +0000" channel="RED UNO CBBA">
+  <programme start="20230915045500 +0000" stop="20230915055500 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
     <desc>programa religioso para dar solucion con fe a problemas de la familia</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912055500 +0000" stop="20230912060000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915055500 +0000" stop="20230915060000 +0000" channel="RED UNO BOLIVIA">
     <title>Identificacion de red</title>
     <desc>himno nacional marcha naval</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912060000 +0000" stop="20230912070000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915060000 +0000" stop="20230915070000 +0000" channel="RED UNO BOLIVIA">
     <title>notivision primero</title>
     <desc>noticias red uno madrugada</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912070000 +0000" stop="20230912095500 +0000" channel="RED UNO CBBA">
+  <programme start="20230915070000 +0000" stop="20230915095500 +0000" channel="RED UNO BOLIVIA">
     <title>el mañanero</title>
     <desc>revista matinal de entrenimiento y noticias</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912095500 +0000" stop="20230912100000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915095500 +0000" stop="20230915100000 +0000" channel="RED UNO BOLIVIA">
     <title>Plim plam plum</title>
     <desc>un heroe del corazon</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912100000 +0000" stop="20230912122500 +0000" channel="RED UNO CBBA">
+  <programme start="20230915100000 +0000" stop="20230915122500 +0000" channel="RED UNO BOLIVIA">
     <title>Sabores bolivianos</title>
     <desc>programa de entretenimiento y cocina boliviana</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912122500 +0000" stop="20230912140000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915122500 +0000" stop="20230915140000 +0000" channel="RED UNO BOLIVIA">
     <title>NOTIVISION</title>
     <desc>Noticias de red uno edicion meridiana</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912140000 +0000" stop="20230912145500 +0000" channel="RED UNO CBBA">
+  <programme start="20230915140000 +0000" stop="20230915145500 +0000" channel="RED UNO BOLIVIA">
     <title>pantanal</title>
     <desc>novela brasileña</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912145500 +0000" stop="20230912154500 +0000" channel="RED UNO CBBA">
+  <programme start="20230915145500 +0000" stop="20230915154500 +0000" channel="RED UNO BOLIVIA">
     <title>la favorita</title>
     <desc>novela</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912154500 +0000" stop="20230912164000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915154500 +0000" stop="20230915164000 +0000" channel="RED UNO BOLIVIA">
     <title>la familia ingals</title>
     <desc>serie clasica familiar</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912164000 +0000" stop="20230912174500 +0000" channel="RED UNO CBBA">
+  <programme start="20230915164000 +0000" stop="20230915174500 +0000" channel="RED UNO BOLIVIA">
     <title>Mundo Geek</title>
     <desc>programa juvenil de anime gamer y noticias y entretenimiento</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912174500 +0000" stop="20230912181000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915174500 +0000" stop="20230915181000 +0000" channel="RED UNO BOLIVIA">
     <title>dragon ball Z</title>
     <desc>serie clasica anime</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912181000 +0000" stop="20230912185500 +0000" channel="RED UNO CBBA">
+  <programme start="20230915181000 +0000" stop="20230915185500 +0000" channel="RED UNO BOLIVIA">
     <title>amor de familia</title>
     <desc>novela turka</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912185500 +0000" stop="20230912205000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915185500 +0000" stop="20230915205000 +0000" channel="RED UNO BOLIVIA">
     <title>Notivision Edicion Central</title>
     <desc>Central de noticias de red uno</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912205000 +0000" stop="20230912220500 +0000" channel="RED UNO CBBA">
+  <programme start="20230915205000 +0000" stop="20230915220500 +0000" channel="RED UNO BOLIVIA">
     <title>100 Bolivianos dicen</title>
     <desc>programa de concursos y entretenimiento de la television boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912220500 +0000" stop="20230913000000 +0000" channel="RED UNO CBBA">
+  <programme start="20230915220500 +0000" stop="20230916000000 +0000" channel="RED UNO BOLIVIA">
     <title>Que no me pierda</title>
     <desc>revista nocturna de noticias de bolivia y del mundo</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230912000000 +0000" stop="20230912020000 +0000" channel="BOLIVISION LPZ HD">
-    <title>Creer es Poder</title>
-    <desc>Progrma religioso para poder formar una fe fuerte por dios</desc>
+  <programme start="20230916000000 +0000" stop="20230916010000 +0000" channel="RED UNO BOLIVIA">
+    <title>problemas y soluciones</title>
+    <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912020000 +0000" stop="20230912030000 +0000" channel="BOLIVISION LPZ HD">
-    <title>NCI navy</title>
-    <desc>La serie sigue a un grupo de agentes federales del equipo de respuesta en casos principales del servicio de investigación criminologia naval</desc>
+  <programme start="20230916010000 +0000" stop="20230916030000 +0000" channel="RED UNO BOLIVIA">
+    <title>Notivision edicion central repris</title>
+    <desc>repris de notivisin central</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912030000 +0000" stop="20230912040000 +0000" channel="BOLIVISION LPZ HD">
-    <title>Al Extremo</title>
-    <desc>Producción mexicana, con noticias impactantes, historias extremas, asombrosas, sorprendentes y audaces, especialmente de Estados Unidos y México.</desc>
-    <country lang="bo">bolivia</country>
+  <programme start="20230913030000 +0000" stop="20230913040000 +0000" channel="RED UNO BOLIVIA">
+   <title>Pantanal repris</title>
+   <desc>repris de la novela pantanal</desc>
+   <country lang="bo">bolivia</country>
+   <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912040000 +0000" stop="20230912060000 +0000" channel="BOLIVISION LPZ HD">
-    <title>Creer es Poder</title>
-    <desc>Progrma religioso para poder formar una fe fuerte por dios</desc>
+  <programme start="20230916040000 +0000" stop="20230916045500 +0000" channel="RED UNO BOLIVIA">
+    <title>La faborita</title>
+    <desc>novela</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912060000 +0000" stop="20230912090000 +0000" channel="BOLIVISION LPZ HD">
-    <title>Al Dia tu Dia</title>
-    <desc>Revista matinal de bolivision de noticias y entretenimiento</desc>
+  <programme start="20230916045500 +0000" stop="20230916055500 +0000" channel="RED UNO BOLIVIA">
+    <title>problemas y soluciones</title>
+    <desc>programa religioso para dar solucion con fe a problemas de la familia</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912090000 +0000" stop="20230912095500 +0000" channel="BOLIVISION LPZ HD">
-    <title>Laura</title>
-    <desc>Es un programa de televisión del género talk show, animado por la abogada Laura Bozzo</desc>
+  <programme start="20230916055500 +0000" stop="20230916060000 +0000" channel="RED UNO BOLIVIA">
+    <title>Identificacion de red</title>
+    <desc>Himno nacional marcha naval</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912095500 +0000" stop="20230912105500 +0000" channel="BOLIVISION LPZ HD">
-    <title>Mujer Casos de la vida real</title>
-    <desc>Esta serie conmovedora, que en el comienzo fue titulada solamente Casos de la Vida Real, ahora tiene añadido el sustantivo Mujer y como su título lo indica</desc>
+  <programme start="20230916060000 +0000" stop="20230916063000 +0000" channel="RED UNO BOLIVIA">
+    <title>PORORO</title>
+    <desc>Serie de sabado</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912105500 +0000" stop="20230912114500 +0000" channel="BOLIVISION LPZ HD">
-    <title>La Rosa de Guadalupe</title>
-    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe cuenta una historia diferente sobre cada persona y caso</desc>
+  <programme start="20230916063000 +0000" stop="20230916070000 +0000" channel="RED UNO BOLIVIA">
+    <title>TAYO</title>
+    <desc>Serie de sabado</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912114500 +0000" stop="20230912122500 +0000" channel="BOLIVISION LPZ HD">
-    <title>Las mil y una noches</title>
-    <desc>Producción turca. Cuenta la historia de Sherezade y Onur. Ella profesional, viuda con un hijo al que le diagnostican leucemia y para salvarlo acepta la proposición de su jefe (Onur)</desc>
+  <programme start="20230916070000 +0000" stop="20230916080000 +0000" channel="RED UNO BOLIVIA">
+    <title>Saint seiya - Los caballeros del zodiaco</title>
+    <desc>Serie anime clasica</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912122500 +0000" stop="20230912140000 +0000" channel="BOLIVISION LPZ HD">
-    <title>Noticiero Al Dia segunda edicion</title>
-    <desc>programa de noticias de la red bolivision con las noticias mas actuales nacionales e internacionales</desc>
+  <programme start="20230916080000 +0000" stop="20230916090000 +0000" channel="RED UNO BOLIVIA">
+    <title>Kenichi</title>
+    <desc>Serie anime clasica</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912140000 +0000" stop="20230912145000 +0000" channel="BOLIVISION LPZ HD">
-    <title>La Promesa</title>
-    <desc>Producción turca. La familia Tarhun es una familia muy rica y conocida. El padre de la familia, Hikmet, quiere casar a su malcriado e irresponsable hijo Emir</desc>
+  <programme start="20230916090000 +0000" stop="20230916093000 +0000" channel="RED UNO BOLIVIA">
+    <title>Megalobox</title>
+    <desc>Serie anime clasica</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912145000 +0000" stop="20230912154500 +0000" channel="BOLIVISION LPZ HD">
-    <title>El Amor Invencible</title>
-    <desc>Producción mexicana. Hace quince años, Marena Ramos sufre un percance a manos de Gael Torrenegro, heredero de una de las cervecerías más importantes de México</desc>
+  <programme start="20230916093000 +0000" stop="20230916110000 +0000" channel="RED UNO BOLIVIA">
+    <title>Dragon Ball</title>
+    <desc>Serie anime clasica</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912154500 +0000" stop="20230912163500 +0000" channel="BOLIVISION LPZ HD">
-    <title>Como dice el dicho</title>
-    <desc>Teleserie mexicana que recrea historias y situaciones actuales que se asemejan a dichos y refranes comunes y populares.</desc>
+  <programme start="20230916110000 +0000" stop="20230916122500 +0000" channel="RED UNO BOLIVIA">
+    <title>Super Campeones</title>
+    <desc>Serie anime clasica</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912163500 +0000" stop="20230912174000 +0000" channel="BOLIVISION LPZ HD">
-    <title>La Rosa de Guadalupe</title>
-    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe cuenta una historia diferente sobre cada persona y caso</desc>
+  <programme start="20230916122500 +0000" stop="20230916140000 +0000" channel="RED UNO BOLIVIA">
+    <title>Notivision Medio dia</title>
+    <desc>Noticias de medio dia con actualidad del momento</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912174000 +0000" stop="20230912184000 +0000" channel="BOLIVISION LPZ HD">
-    <title>El Legado</title>
-    <desc>Producción turca. Historia de Yaman un hombre de negocios rico y carismático, y Seher que tiene una vida inocente y modesta</desc>
+  <programme start="20230916140000 +0000" stop="20230916150000 +0000" channel="RED UNO BOLIVIA">
+    <title>La Familia Ingals</title>
+    <desc>Serie familiar clasica</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912184000 +0000" stop="20230912194000 +0000" channel="BOLIVISION LPZ HD">
-    <title>Elif</title>
-    <desc>Producción turca. Melek era una empleada que se enamoró de Kenan, el primogénito de la familia rica para la que trabajaba. Kenan también se enamoró de ella</desc>
+  <programme start="20230916150000 +0000" stop="20230916180000 +0000" channel="RED UNO BOLIVIA">
+    <title>Maraton Amor de Familia</title>
+    <desc>maraton del dia sabado de la novela amor de familia</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912194000 +0000" stop="20230912203000 +0000" channel="BOLIVISION LPZ HD">
-    <title>Fugitiva</title>
-    <desc>Producción turca. Narra la historia de Nefes, una mujer que se casó muy joven cuando fue vendida por su padre, a un empresario quien la mantuvo cautiva en una mansión</desc>
+  <programme start="20230916180000 +0000" stop="20230916193000 +0000" channel="RED UNO BOLIVIA">
+    <title>Uno de Pelicula</title>
+    <desc>Sawa el dragon de fuego</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912203000 +0000" stop="20230912220000 +0000" channel="BOLIVISION LPZ HD">
-    <title>Noticiero Al dia Central</title>
-    <desc>Central de noticias de bolivision con los temas actuales de bolivia y del mundo</desc>
+  <programme start="20230916193000 +0000" stop="20230916195500 +0000" channel="RED UNO BOLIVIA">
+    <title>DT la mision repris</title>
+    <desc>programa de red uno</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912220000 +0000" stop="20230912000000 +0000" channel="BOLIVISION LPZ HD">
-    <title>Aqui en Vivo</title>
-    <desc>Revista nocturna de entrenimiento y con las noticias mas actuales y relevantes de la jornada</desc>
+  <programme start="20230916195500 +0000" stop="20230916210000 +0000" channel="RED UNO BOLIVIA">
+    <title>Notivision</title>
+    <desc>Central de noticias del dia Sabado</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912000000 +0000" stop="20230912020000 +0000" channel="BOLIVISION SCZ HD">
-    <title>Creer es Poder</title>
-    <desc>Progrma religioso para poder formar una fe fuerte por dios</desc>
+  <programme start="20230916210000 +0000" stop="20230916222000 +0000" channel="RED UNO BOLIVIA">
+    <title>La Noche de la GRI segunda temporada</title>
+    <desc>Revista nocturna con entrevistas y grupos en vivo</desc>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
-  <programme start="20230912020000 +0000" stop="20230912030000 +0000" channel="BOLIVISION SCZ HD">
-    <title>NCI navy</title>
-    <desc>La serie sigue a un grupo de agentes federales del equipo de respuesta en casos principales del servicio de investigación criminologia naval</desc>
+  <programme start="20230916222000 +0000" stop="20230917000000 +0000" channel="RED UNO BOLIVIA">
+    <title>UNO DE PELICULA</title>
+    <desc>ASHFALL</desc>
     <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912030000 +0000" stop="20230912040000 +0000" channel="BOLIVISION SCZ HD">
-    <title>Al Extremo</title>
-    <desc>Producción mexicana, con noticias impactantes, historias extremas, asombrosas, sorprendentes y audaces, especialmente de Estados Unidos y México.</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912040000 +0000" stop="20230912060000 +0000" channel="BOLIVISION SCZ HD">
-    <title>Creer es Poder</title>
-    <desc>Progrma religioso para poder formar una fe fuerte por dios</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912060000 +0000" stop="20230912090000 +0000" channel="BOLIVISION SCZ HD">
-    <title>Al Dia tu Dia</title>
-    <desc>Revista matinal de bolivision de noticias y entretenimiento</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912090000 +0000" stop="20230912095500 +0000" channel="BOLIVISION SCZ HD">
-    <title>Laura</title>
-    <desc>Es un programa de televisión del género talk show, animado por la abogada Laura Bozzo</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912095500 +0000" stop="20230912105500 +0000" channel="BOLIVISION SCZ HD">
-    <title>Mujer Casos de la vida real</title>
-    <desc>Esta serie conmovedora, que en el comienzo fue titulada solamente Casos de la Vida Real, ahora tiene añadido el sustantivo Mujer y como su título lo indica</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912105500 +0000" stop="20230912114500 +0000" channel="BOLIVISION SCZ HD">
-    <title>La Rosa de Guadalupe</title>
-    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe cuenta una historia diferente sobre cada persona y caso</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912114500 +0000" stop="20230912122500 +0000" channel="BOLIVISION SCZ HD">
-    <title>Las mil y una noches</title>
-    <desc>Producción turca. Cuenta la historia de Sherezade y Onur. Ella profesional, viuda con un hijo al que le diagnostican leucemia y para salvarlo acepta la proposición de su jefe (Onur)</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912122500 +0000" stop="20230912140000 +0000" channel="BOLIVISION SCZ HD">
-    <title>Noticiero Al Dia segunda edicion</title>
-    <desc>programa de noticias de la red bolivision con las noticias mas actuales nacionales e internacionales</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912140000 +0000" stop="20230912145000 +0000" channel="BOLIVISION SCZ HD">
-    <title>La Promesa</title>
-    <desc>Producción turca. La familia Tarhun es una familia muy rica y conocida. El padre de la familia, Hikmet, quiere casar a su malcriado e irresponsable hijo Emir</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912145000 +0000" stop="20230912154500 +0000" channel="BOLIVISION SCZ HD">
-    <title>El Amor Invencible</title>
-    <desc>Producción mexicana. Hace quince años, Marena Ramos sufre un percance a manos de Gael Torrenegro, heredero de una de las cervecerías más importantes de México</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912154500 +0000" stop="20230912163500 +0000" channel="BOLIVISION SCZ HD">
-    <title>Como dice el dicho</title>
-    <desc>Teleserie mexicana que recrea historias y situaciones actuales que se asemejan a dichos y refranes comunes y populares.</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912163500 +0000" stop="20230912174000 +0000" channel="BOLIVISION SCZ HD">
-    <title>La Rosa de Guadalupe</title>
-    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe cuenta una historia diferente sobre cada persona y caso</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912174000 +0000" stop="20230912184000 +0000" channel="BOLIVISION SCZ HD">
-    <title>El Legado</title>
-    <desc>Producción turca. Historia de Yaman un hombre de negocios rico y carismático, y Seher que tiene una vida inocente y modesta</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912184000 +0000" stop="20230912194000 +0000" channel="BOLIVISION SCZ HD">
-    <title>Elif</title>
-    <desc>Producción turca. Melek era una empleada que se enamoró de Kenan, el primogénito de la familia rica para la que trabajaba. Kenan también se enamoró de ella</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912194000 +0000" stop="20230912203000 +0000" channel="BOLIVISION SCZ HD">
-    <title>Fugitiva</title>
-    <desc>Producción turca. Narra la historia de Nefes, una mujer que se casó muy joven cuando fue vendida por su padre, a un empresario quien la mantuvo cautiva en una mansión</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912203000 +0000" stop="20230912220000 +0000" channel="BOLIVISION SCZ HD">
-    <title>Noticiero Al dia Central</title>
-    <desc>Central de noticias de bolivision con los temas actuales de bolivia y del mundo</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912220000 +0000" stop="20230912000000 +0000" channel="BOLIVISION SCZ HD">
-    <title>Aqui en Vivo</title>
-    <desc>Revista nocturna de entrenimiento y con las noticias mas actuales y relevantes de la jornada</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912000000 +0000" stop="20230912020000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Creer es Poder</title>
-    <desc>Progrma religioso para poder formar una fe fuerte por dios</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912020000 +0000" stop="20230912030000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>NCI navy</title>
-    <desc>La serie sigue a un grupo de agentes federales del equipo de respuesta en casos principales del servicio de investigación criminologia naval</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912030000 +0000" stop="20230912040000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Al Extremo</title>
-    <desc>Producción mexicana, con noticias impactantes, historias extremas, asombrosas, sorprendentes y audaces, especialmente de Estados Unidos y México.</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912040000 +0000" stop="20230912060000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Creer es Poder</title>
-    <desc>Progrma religioso para poder formar una fe fuerte por dios</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912060000 +0000" stop="20230912090000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Al Dia tu Dia</title>
-    <desc>Revista matinal de bolivision de noticias y entretenimiento</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912090000 +0000" stop="20230912095500 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Laura</title>
-    <desc>Es un programa de televisión del género talk show, animado por la abogada Laura Bozzo</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912095500 +0000" stop="20230912105500 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Mujer Casos de la vida real</title>
-    <desc>Esta serie conmovedora, que en el comienzo fue titulada solamente Casos de la Vida Real, ahora tiene añadido el sustantivo Mujer y como su título lo indica</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912105500 +0000" stop="20230912114500 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>La Rosa de Guadalupe</title>
-    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe cuenta una historia diferente sobre cada persona y caso</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912114500 +0000" stop="20230912122500 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Las mil y una noches</title>
-    <desc>Producción turca. Cuenta la historia de Sherezade y Onur. Ella profesional, viuda con un hijo al que le diagnostican leucemia y para salvarlo acepta la proposición de su jefe (Onur)</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912122500 +0000" stop="20230912140000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Noticiero Al Dia segunda edicion</title>
-    <desc>programa de noticias de la red bolivision con las noticias mas actuales nacionales e internacionales</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912140000 +0000" stop="20230912145000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>La Promesa</title>
-    <desc>Producción turca. La familia Tarhun es una familia muy rica y conocida. El padre de la familia, Hikmet, quiere casar a su malcriado e irresponsable hijo Emir</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912145000 +0000" stop="20230912154500 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>El Amor Invencible</title>
-    <desc>Producción mexicana. Hace quince años, Marena Ramos sufre un percance a manos de Gael Torrenegro, heredero de una de las cervecerías más importantes de México</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912154500 +0000" stop="20230912163500 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Como dice el dicho</title>
-    <desc>Teleserie mexicana que recrea historias y situaciones actuales que se asemejan a dichos y refranes comunes y populares.</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912163500 +0000" stop="20230912174000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>La Rosa de Guadalupe</title>
-    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe cuenta una historia diferente sobre cada persona y caso</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912174000 +0000" stop="20230912184000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>El Legado</title>
-    <desc>Producción turca. Historia de Yaman un hombre de negocios rico y carismático, y Seher que tiene una vida inocente y modesta</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912184000 +0000" stop="20230912194000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Elif</title>
-    <desc>Producción turca. Melek era una empleada que se enamoró de Kenan, el primogénito de la familia rica para la que trabajaba. Kenan también se enamoró de ella</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912194000 +0000" stop="20230912203000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Fugitiva</title>
-    <desc>Producción turca. Narra la historia de Nefes, una mujer que se casó muy joven cuando fue vendida por su padre, a un empresario quien la mantuvo cautiva en una mansión</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912203000 +0000" stop="20230912220000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Noticiero Al dia Central</title>
-    <desc>Central de noticias de bolivision con los temas actuales de bolivia y del mundo</desc>
-    <country lang="bo">bolivia</country>
-  </programme>
-  <programme start="20230912220000 +0000" stop="20230912000000 +0000" channel="BOLIVISION BOLIVIA HD">
-    <title>Aqui en Vivo</title>
-    <desc>Revista nocturna de entrenimiento y con las noticias mas actuales y relevantes de la jornada</desc>
-    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
   </programme>
 </tv>
