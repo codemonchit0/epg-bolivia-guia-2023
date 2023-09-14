@@ -5,6 +5,11 @@
     <url>https://www.reduno.com.bo</url>
     <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" />
   </channel>
+  <channel id="ATB BOLIVIA">
+    <display-name>ATB Bolivia</display-name>
+    <url>https://www.atb.com.bo</url>
+    <icon src="https://i.postimg.cc/D0rb4tL7/ATB-BOLIVIA-HD-NEW.jpg" />
+  </channel>
   <programme start="20230913000000 +0000" stop="20230913010000 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
@@ -490,5 +495,680 @@
     <desc>ASHFALL</desc>
     <country lang="bo">bolivia</country>
     <category lang="es">programacion sabado</category>
+  </programme>
+
+  <programme start="20230914010000 +0000" stop="20230914060000 +0000" channel="ATB BOLIVIA">
+    <title>Sector nocturno de Peliculas</title>
+    <desc>Cartelera de peliculas variadas y entrenemiento</desc>
+    <icon src="https://i.postimg.cc/zXcf9sFR/PELICULAS-SECTOR-NOCTURNO.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914060000 +0000" stop="20230914111500 +0000" channel="ATB BOLIVIA">
+    <title>La Primera de ATB</title>
+    <desc>Revista informativa y de entrenimiento matinal de ATB</desc>
+    <icon src="https://i.postimg.cc/xdpRCcdg/la-primera-noticias-de-atb.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914111500 +0000" stop="20230914120000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se anuncian variados productos comerciales</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914120000 +0000" stop="20230914134500 +0000" channel="ATB BOLIVIA">
+    <title>Anoticiando</title>
+    <desc>Sector informativo de ATB donde se tratan las noticias mas importanes que se genero transcurso la jornada</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914134500 +0000" stop="20230914135000 +0000" channel="ATB BOLIVIA">
+    <title>Magica Aventura</title>
+    <desc>Programa documental donde se trata distintas tematicas informativas de bolivia</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914135000 +0000" stop="20230914143500 +0000" channel="ATB BOLIVIA">
+    <title>Futbol Mania Bolivia</title>
+    <desc>Programa deportivo local de trata temas del deporte tanto de bolivia y del mundo</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914143500 +0000" stop="20230914150500 +0000" channel="ATB BOLIVIA">
+    <title>Medicina al Rescate</title>
+    <desc>Espacio donde se difunde consejos de medicina en general y donde se tratan problematicas de la salud cotidianas</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914150500 +0000" stop="20230914155000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se anuncian variados productos comerciales</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914155000 +0000" stop="20230914163500 +0000" channel="ATB BOLIVIA">
+    <title>ATB de Fiesta</title>
+    <desc>programa de atb de entretenimiento</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914163500 +0000" stop="20230914164000 +0000" channel="ATB BOLIVIA">
+    <title>Territorio Geek</title>
+    <desc>programa de atb de entretenimiento de la cultura geek</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914164000 +0000" stop="20230914165000 +0000" channel="ATB BOLIVIA">
+    <title>Generacion Asia</title>
+    <desc>Programa de entrenimiento donde se toca temas de la cultura asiatica, k-pop, anime y manga</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914165000 +0000" stop="20230914170000 +0000" channel="ATB BOLIVIA">
+    <title>PICA</title>
+    <desc>Programa de atb de entrenimiento infantil</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914170000 +0000" stop="20230914180000 +0000" channel="ATB BOLIVIA">
+    <title>ATB NOTICIAS</title>
+    <desc>Programa de noticias del ambito nacional e internacional</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914180000 +0000" stop="20230914190000 +0000" channel="ATB BOLIVIA">
+    <title>Mi casa es tu casa</title>
+    <desc>Programa de entrenimiento familiar de concursos y presentacion en vivo de grupos musicales</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914190000 +0000" stop="20230914210000 +0000" channel="ATB BOLIVIA">
+    <title>ATB NOTICIAS EDICION CENTRAL</title>
+    <desc>Edicion central de atb Noticias</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914210000 +0000" stop="20230914213000 +0000" channel="ATB BOLIVIA">
+    <title>ATB Fiesta</title>
+    <desc>Programa de atb de entrenimiento</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914213000 +0000" stop="20230914230000 +0000" channel="ATB BOLIVIA">
+    <title>Entre Lineas</title>
+    <desc>Revista nocturna donde se tratan las principales noticias relelantes del ambito nacional e internacional</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914230000 +0000" stop="20230915000000 +0000" channel="ATB BOLIVIA">
+    <title>El Alargue</title>
+    <desc>Proprama nocturno deportivo donde se tratan los temas importanes del deporte nacional e internacional</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915000000 +0000" stop="20230915010000 +0000" channel="ATB BOLIVIA">
+    <title>ATB NOTICIAS REPRIS</title>
+    <desc>Repris de atb noticias con las noticias mas importantes de la jornada</desc>
+    <icon src="https://i.postimg.cc/zXcf9sFR/PELICULAS-SECTOR-NOCTURNO.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915010000 +0000" stop="20230915060000 +0000" channel="ATB BOLIVIA">
+    <title>Sector nocturno de Peliculas</title>
+    <desc>Cartelera de peliculas variadas y entrenemiento</desc>
+    <icon src="https://i.postimg.cc/zXcf9sFR/PELICULAS-SECTOR-NOCTURNO.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915060000 +0000" stop="20230915111500 +0000" channel="ATB BOLIVIA">
+    <title>La Primera de ATB</title>
+    <desc>Revista informativa y de entrenimiento matinal de ATB</desc>
+    <icon src="https://i.postimg.cc/xdpRCcdg/la-primera-noticias-de-atb.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915111500 +0000" stop="20230915120000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se anuncian variados productos comerciales</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915120000 +0000" stop="20230915134500 +0000" channel="ATB BOLIVIA">
+    <title>Anoticiando</title>
+    <desc>Sector informativo de ATB donde se tratan las noticias mas importanes que se genero transcurso la jornada</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915134500 +0000" stop="20230915135000 +0000" channel="ATB BOLIVIA">
+    <title>Magica Aventura</title>
+    <desc>Programa documental donde se trata distintas tematicas informativas de bolivia</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915135000 +0000" stop="20230915143500 +0000" channel="ATB BOLIVIA">
+    <title>Futbol Mania Bolivia</title>
+    <desc>Programa deportivo local de trata temas del deporte tanto de bolivia y del mundo</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915143500 +0000" stop="20230915150500 +0000" channel="ATB BOLIVIA">
+    <title>Medicina al Rescate</title>
+    <desc>Espacio donde se difunde consejos de medicina en general y donde se tratan problematicas de la salud cotidianas</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915150500 +0000" stop="20230915155000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se anuncian variados productos comerciales</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915155000 +0000" stop="20230915163500 +0000" channel="ATB BOLIVIA">
+    <title>ATB de Fiesta</title>
+    <desc>programa de atb de entretenimiento</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915163500 +0000" stop="20230915164000 +0000" channel="ATB BOLIVIA">
+    <title>Territorio Geek</title>
+    <desc>programa de atb de entretenimiento de la cultura geek</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915164000 +0000" stop="20230915165000 +0000" channel="ATB BOLIVIA">
+    <title>Generacion Asia</title>
+    <desc>Programa de entrenimiento donde se toca temas de la cultura asiatica, k-pop, anime y manga</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915165000 +0000" stop="20230915170000 +0000" channel="ATB BOLIVIA">
+    <title>PICA</title>
+    <desc>Programa de atb de entrenimiento infantil</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915170000 +0000" stop="20230915180000 +0000" channel="ATB BOLIVIA">
+    <title>ATB NOTICIAS</title>
+    <desc>Programa de noticias del ambito nacional e internacional</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915180000 +0000" stop="20230915190000 +0000" channel="ATB BOLIVIA">
+    <title>Mi casa es tu casa</title>
+    <desc>Programa de entrenimiento familiar de concursos y presentacion en vivo de grupos musicales</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915190000 +0000" stop="20230915210000 +0000" channel="ATB BOLIVIA">
+    <title>ATB NOTICIAS EDICION CENTRAL</title>
+    <desc>Edicion central de atb Noticias</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915210000 +0000" stop="20230915213000 +0000" channel="ATB BOLIVIA">
+    <title>ATB Fiesta</title>
+    <desc>Programa de atb de entrenimiento</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915213000 +0000" stop="20230915230000 +0000" channel="ATB BOLIVIA">
+    <title>Entre Lineas</title>
+    <desc>Revista nocturna donde se tratan las principales noticias relelantes del ambito nacional e internacional</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915230000 +0000" stop="20230916000000 +0000" channel="ATB BOLIVIA">
+    <title>El Alargue</title>
+    <desc>Proprama nocturno deportivo donde se tratan los temas importanes del deporte nacional e internacional</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230916000000 +0000" stop="20230916010000 +0000" channel="ATB BOLIVIA">
+    <title>ATB NOTICIAS REPRIS</title>
+    <desc>Repris de atb noticias con las noticias mas importantes de la jornada</desc>
+    <icon src="https://i.postimg.cc/zXcf9sFR/PELICULAS-SECTOR-NOCTURNO.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230916010000 +0000" stop="20230916063000 +0000" channel="ATB BOLIVIA">
+    <title>ATB DE PELICULA</title>
+    <desc>sector con las mejores peliculas y estrenos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916063000 +0000" stop="20230916070000 +0000" channel="ATB BOLIVIA">
+    <title>El gato con botas</title>
+    <desc>Serie infantil del gato con botas</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916070000 +0000" stop="20230916073000 +0000" channel="ATB BOLIVIA">
+    <title>Red cima</title>
+    <desc>Programa de atb</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916073000 +0000" stop="20230916080000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector de oferta variada de productos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916080000 +0000" stop="20230916090000 +0000" channel="ATB BOLIVIA">
+    <title>Bolivia Emprende</title>
+    <desc>Sector donde se da difusion y gestion de emprendimientos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916090000 +0000" stop="20230916093000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se ofertan distintos productos de consumo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916093000 +0000" stop="20230916103000 +0000" channel="ATB BOLIVIA">
+    <title>AD HOC</title>
+    <desc>Programa de atb bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916103000 +0000" stop="20230916110000 +0000" channel="ATB BOLIVIA">
+    <title>PICA</title>
+    <desc>Programa de atb bolivia matinal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916110000 +0000" stop="20230916113000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se ofertan productos empresariales variados</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916113000 +0000" stop="20230916120000 +0000" channel="ATB BOLIVIA">
+    <title>El Gato con botas</title>
+    <desc>serie infantil del gato con botas por atb red nacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916120000 +0000" stop="20230916130000 +0000" channel="ATB BOLIVIA">
+    <title>Contame</title>
+    <desc>Revista de fin de semana de atb</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916130000 +0000" stop="20230916140000 +0000" channel="ATB BOLIVIA">
+    <title>ATB Noticias</title>
+    <desc>Noticias de fin de semana de la red atb bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916140000 +0000" stop="20230916143000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se promociona productos variados</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916143000 +0000" stop="20230916153000 +0000" channel="ATB BOLIVIA">
+    <title>Crack TV</title>
+    <desc>programa de la red atb bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916153000 +0000" stop="20230916163000 +0000" channel="ATB BOLIVIA">
+    <title>Love That Makes You Cry</title>
+    <desc>programa de la red atb bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916163000 +0000" stop="20230916180000 +0000" channel="ATB BOLIVIA">
+    <title>Pura Energia</title>
+    <desc>Programa boliviano exclusico que trata del deporte tuerca de nuestro pais y del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916180000 +0000" stop="20230916190000 +0000" channel="ATB BOLIVIA">
+    <title>ATB sonrisas te de</title>
+    <desc>Programa de atb bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916190000 +0000" stop="20230916200000 +0000" channel="ATB BOLIVIA">
+    <title>Embajadas y embajadores</title>
+    <desc>Programa que trata de las politicas y temas de las embajas tanto en bolivia y del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916200000 +0000" stop="20230916220000 +0000" channel="ATB BOLIVIA">
+    <title>ATB de Pelicula</title>
+    <desc>Estrenos de las mejores peliculas tanto nacionales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916220000 +0000" stop="20230916233000 +0000" channel="ATB BOLIVIA">
+    <title>Sin filtro</title>
+    <desc>Programa de atb bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230916233000 +0000" stop="20230917063000 +0000" channel="ATB BOLIVIA">
+    <title>ATB DE PELICULA NOCTURNO</title>
+    <desc>Sector nocturno donde podras ver las mejores peliculas del momento</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0QX2mqFY/02-SECTOR-PELICULAS-ATB.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>  
+
+  <programme start="20230917063000 +0000" stop="20230917070000 +0000" channel="ATB BOLIVIA">
+    <title>El gato con botas</title>
+    <desc>serie infantil del gato con botas</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917070000 +0000" stop="20230917073000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se anuncian los mejores productos comerciales para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917073000 +0000" stop="20230917083000 +0000" channel="ATB BOLIVIA">
+    <title>Bolivia Emprende</title>
+    <desc>Sector donde se da a conocer a los emprendimientos de bolivia y donde se le da su respectiva promocion</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917083000 +0000" stop="20230917090000 +0000" channel="ATB BOLIVIA">
+    <title>Promo TV</title>
+    <desc>Sector donde se anuncian los mejores productos comerciales para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917090000 +0000" stop="20230917100000 +0000" channel="ATB BOLIVIA">
+    <title>Red tv te conecta</title>
+    <desc>Programa de la red atb bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917100000 +0000" stop="20230917103000 +0000" channel="ATB BOLIVIA">
+    <title>Promo TV</title>
+    <desc>Sector donde se anuncian los mejores productos comerciales para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917103000 +0000" stop="20230917110000 +0000" channel="ATB BOLIVIA">
+    <title>Guerreros invencibles</title>
+    <desc>Programa de la red atb de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917110000 +0000" stop="20230917130000 +0000" channel="ATB BOLIVIA">
+    <title>Sala ViB</title>
+    <desc>Programa de la red atb de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917130000 +0000" stop="20230917133000 +0000" channel="ATB BOLIVIA">
+    <title>Magica Aventura</title>
+    <desc>Programa documental donde se toca los tema de amazonia y medio ambiente dandonde un efoce humano</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917133000 +0000" stop="20230917143000 +0000" channel="ATB BOLIVIA">
+    <title>Generacion Z</title>
+    <desc>Programa juvenil de la red atb bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917143000 +0000" stop="20230917150000 +0000" channel="ATB BOLIVIA">
+    <title>Promo TV</title>
+    <desc>Sector donde se anuncian los mejores productos comerciales para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917150000 +0000" stop="20230917170000 +0000" channel="ATB BOLIVIA">
+    <title>Feat TV</title>
+    <desc>Programa de la red atb bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917170000 +0000" stop="20230917183000 +0000" channel="ATB BOLIVIA">
+    <title>Emprendedores</title>
+    <desc>Programa de la red atb bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917183000 +0000" stop="20230917193000 +0000" channel="ATB BOLIVIA">
+    <title>ATB Noticias edicion nocturna</title>
+    <desc>Noticias de fin de semana con los temas mas importanes locales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917193000 +0000" stop="20230917203500 +0000" channel="ATB BOLIVIA">
+    <title>Futbol Mania</title>
+    <desc>Sector deportivo de fin de semana con las noticia mas importantes del deporte actual</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917203500 +0000" stop="20230917212500 +0000" channel="ATB BOLIVIA">
+    <title>Magnun</title>
+    <desc>Serie televisiva de atb red nacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917212500 +0000" stop="20230917230000 +0000" channel="ATB BOLIVIA">
+    <title>Asi Baila Bolivia</title>
+    <desc>Programa reality de bailes en grupo de entretenimiento familiar</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20230917230000 +0000" stop="20230918000000 +0000" channel="ATB BOLIVIA">
+    <title>Contame</title>
+    <desc>Programa reality de bailes en grupo de entretenimiento familiar</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+
+  <programme start="20230918000000 +0000" stop="20230918060000 +0000" channel="ATB BOLIVIA">
+    <title>Sector nocturno de Peliculas</title>
+    <desc>Cartelera de peliculas variadas y entrenemiento</desc>
+    <icon src="https://i.postimg.cc/zXcf9sFR/PELICULAS-SECTOR-NOCTURNO.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918060000 +0000" stop="20230918111500 +0000" channel="ATB BOLIVIA">
+    <title>La Primera de ATB</title>
+    <desc>Revista informativa y de entrenimiento matinal de ATB</desc>
+    <icon src="https://i.postimg.cc/xdpRCcdg/la-primera-noticias-de-atb.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918111500 +0000" stop="20230918120000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se anuncian variados productos comerciales</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918120000 +0000" stop="20230918134500 +0000" channel="ATB BOLIVIA">
+    <title>Anoticiando</title>
+    <desc>Sector informativo de ATB donde se tratan las noticias mas importanes que se genero transcurso la jornada</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918134500 +0000" stop="20230918135000 +0000" channel="ATB BOLIVIA">
+    <title>Magica Aventura</title>
+    <desc>Programa documental donde se trata distintas tematicas informativas de bolivia</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918135000 +0000" stop="20230918143500 +0000" channel="ATB BOLIVIA">
+    <title>Futbol Mania Bolivia</title>
+    <desc>Programa deportivo local de trata temas del deporte tanto de bolivia y del mundo</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918143500 +0000" stop="20230918150500 +0000" channel="ATB BOLIVIA">
+    <title>Medicina al Rescate</title>
+    <desc>Espacio donde se difunde consejos de medicina en general y donde se tratan problematicas de la salud cotidianas</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918150500 +0000" stop="20230918155000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se anuncian variados productos comerciales</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918155000 +0000" stop="20230918163500 +0000" channel="ATB BOLIVIA">
+    <title>ATB de Fiesta</title>
+    <desc>programa de atb de entretenimiento</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918163500 +0000" stop="20230918164000 +0000" channel="ATB BOLIVIA">
+    <title>Territorio Geek</title>
+    <desc>programa de atb de entretenimiento de la cultura geek</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918164000 +0000" stop="20230918165000 +0000" channel="ATB BOLIVIA">
+    <title>Generacion Asia</title>
+    <desc>Programa de entrenimiento donde se toca temas de la cultura asiatica, k-pop, anime y manga</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918165000 +0000" stop="20230918170000 +0000" channel="ATB BOLIVIA">
+    <title>PICA</title>
+    <desc>Programa de atb de entrenimiento infantil</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918170000 +0000" stop="20230918180000 +0000" channel="ATB BOLIVIA">
+    <title>ATB NOTICIAS</title>
+    <desc>Programa de noticias del ambito nacional e internacional</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918180000 +0000" stop="20230918190000 +0000" channel="ATB BOLIVIA">
+    <title>Mi casa es tu casa</title>
+    <desc>Programa de entrenimiento familiar de concursos y presentacion en vivo de grupos musicales</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918190000 +0000" stop="20230918210000 +0000" channel="ATB BOLIVIA">
+    <title>ATB NOTICIAS EDICION CENTRAL</title>
+    <desc>Edicion central de atb Noticias</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918210000 +0000" stop="20230918213000 +0000" channel="ATB BOLIVIA">
+    <title>ATB Fiesta</title>
+    <desc>Programa de atb de entrenimiento</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918213000 +0000" stop="20230918230000 +0000" channel="ATB BOLIVIA">
+    <title>Entre Lineas</title>
+    <desc>Revista nocturna donde se tratan las principales noticias relelantes del ambito nacional e internacional</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918230000 +0000" stop="20230919000000 +0000" channel="ATB BOLIVIA">
+    <title>El Alargue</title>
+    <desc>Proprama nocturno deportivo donde se tratan los temas importanes del deporte nacional e internacional</desc>
+    <icon src="https://i.postimg.cc/gk52qgFq/atb-imagen-icono-de-programas.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230919000000 +0000" stop="20230919010000 +0000" channel="ATB BOLIVIA">
+    <title>ATB NOTICIAS REPRIS</title>
+    <desc>Repris de atb noticias con las noticias mas importantes de la jornada</desc>
+    <icon src="https://i.postimg.cc/zXcf9sFR/PELICULAS-SECTOR-NOCTURNO.jpg"/>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
 </tv>
