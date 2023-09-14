@@ -10,6 +10,11 @@
     <url>https://www.atb.com.bo</url>
     <icon src="https://i.postimg.cc/D0rb4tL7/ATB-BOLIVIA-HD-NEW.jpg" />
   </channel>
+  <channel id="RTP LPZ HD">
+    <display-name>RTP radio television popular</display-name>
+    <url>https://rtpbolivia.com.bo</url>
+    <icon src="https://i.ibb.co/mC3q3wm/RTP-LA-PAZ-HD.jpg" />
+  </channel>
   <programme start="20230913000000 +0000" stop="20230913010000 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
@@ -1169,6 +1174,565 @@
     <desc>Repris de atb noticias con las noticias mas importantes de la jornada</desc>
     <icon src="https://i.postimg.cc/zXcf9sFR/PELICULAS-SECTOR-NOCTURNO.jpg"/>
     <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="20230914000000 +0000" stop="20230914053000 +0000" channel="RTP LPZ HD">
+    <title>Info comerciales productos variados</title>
+    <desc>Muestrario de variados productos de consumo general para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+    <review type="text">Ratings: 4.</review>
+  </programme>
+  <programme start="20230914063000 +0000" stop="20230914090000 +0000" channel="RTP LPZ HD">
+    <title>RTP informa edicion matinal</title>
+    <desc>Noticiero RTP donde se trata las noticias que incian en la primera hora del dia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914090000 +0000" stop="20230914113000 +0000" channel="RTP LPZ HD">
+    <title>La Wislla Popular</title>
+    <desc>Revista matinal de entrenimiento y de grupos musicales en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914113000 +0000" stop="20230914123000 +0000" channel="RTP LPZ HD">
+    <title>La Tribuna libre de pueblo</title>
+    <desc>Es un espacio donde la gente puede poner una denuncia barrial, anunciar el extravio de un menor o de un adulto mayor; alertar la pérdida de documentos y de mascotas y concientiza al publico sobre la importancia del cuidado del medio ambiente, lleva ya 35 años al aire</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914123000 +0000" stop="20230914130000 +0000" channel="RTP LPZ HD">
+    <title>El Equipo Deportivo</title>
+    <desc>Programa deportivo local que trata temas de deportes variados del ambito boliviano e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914130000 +0000" stop="20230914140000 +0000" channel="RTP LPZ HD">
+    <title>Noticiero Popular</title>
+    <desc>Programa noticioso de edicion meridiana que trata los temas mas importanes locales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914140000 +0000" stop="20230914153000 +0000" channel="RTP LPZ HD">
+    <title>Los Principales</title>
+    <desc>Primer informativo boliviano a nivel nacional especializado en espectáculo y folklore de la televisión en Bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914153000 +0000" stop="20230914170000 +0000" channel="RTP LPZ HD">
+    <title>El Gustito Boliviano</title>
+    <desc>Programa de television de entretenimiento familiar y de grupos musicales en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914170000 +0000" stop="20230914180000 +0000" channel="RTP LPZ HD">
+    <title>Tu Top</title>
+    <desc>Programa juvenil de entretenimiento musical con grupos en vivo y concursos</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914180000 +0000" stop="20230914190000 +0000" channel="RTP LPZ HD">
+    <title>El equipo Deportivo</title>
+    <desc>Programa deportivo local que trata de deportes variados del ambito boliviano e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914190000 +0000" stop="20230914200000 +0000" channel="RTP LPZ HD">
+    <title>Lucha de Caceras</title>
+    <desc>Primer programa reality de la television Boliviana, donde las principales protagonistas son las caseras de mercados populares</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914200000 +0000" stop="20230914210000 +0000" channel="RTP LPZ HD">
+    <title>Noticiero Popular Edicion Central</title>
+    <desc>Noticiero central de RTP donde se tocan los temas mas importantes que se vio en la jornada local e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914210000 +0000" stop="20230914220000 +0000" channel="RTP LPZ HD">
+    <title>Tomando El Pulso</title>
+    <desc>Revista nocturna donde se toca temas de impacto informativo, con las noticias mas relevantes y entrevistas</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914220000 +0000" stop="20230914230000 +0000" channel="RTP LPZ HD">
+    <title>ClarOscuro</title>
+    <desc>la revista Claroscuro tiene el objetivo de construir la noticia más destacada del día y hacer una revisión de los antecedentes, la coyuntura, los posibles escenarios futuros y, sobre todo, darle miradas desde diferentes ángulos a la temática.</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230914230000 +0000" stop="20230915000000 +0000" channel="RTP LPZ HD">
+    <title>Telepolicial</title>
+    <desc>El Telepolicial, es el primer programa de la television boliviana de crónica roja que se difunde por Radio Televisión Popular (RTP) y que sigue al aire despues de 30 años</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="202309150000000 +0000" stop="20230915053000 +0000" channel="RTP LPZ HD">
+    <title>Info comerciales productos variados</title>
+    <desc>Muestrario de variados productos de consumo general para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+    <review type="text">Ratings: 4.</review>
+  </programme>
+  <programme start="20230915063000 +0000" stop="20230915090000 +0000" channel="RTP LPZ HD">
+    <title>RTP informa edicion matinal</title>
+    <desc>Noticiero RTP donde se trata las noticias que incian en la primera hora del dia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915090000 +0000" stop="20230915113000 +0000" channel="RTP LPZ HD">
+    <title>La Wislla Popular</title>
+    <desc>Revista matinal de entrenimiento y de grupos musicales en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915113000 +0000" stop="20230915123000 +0000" channel="RTP LPZ HD">
+    <title>La Tribuna libre de pueblo</title>
+    <desc>Es un espacio donde la gente puede poner una denuncia barrial, anunciar el extravio de un menor o de un adulto mayor; alertar la pérdida de documentos y de mascotas y concientiza al publico sobre la importancia del cuidado del medio ambiente, lleva ya 35 años al aire</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915123000 +0000" stop="20230915130000 +0000" channel="RTP LPZ HD">
+    <title>El Equipo Deportivo</title>
+    <desc>Programa deportivo local que trata temas de deportes variados del ambito boliviano e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915130000 +0000" stop="20230915140000 +0000" channel="RTP LPZ HD">
+    <title>Noticiero Popular</title>
+    <desc>Programa noticioso de edicion meridiana que trata los temas mas importanes locales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915140000 +0000" stop="20230915153000 +0000" channel="RTP LPZ HD">
+    <title>Los Principales</title>
+    <desc>Primer informativo boliviano a nivel nacional especializado en espectáculo y folklore de la televisión en Bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915153000 +0000" stop="20230915170000 +0000" channel="RTP LPZ HD">
+    <title>El Gustito Boliviano</title>
+    <desc>Programa de television de entretenimiento familiar y de grupos musicales en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915170000 +0000" stop="20230915180000 +0000" channel="RTP LPZ HD">
+    <title>Tu Top</title>
+    <desc>Programa juvenil de entretenimiento musical con grupos en vivo y concursos</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915180000 +0000" stop="20230915190000 +0000" channel="RTP LPZ HD">
+    <title>El equipo Deportivo</title>
+    <desc>Programa deportivo local que trata de deportes variados del ambito boliviano e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915190000 +0000" stop="20230915200000 +0000" channel="RTP LPZ HD">
+    <title>Lucha de Caceras</title>
+    <desc>Primer programa reality de la television Boliviana, donde las principales protagonistas son las caseras de mercados populares</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915200000 +0000" stop="20230915210000 +0000" channel="RTP LPZ HD">
+    <title>Noticiero Popular Edicion Central</title>
+    <desc>Noticiero central de RTP donde se tocan los temas mas importantes que se vio en la jornada local e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915210000 +0000" stop="20230915220000 +0000" channel="RTP LPZ HD">
+    <title>Tomando El Pulso</title>
+    <desc>Revista nocturna donde se toca temas de impacto informativo, con las noticias mas relevantes y entrevistas</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915220000 +0000" stop="20230915230000 +0000" channel="RTP LPZ HD">
+    <title>ClarOscuro</title>
+    <desc>la revista Claroscuro tiene el objetivo de construir la noticia más destacada del día y hacer una revisión de los antecedentes, la coyuntura, los posibles escenarios futuros y, sobre todo, darle miradas desde diferentes ángulos a la temática.</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915230000 +0000" stop="20230916000000 +0000" channel="RTP LPZ HD">
+    <title>Telepolicial</title>
+    <desc>El Telepolicial, es el primer programa de la television boliviana de crónica roja que se difunde por Radio Televisión Popular (RTP) y que sigue al aire despues de 30 años</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="20230916000000 +0000" stop="20230916053000 +0000" channel="RTP LPZ HD">
+    <title>Info comerciales productos variados</title>
+    <desc>Muestrario de variados productos de consumo general para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+    <review type="text">Ratings: 4.</review>
+  </programme>
+  <programme start="20230916053000 +0000" stop="20230916090000 +0000" channel="RTP LPZ HD">
+    <title>Ritmo Popular</title>
+    <desc>Revista musical folklorica de entrenimiento</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916090000 +0000" stop="20230916100000 +0000" channel="RTP LPZ HD">
+    <title>Su Empresa</title>
+    <desc>Somos un programa de TV especializado en la difusión y promoción de micro, pequeñas y grandes empresa de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916100000 +0000" stop="20230916110000 +0000" channel="RTP LPZ HD">
+    <title>ABC de la Medicina</title>
+    <desc>El ABC de la Medicina se difunde a nivel nacional por la señal de RTP, El programa dedicado a la salud en general, donde da consejos tecnicos en general para que cuidemos nuestra salud</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916110000 +0000" stop="20230916120000 +0000" channel="RTP LPZ HD">
+    <title>Voces Anonimas</title>
+    <desc>Programa de televios de RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916120000 +0000" stop="20230916130000 +0000" channel="RTP LPZ HD">
+    <title>La tribuna libre</title>
+    <desc>Es un espacio donde la gente puede poner una denuncia barrial, anunciar el extravio de un menor o de un adulto mayor; alertar la pérdida de documentos y de mascotas y concientiza al publico sobre la importancia del cuidado del medio ambiente, lleva ya 35 años al aire</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 9.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916130000 +0000" stop="20230916140000 +0000" channel="RTP LPZ HD">
+    <title>Noticiero Popular</title>
+    <desc>Noticiero RTP del dia sabado con las noticias mas importantes de la jornada semanal y actual</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916140000 +0000" stop="20230916153000 +0000" channel="RTP LPZ HD">
+    <title>RTP Mundo</title>
+    <desc>RTP Mundo analiza dos problemáticas que derivan del cambio climático y de la afectación al medioambiente</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916153000 +0000" stop="20230916163000 +0000" channel="RTP LPZ HD">
+    <title>Sabado Estelar</title>
+    <desc>SABÁDO ESTELAR" programa de entretenimiento familiar para todos</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916163000 +0000" stop="20230916173000 +0000" channel="RTP LPZ HD">
+    <title>Desafiados</title>
+    <desc>Programa de entretenimiento familiar de juegos</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916173000 +0000" stop="20230916180000 +0000" channel="RTP LPZ HD">
+    <title>Noticiero Popular</title>
+    <desc>Noticiero RTP del dia sabado con las noticias mas importantes de la jornada semanal y actual</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916180000 +0000" stop="20230916203000 +0000" channel="RTP LPZ HD">
+    <title>Cine RTP</title>
+    <desc>Sector con las mejores peliculas del momento</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916203000 +0000" stop="20230916223000 +0000" channel="RTP LPZ HD">
+    <title>La Wislla Popular</title>
+    <desc>Programa nocturo de entretenimiento y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916223000 +0000" stop="20230917000000 +0000" channel="RTP LPZ HD">
+    <title>Cine Mundo</title>
+    <desc>Cine Mundo, un espacio esperado por todos los cinéfilos y pionero en lo que respecta a los detalles minuciosos del séptimo arte</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+
+  <programme start="20230917000000 +0000" stop="20230917053000 +0000" channel="RTP LPZ HD">
+    <title>Sector info-merciales</title>
+    <desc>espacio donde se anuncian productos para toda la familia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917053000 +0000" stop="20230917090000 +0000" channel="RTP LPZ HD">
+    <title>Ritmo popular</title>
+    <desc>sector de entretenimiento musical nacional de la musica folklorica de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917090000 +0000" stop="20230917100000 +0000" channel="RTP LPZ HD">
+    <title>Markanaru Sarañani</title>
+    <desc>sector de radio television pópular RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917100000 +0000" stop="20230917110000 +0000" channel="RTP LPZ HD">
+    <title>Voces Anonimas</title>
+    <desc>sector de radio television pópular RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917110000 +0000" stop="20230917120000 +0000" channel="RTP LPZ HD">
+    <title>Reporte Rural</title>
+    <desc>sector donde se toma la tematica rural del pais en toda sus noticias y necesidades</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917120000 +0000" stop="20230917130000 +0000" channel="RTP LPZ HD">
+    <title>Domingueando</title>
+    <desc>sector de radio television popular RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917130000 +0000" stop="20230917140000 +0000" channel="RTP LPZ HD">
+    <title>Noticiero Popular RTP</title>
+    <desc>Resumen de noticias semanal RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917140000 +0000" stop="20230917150000 +0000" channel="RTP LPZ HD">
+    <title>RTP MUNDO</title>
+    <desc>Sector de radio television popular RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917150000 +0000" stop="20230917163000 +0000" channel="RTP LPZ HD">
+    <title>CINE RTP</title>
+    <desc>Sector de peliculas y estrenos de la tarde</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917163000 +0000" stop="20230917173000 +0000" channel="RTP LPZ HD">
+    <title>Desafiados</title>
+    <desc>Programa de radio television popular RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917173000 +0000" stop="20230917193000 +0000" channel="RTP LPZ HD">
+    <title>Cine RTP</title>
+    <desc>Programa de radio television popular RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917193000 +0000" stop="20230917203000 +0000" channel="RTP LPZ HD">
+    <title>Lucha de Caseras</title>
+    <desc>Programa de radio television popular RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917203000 +0000" stop="20230917210000 +0000" channel="RTP LPZ HD">
+    <title>espaco sin definir</title>
+    <desc>Programa de radio television popular RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917210000 +0000" stop="20230917213000 +0000" channel="RTP LPZ HD">
+    <title>RTP NOTICIAS</title>
+    <desc>Programa de radio television popular RTP</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917213000 +0000" stop="20230917223000 +0000" channel="RTP LPZ HD">
+    <title>Desacuerdo</title>
+    <desc>Revista de analisis y critica de la coyuntura politica actual del momento</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917223000 +0000" stop="20230917233000 +0000" channel="RTP LPZ HD">
+    <title>El equipo Deportivo</title>
+    <desc>Noticias de fin de semana del ambito deportivo del ambio local e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917233000 +0000" stop="20230918003000 +0000" channel="RTP LPZ HD">
+    <title>Telecasos</title>
+    <desc>Sector nocturno de cronica roja donde se recrea los casos mas importantes de la semana del telepolicial</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+
+
+  <programme start="20230918003000 +0000" stop="20230918063000 +0000" channel="RTP LPZ HD">
+    <title>Info comerciales productos variados</title>
+    <desc>Muestrario de variados productos de consumo general para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+    <review type="text">Ratings: 4.</review>
+  </programme>
+  <programme start="20230918063000 +0000" stop="20230918090000 +0000" channel="RTP LPZ HD">
+    <title>RTP informa edicion matinal</title>
+    <desc>Noticiero RTP donde se trata las noticias que incian en la primera hora del dia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918090000 +0000" stop="20230918113000 +0000" channel="RTP LPZ HD">
+    <title>La Wislla Popular</title>
+    <desc>Revista matinal de entrenimiento y de grupos musicales en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918113000 +0000" stop="20230918123000 +0000" channel="RTP LPZ HD">
+    <title>La Tribuna libre de pueblo</title>
+    <desc>Es un espacio donde la gente puede poner una denuncia barrial, anunciar el extravio de un menor o de un adulto mayor; alertar la pérdida de documentos y de mascotas y concientiza al publico sobre la importancia del cuidado del medio ambiente, lleva ya 35 años al aire</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918123000 +0000" stop="20230918130000 +0000" channel="RTP LPZ HD">
+    <title>El Equipo Deportivo</title>
+    <desc>Programa deportivo local que trata temas de deportes variados del ambito boliviano e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918130000 +0000" stop="20230918140000 +0000" channel="RTP LPZ HD">
+    <title>Noticiero Popular</title>
+    <desc>Programa noticioso de edicion meridiana que trata los temas mas importanes locales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918140000 +0000" stop="20230918153000 +0000" channel="RTP LPZ HD">
+    <title>Los Principales</title>
+    <desc>Primer informativo boliviano a nivel nacional especializado en espectáculo y folklore de la televisión en Bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918153000 +0000" stop="20230918170000 +0000" channel="RTP LPZ HD">
+    <title>El Gustito Boliviano</title>
+    <desc>Programa de television de entretenimiento familiar y de grupos musicales en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918170000 +0000" stop="20230918180000 +0000" channel="RTP LPZ HD">
+    <title>Tu Top</title>
+    <desc>Programa juvenil de entretenimiento musical con grupos en vivo y concursos</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918180000 +0000" stop="20230918190000 +0000" channel="RTP LPZ HD">
+    <title>El equipo Deportivo</title>
+    <desc>Programa deportivo local que trata de deportes variados del ambito boliviano e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918190000 +0000" stop="20230918200000 +0000" channel="RTP LPZ HD">
+    <title>Lucha de Caceras</title>
+    <desc>Primer programa reality de la television Boliviana, donde las principales protagonistas son las caseras de mercados populares</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918200000 +0000" stop="20230918210000 +0000" channel="RTP LPZ HD">
+    <title>Noticiero Popular Edicion Central</title>
+    <desc>Noticiero central de RTP donde se tocan los temas mas importantes que se vio en la jornada local e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918210000 +0000" stop="20230918220000 +0000" channel="RTP LPZ HD">
+    <title>Tomando El Pulso</title>
+    <desc>Revista nocturna donde se toca temas de impacto informativo, con las noticias mas relevantes y entrevistas</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918220000 +0000" stop="20230918230000 +0000" channel="RTP LPZ HD">
+    <title>ClarOscuro</title>
+    <desc>la revista Claroscuro tiene el objetivo de construir la noticia más destacada del día y hacer una revisión de los antecedentes, la coyuntura, los posibles escenarios futuros y, sobre todo, darle miradas desde diferentes ángulos a la temática.</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918230000 +0000" stop="20230919000000 +0000" channel="RTP LPZ HD">
+    <title>Telepolicial</title>
+    <desc>El Telepolicial, es el primer programa de la television boliviana de crónica roja que se difunde por Radio Televisión Popular (RTP) y que sigue al aire despues de 30 años</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 </tv>
