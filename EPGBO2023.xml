@@ -15,6 +15,11 @@
     <url>https://rtpbolivia.com.bo</url>
     <icon src="https://i.ibb.co/mC3q3wm/RTP-LA-PAZ-HD.jpg" />
   </channel>
+  <channel id="BOLIVISION BOLIVIA">
+    <display-name>Bolivision Bolivia HD</display-name>
+    <url>https://www.redbolivision.tv.bo</url>
+    <icon src="https://i.ibb.co/CtDdqVw/NEW-BOLIVISION-HD.jpg" />
+  </channel>
   <programme start="20230913000000 +0000" stop="20230913010000 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
@@ -1733,6 +1738,644 @@
     <desc>El Telepolicial, es el primer programa de la television boliviana de crónica roja que se difunde por Radio Televisión Popular (RTP) y que sigue al aire despues de 30 años</desc>
     <country lang="bo">bolivia</country>
     <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="20230915000000 +0000" stop="20230915020000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Creer es Poder</title>
+    <desc>Programa religioso para solucionar problemas con la fe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915020000 +0000" stop="20230915030000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCI Navy</title>
+    <desc>La serie sigue a un grupo de agentes federales del equipo de respuesta en casos principales del servicio de investigación criminologia naval</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915030000 +0000" stop="20230915040000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Al Extremo</title>
+    <desc>Producción mexicana, con noticias impactantes, historias extremas, asombrosas, sorprendentes y audaces, especialmente de Estados Unidos y México.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915040000 +0000" stop="20230915060000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Creer es Poder</title>
+    <desc>Programa religioso para solucionar problemas con ayuda de la fe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915060000 +0000" stop="20230915090000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Al Dia tu Dia</title>
+    <desc>Revista manital de noticias y entrenimiento de la red bolivision</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915090000 +0000" stop="20230915095500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Laura</title>
+    <desc>Es un programa de televisión del género talk show, animado por la abogada Laura Bozzo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915095500 +0000" stop="20230915105500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Mujer Casos de la vida Real</title>
+    <desc>Esta serie conmovedora, que en el comienzo fue titulada solamente Casos de la Vida Real, ahora tiene añadido el sustantivo Mujer y como su título lo indica</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915105500 +0000" stop="20230915114500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La rosa de guadalupe</title>
+    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915114500 +0000" stop="20230915122500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Las mil y una noches</title>
+    <desc>Producción turca. Cuenta la historia de Sherezade y Onur. Ella profesional, viuda con un hijo al que le diagnostican leucemia y para salvarlo acepta la proposición de su jefe (Onur)</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915122500 +0000" stop="20230915140000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero al dia segunda edicion</title>
+    <desc>Noticiero de medio de la red bolivision que trata las noticias mas importantes de la mañana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915140000 +0000" stop="20230915145000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La promesa</title>
+    <desc>Producción turca. La familia Tarhun es una familia muy rica y conocida. El padre de la familia, Hikmet, quiere casar a su malcriado e irresponsable hijo Emir</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915145000 +0000" stop="20230915154500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>El amor invencible</title>
+    <desc>Producción mexicana. Hace quince años, Marena Ramos sufre un percance a manos de Gael Torrenegro, heredero de una de las cervecerías más importantes de México</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915154500 +0000" stop="20230915163500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Como dice el dicho</title>
+    <desc>Teleserie mexicana que recrea historias y situaciones actuales que se asemejan a dichos y refranes comunes y populares</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915163500 +0000" stop="20230915174000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La Rosa de Guadalupe</title>
+    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915174000 +0000" stop="20230915184000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>El Legado</title>
+    <desc>Producción turca. Historia de Yaman un hombre de negocios rico y carismático, y Seher que tiene una vida inocente y modesta</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915184000 +0000" stop="20230915194000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Elif</title>
+    <desc>Producción turca. Melek era una empleada que se enamoró de Kenan, el primogénito de la familia rica para la que trabajaba. Kenan también se enamoró de ella</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915194000 +0000" stop="20230915203000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Fugitiva</title>
+    <desc>Producción turca. Narra la historia de Nefes, una mujer que se casó muy joven cuando fue vendida por su padre</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915203000 +0000" stop="20230915220000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero al dia edicion central</title>
+    <desc>Sector noticiero de bolivision con las noticias del momento del ambito local e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230915220000 +0000" stop="20230916000000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Aquien En Vivo</title>
+    <desc>Revista Nocturna donde se tratan los temas mas importantes de la jornada y donde se presentan grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="20230916000000 +0000" stop="20230916020000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Espacio pagado</title>
+    <desc>espacio pagado de la red bolivision</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>  
+  <programme start="20230916020000 +0000" stop="20230916023000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Una luz en tu camino</title>
+    <desc>programa de la red bolivision</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916023000 +0000" stop="20230916040000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Extant</title>
+    <desc>Molly Woods (Halle Berry) es una astronauta que regresa a la Tierra tras pasar un año en el espacio debido a una misión en solitario.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916040000 +0000" stop="20230916060000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Espacio Pagado</title>
+    <desc>Espacio pagado de la red bolivision</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916060000 +0000" stop="20230916063000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>1-2-3 Vamos</title>
+    <desc>Serie animada, educativa y de ciencia ficción. Sucesor de Plaza Sésamo, en la que participan algunos muppets originales y únicos de esta serie</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916063000 +0000" stop="20230916070000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Magazine UCL</title>
+    <desc>programa de la red bolivision</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916070000 +0000" stop="20230916073000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>FILARMONICA DE VIENA</title>
+    <desc>Espacio con los mejores conciertos sinfonicos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916073000 +0000" stop="20230916074500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Duda y dada</title>
+    <desc>Duda, un topo de 6 años, solía vivir bajo tierra hasta que un día, se atreve a salir. Para Duda, todo sobre el “bosque desconocido” es emocionante y nuevo.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916074500 +0000" stop="20230916081500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Dino Ranch</title>
+    <desc>Dino Ranch sigue las aventuras llenas de acción de la familia Cassidy como enfrentarse a la vida en un mundo prehistórico fantástico por donde los dinosaurios todavía pasean.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916081500 +0000" stop="20230916085000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Hold on Tight</title>
+    <desc>Ha comenzado un nuevo semestre en la Escuela especial de Bomnae. Por ser una escuela nueva, solo hay estudiantes de primer año de bachillerato</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916085000 +0000" stop="20230916091500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>The Pink Panther and Sons</title>
+    <desc>Es una serie animada de televisión basada en las caricaturas clásicas de La Pantera Rosa, La hormiga y el oso hormiguero.</desc>
+  </programme>
+  <programme start="20230916091500 +0000" stop="20230916094000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>The Planet's Funniest Animals</title>
+    <desc>Videos caseros del comportamiento divertido o curioso por parte de las mascotas o animales, que son relatados por el anfitrión, que por lo general</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916094000 +0000" stop="20230916103000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Escape Perfecto</title>
+    <desc>Programa de juegos mexicano que se estrenó en 2015. El programa está basado en el programa de juegos argentino del mismo nombre y presenta equipos de dos concursantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916103000 +0000" stop="20230916105500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Totally Insane Guinness World Records</title>
+    <desc>Record guines del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916105500 +0000" stop="20230916114000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Escape Perfecto</title>
+    <desc>Programa de juegos mexicano que se estrenó en 2015. El programa está basado en el programa de juegos argentino del mismo nombre y presenta equipos de dos concursantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916114000 +0000" stop="20230916122500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>The Messengers</title>
+    <desc>serie de la red bolivision</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916122500 +0000" stop="20230916133000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero al dia fin de semana</title>
+    <desc>Sector de noticias de fin de semana de la red bolivision</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916133000 +0000" stop="20230916151500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>American ninja warrior</title>
+    <desc>Competidores se enfrentan a la carrera de obstáculos más difícil del mundo.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916151500 +0000" stop="20230916160000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Alerta cobra</title>
+    <desc>También conocida como Alarm für Cobra 11 (Die Autobahnpolizei en alemán) es una serie de procedimientos de la policía alemana sobre un equipo de dos agentes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916160000 +0000" stop="20230916170000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Rosalinda</title>
+    <desc>Producción mexicana. Rosalinda trabaja en el puesto de flores del abuelo Florentino. Rosalinda pierde a quien cree que es su madre y ayuda a sacar adelante a su papá Javier</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916170000 +0000" stop="20230916180000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Repris Playoffs Braga vs. Panathinaikos</title>
+    <desc>Teleserie mexicana que recrea historias y situaciones actuales que se asemejan a dichos y refranes comunes y populares.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916180000 +0000" stop="20230916190000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La rosa de guadalupe</title>
+    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe cuenta una historia diferente sobre una persona</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916190000 +0000" stop="20230916200000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero al dia fina de semana</title>
+    <desc>noticiero al dia edicion de fin de semana con el resumen de las mejores noticias de la jornada sermanal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916200000 +0000" stop="20230916220000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Cine Boliwood</title>
+    <desc>Es la primera de la serie de películas de James Bond. En la película, James Bond es enviado a Jamaica para investigar la desaparición de otro agente británico. El rastro lo lleva a la</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916220000 +0000" stop="20230916230000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Hawaii 5.0</title>
+    <desc>La serie cubre las acciones de una pequeña unidad especial de la policía estatal creada por la gobernadora de Hawái para investigar delitos graves en las islas.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230916230000 +0000" stop="20230917000000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCIS Los Ángeles</title>
+    <desc>Serie policíaca y de ficción estadounidense sobre un equipo de agentes de la ciudad de los Ángeles que trabajan encubiertos con la tecnología disponible más avanzada para atrapar a los criminales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+
+  <programme start="20230917000000 +0000" stop="20230917010000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCIS Los Ángeles</title>
+    <desc>Serie policíaca y de ficción estadounidense sobre un equipo de agentes de la ciudad de los Ángeles que trabajan encubiertos con la tecnología disponible más avanzada para atrapar a los criminales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917010000 +0000" stop="20230917020000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>CSI Nueva York</title>
+    <desc>Ambientada en la ciudad de New York, la serie sigue a un grupo de investigadores que trabajan para el laboratorio criminalístico de la ciudad. La trama mezcla temas ásperos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917020000 +0000" stop="20230917040000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Fear Factor</title>
+    <desc>Es un reality show de juegos, espectáculo deportivo estadounidense y de suspenso. El programa enfrenta a los concursantes unos contra otros en una variedad de trucos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917040000 +0000" stop="20230917050000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCIS Navy</title>
+    <desc>La serie sigue a un grupo de agentes federales del equipo de respuesta en casos principales del servicio de investigación criminal naval, cuyo cuartel general está en el arsenal naval</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917050000 +0000" stop="20230917060000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Al Extremo</title>
+    <desc>Producción mexicana, con noticias impactantes, historias extremas, asombrosas, sorprendentes y audaces, especialmente de Estados Unidos y México</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917060000 +0000" stop="20230917063000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>3-2-1 VAMOS</title>
+    <desc>Serie animada, educativa y de ciencia ficción. Sucesor de Plaza Sésamo, en la que participan algunos muppets originales y únicos de esta serie, como ser Abby Cadabby, Elmo, Beto</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917063000 +0000" stop="20230917070000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Vicky the Viking</title>
+    <desc>El personaje principal de la serie es Vicky, hijo de Halvar, jefe del pueblo vikingo de Flake. A diferencia de sus compañeros de la aldea, incluidos la mayoría de los otros niños de su edad,</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917070000 +0000" stop="20230917073000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Plaza Sesamo</title>
+    <desc>Serie de televisión educativa en español para niños en edad preescolar que se estrenó en México en 1972. Es una de las primeras coproducciones internacionales de Plaza Sésamo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917073000 +0000" stop="20230917074500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Duda y dada</title>
+    <desc>Duda, un topo de 6 años, solía vivir bajo tierra hasta que un día, se atreve a salir. Para Duda, todo sobre el “bosque desconocido” es emocionante y nuevo. Duda está tan</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917074500 +0000" stop="20230917081500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Dino Ranch</title>
+    <desc>Dino Ranch sigue las aventuras llenas de acción de la familia Cassidy como enfrentarse a la vida en un mundo prehistórico fantástico por donde los dinosaurios todavía pasean.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917081500 +0000" stop="20230917085000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Hold on Tight</title>
+    <desc>Ha comenzado un nuevo semestre en la Escuela especial de Bomnae. Por ser una escuela nueva, solo hay estudiantes de primer año de bachillerato, y acaban de entrar muchos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917085000 +0000" stop="20230917103000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Lucha Libre Mexicana</title>
+    <desc>Lucha Libre AAA Worldwide es una promoción de lucha libre profesional mexicana con sede en la Ciudad de México. AAA es conocida por su estilo de lucha acrobática de altos vuelos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917103000 +0000" stop="20230917105500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Totally Insane Guinness World Records</title>
+    <desc>Sector de record guinness de bolivision</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917105500 +0000" stop="20230917114000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Escape perfecto</title>
+    <desc>Programa de juegos mexicano que se estrenó en 2015. El programa está basado en el programa de juegos argentino del mismo nombre y presenta equipos de dos concursantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917114000 +0000" stop="20230917122500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>The Messengers</title>
+    <desc>Serie de bolivision</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917122500 +0000" stop="20230917133000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero Al Día Segunda Edición</title>
+    <desc>Noticiero de fin de semana de la red bolivision con las noticias mas importantes de la semana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917133000 +0000" stop="20230917143000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>American ninja warrior</title>
+    <desc>Competidores se enfrentan a la carrera de obstáculos más difícil del mundo.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917143000 +0000" stop="20230917151500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Smack Down</title>
+    <desc>Entretenimiento deportivo de lucha libre profesional producido por la WWE. Es el segundo programa principal de la empresa después de RAW. Originalmente creado para</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917151500 +0000" stop="20230917160000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Alerta cobra</title>
+    <desc>También conocida como Alarm für Cobra 11 (Die Autobahnpolizei en alemán) es una serie de procedimientos de la policía alemana sobre un equipo de dos agentes de la</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917160000 +0000" stop="20230917180000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Rosalinda</title>
+    <desc>Producción mexicana. Rosalinda trabaja en el puesto de flores del abuelo Florentino. Rosalinda pierde a quien cree que es su madre y ayuda a sacar adelante a su papá Javier</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917170000 +0000" stop="20230917180000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Como Dice El Dicho</title>
+    <desc>Teleserie mexicana que recrea historias y situaciones actuales que se asemejan a dichos y refranes comunes y populares.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917180000 +0000" stop="20230917185000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La Rosa De Guadalupe</title>
+    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe cuenta una historia diferente</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917185000 +0000" stop="20230917195000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero Al Día Edición Central</title>
+    <desc>Noticiero de edicion de bolivision donde se toma las noticias mas relevantes de fin de semana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917195000 +0000" stop="20230917203000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La Cancha de Bolivisión</title>
+    <desc>Sector deportivo de fin de semana donde se tocan los temas mas importanes de fin de semana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917203000 +0000" stop="20230917223000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Mira Quién Baila</title>
+    <desc>Es una serie de telerrealidad mexicana basada en el programa estadounidense Bailando con las estrellas. El espectáculo presenta a celebridades que se emparejan con bailarines</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917223000 +0000" stop="20230917233000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Hawaii 5.0</title>
+    <desc>La serie cubre las acciones de una pequeña unidad especial de la policía estatal creada por la gobernadora de Hawái para investigar delitos graves en las islas.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230917233000 +0000" stop="20230918000000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCIS Los Ángeles</title>
+    <desc>La serie cubre las acciones de una pequeña unidad especial de la policía estatal creada por la gobernadora de Hawái para investigar delitos graves en las islas.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+
+  <programme start="20230918000000 +0000" stop="20230918020000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Creer es Poder</title>
+    <desc>Programa religioso para solucionar problemas con la fe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918020000 +0000" stop="20230918030000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCI Navy</title>
+    <desc>La serie sigue a un grupo de agentes federales del equipo de respuesta en casos principales del servicio de investigación criminologia naval</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918030000 +0000" stop="20230918040000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Al Extremo</title>
+    <desc>Producción mexicana, con noticias impactantes, historias extremas, asombrosas, sorprendentes y audaces, especialmente de Estados Unidos y México.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918040000 +0000" stop="20230918060000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Creer es Poder</title>
+    <desc>Programa religioso para solucionar problemas con ayuda de la fe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918060000 +0000" stop="20230918090000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Al Dia tu Dia</title>
+    <desc>Revista manital de noticias y entrenimiento de la red bolivision</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918090000 +0000" stop="20230918095500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Laura</title>
+    <desc>Es un programa de televisión del género talk show, animado por la abogada Laura Bozzo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918095500 +0000" stop="20230918105500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Mujer Casos de la vida Real</title>
+    <desc>Esta serie conmovedora, que en el comienzo fue titulada solamente Casos de la Vida Real, ahora tiene añadido el sustantivo Mujer y como su título lo indica</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918105500 +0000" stop="20230918114500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La rosa de guadalupe</title>
+    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918114500 +0000" stop="20230918122500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Las mil y una noches</title>
+    <desc>Producción turca. Cuenta la historia de Sherezade y Onur. Ella profesional, viuda con un hijo al que le diagnostican leucemia y para salvarlo acepta la proposición de su jefe (Onur)</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918122500 +0000" stop="20230918140000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero al dia segunda edicion</title>
+    <desc>Noticiero de medio de la red bolivision que trata las noticias mas importantes de la mañana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918140000 +0000" stop="20230918145000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La promesa</title>
+    <desc>Producción turca. La familia Tarhun es una familia muy rica y conocida. El padre de la familia, Hikmet, quiere casar a su malcriado e irresponsable hijo Emir</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918145000 +0000" stop="20230918154500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>El amor invencible</title>
+    <desc>Producción mexicana. Hace quince años, Marena Ramos sufre un percance a manos de Gael Torrenegro, heredero de una de las cervecerías más importantes de México</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918154500 +0000" stop="20230918163500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Como dice el dicho</title>
+    <desc>Teleserie mexicana que recrea historias y situaciones actuales que se asemejan a dichos y refranes comunes y populares</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918163500 +0000" stop="20230918174000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La Rosa de Guadalupe</title>
+    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918174000 +0000" stop="20230918184000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>El Legado</title>
+    <desc>Producción turca. Historia de Yaman un hombre de negocios rico y carismático, y Seher que tiene una vida inocente y modesta</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918184000 +0000" stop="20230918194000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Elif</title>
+    <desc>Producción turca. Melek era una empleada que se enamoró de Kenan, el primogénito de la familia rica para la que trabajaba. Kenan también se enamoró de ella</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918194000 +0000" stop="20230918203000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Fugitiva</title>
+    <desc>Producción turca. Narra la historia de Nefes, una mujer que se casó muy joven cuando fue vendida por su padre</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918203000 +0000" stop="20230918220000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero al dia edicion central</title>
+    <desc>Sector noticiero de bolivision con las noticias del momento del ambito local e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230918220000 +0000" stop="20230919000000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Aquien En Vivo</title>
+    <desc>Revista Nocturna donde se tratan los temas mas importantes de la jornada y donde se presentan grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 </tv>
