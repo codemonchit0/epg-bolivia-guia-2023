@@ -1,8 +1,11 @@
 lista de cambios y actualizacion
 ------------------------------------------
-actualizacon fecha  15 septiembre 2023
+actualizacon fecha  18 septiembre 2023
 - se incorpora epg completa para los canales RED UNO locales de bolivia.
 - se incorpora epg completa para los canales de ATB bolivia local.
 - se incorpóra epg completa para el canal RTP la paz bolivia.
-- se incorpora epb completa para el canal BOLIVISION local.
+- se incorpora epg completa para el canal BOLIVISION local.
+- se incorpora epg completa para el canal PTV paceñisima de television.
+- se incorpora epg completa para el canal ERBOL bolivia.
+- se incorpora epg parcial para el canal UNITEL Bolivia.
 
