@@ -8,4 +8,17 @@ actualizacon fecha  18 septiembre 2023
 - se incorpora epg completa para el canal PTV paceñisima de television.
 - se incorpora epg completa para el canal ERBOL bolivia.
 - se incorpora epg parcial para el canal UNITEL Bolivia.
+------------------------------------------
+--------- martes 19 septiembre 2023 ------
+-Se actualizo la lista EPG de la guia de canales de bolivia con lo siguientes canales:
+RED UNO LPZ, SCZ, CBBA.
+UNITEL NACIONAL, (programacion parcial por que el canal no transmite 24/7).
+RTP LPZ.
+BOLIVISION LPZ, SCZ.
+PTV PACEÑISIMA DE TELEVISION LPZ.
+ERBOL BOLIVIA  LPZ.
+ATB LPZ, SCZ.
+
+-correccion de programacion de bolivision.
+
 
