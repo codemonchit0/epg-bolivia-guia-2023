@@ -21,4 +21,15 @@ ATB LPZ, SCZ.
 
 -correccion de programacion de bolivision.
 
+---------------------------------------------
+----------Miercoles 20 septiembre 2023 ------
+-Se agrego el EPG  guia de programacion de lunes a viernes de los siguientes canales:
+F10 BOLIVIA.
+TVU UMSA, (Para los canales F10 y TVU UMSA aun falta la programacion de fin de semana de sabado y domingo).
+-Correccion de titulos y descripcion de los EPG´s ya agregados.
+
+---------------------------------------------
+
+
+
 

@@ -40,6 +40,11 @@
     <url>https://tvu.umsa.bo</url>
     <icon src="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" />
   </channel>
+  <channel id="F10 HD">
+    <display-name>F10 BOLIVIA </display-name>
+    <url>https://f10.tv.bo</url>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg" />
+  </channel>
   <programme start="20230918000000 +0000" stop="20230918010000 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
     <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
@@ -4699,5 +4704,338 @@
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
+
+  <programme start="20230921062500 +0000" stop="20230921063000 +0000" channel="F10 HD">
+    <title>REJILLA F10</title>
+    <desc>IDENTIFICACION F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921063000 +0000" stop="20230921080000 +0000" channel="F10 HD">
+    <title>NOTICIERO F10 PRIMERA EDICION</title>
+    <desc>Noticiero de F10 primera edicion con las noticias iniciales de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921080000 +0000" stop="20230921093000 +0000" channel="F10 HD">
+    <title>REVISTA 40 60</title>
+    <desc>Revista matinal de F10 donde se trata temas actuales concursos y grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921093000 +0000" stop="20230921103000 +0000" channel="F10 HD">
+    <title>SECTOR POR DEFINIR</title>
+    <desc>SECTOR POR DEFINIR</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921103000 +0000" stop="20230921113000 +0000" channel="F10 HD">
+    <title>YATI COLOR</title>
+    <desc>Programa infantil matinal de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921113000 +0000" stop="20230921120000 +0000" channel="F10 HD">
+    <title>CHAYRITO MUSICAL DE F10</title>
+    <desc>Sector de videos musicales nacionales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921120000 +0000" stop="20230921140000 +0000" channel="F10 HD">
+    <title>F10 NOTICIAS DE LA TARDE</title>
+    <desc>Sector de noticias nacionales e internacionales con los temas mas importantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921140000 +0000" stop="202309211430000 +0000" channel="F10 HD">
+    <title>F10 DEPORTES</title>
+    <desc>Central de deportes de F10 con los temas mas importantes del ambito deportivo local y internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921143000 +0000" stop="20230921150000 +0000" channel="F10 HD">
+    <title>DORAMAS F10</title>
+    <desc>Novela korena familiar de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921150000 +0000" stop="20230921152500 +0000" channel="F10 HD">
+    <title>DORAMAS F10</title>
+    <desc>Novela korena familiar de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921152500 +0000" stop="20230921153000 +0000" channel="F10 HD">
+    <title>SECTOR DE COCINA F10</title>
+    <desc>Espacio donde te enseñamos la mejor receta culinaria de los platos mas espciales y ricos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921153000 +0000" stop="20230921163000 +0000" channel="F10 HD">
+    <title>YATI COLOR</title>
+    <desc>Sector infantil de F10 de cultura y entrenimiento familiar</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921163000 +0000" stop="20230921170000 +0000" channel="F10 HD">
+    <title>ZATCH BELL!-SERIE ANIME</title>
+    <desc>En un mundo mágico cada 100 años, 100 niños mamodos son enviados a la Tierra donde batallaran entre si, donde el ganador será nombrado el rey del mundo mágico</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921170000 +0000" stop="20230921173000 +0000" channel="F10 HD">
+    <title>CUARTO SHOW</title>
+    <desc>Revista juvenil de la tarde</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921173000 +0000" stop="20230921180000 +0000" channel="F10 HD">
+    <title>TODO WALIKI</title>
+    <desc>Sector de la tarde entrenimiento juvenil de musica y temas actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921180000 +0000" stop="20230921185500 +0000" channel="F10 HD">
+    <title>HECHIZADA-SERIE CLASICA</title>
+    <desc>Samantha, una mujer que pertenece a un largo linaje de brujas, se enamora y se casa con el ejecutivo Darrin Stephens, un mortal. Las aventuras se producen cuando Sam y Darrin intentan vivir una vida sin magia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921185500 +0000" stop="20230921203000 +0000" channel="F10 HD">
+    <title>F10 NOTICIAS EDICION CENTRAL</title>
+    <desc>Noticiero central F10 con las noticias mas importantes de la jornada diaria</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921203000 +0000" stop="20230921213000 +0000" channel="F10 HD">
+    <title>TERCER MILENIO - LA ULTIMA HORA</title>
+    <desc>Revista internacional con el presentador Ufologo Jaime Mausan</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921213000 +0000" stop="20230921223000 +0000" channel="F10 HD">
+    <title>A MI NO ME NADIE</title>
+    <desc>Revista nocturna de debate con los temas de la coyuntura politica actual</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921223000 +0000" stop="20230921233000 +0000" channel="F10 HD">
+    <title>F10 DEPORTES</title>
+    <desc>Edicion nocturna de F10 Deportes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921233000 +0000" stop="20230922000000 +0000" channel="F10 HD">
+    <title>ESPACIO POR DEFINIR</title>
+    <desc>ESPACIO POR DEFINIR F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922000000 +0000" stop="20230922013000 +0000" channel="F10 HD">
+    <title>F10 CENTRAL DE NOTICIAS - REPRIS</title>
+    <desc>Repris de noticiero central de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922013000 +0000" stop="20230922063000 +0000" channel="F10 HD">
+    <title>CIERRE DE EMIMISION</title>
+    <desc>Cierre de emision de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="20230922062500 +0000" stop="20230922063000 +0000" channel="F10 HD">
+    <title>REJILLA F10</title>
+    <desc>IDENTIFICACION F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922063000 +0000" stop="20230922080000 +0000" channel="F10 HD">
+    <title>NOTICIERO F10 PRIMERA EDICION</title>
+    <desc>Noticiero de F10 primera edicion con las noticias iniciales de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922080000 +0000" stop="20230922093000 +0000" channel="F10 HD">
+    <title>REVISTA 40 60</title>
+    <desc>Revista matinal de F10 donde se trata temas actuales concursos y grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922093000 +0000" stop="20230922103000 +0000" channel="F10 HD">
+    <title>SECTOR POR DEFINIR</title>
+    <desc>SECTOR POR DEFINIR</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922103000 +0000" stop="20230922113000 +0000" channel="F10 HD">
+    <title>YATI COLOR</title>
+    <desc>Programa infantil matinal de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922113000 +0000" stop="20230922120000 +0000" channel="F10 HD">
+    <title>CHAYRITO MUSICAL DE F10</title>
+    <desc>Sector de videos musicales nacionales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922120000 +0000" stop="20230922140000 +0000" channel="F10 HD">
+    <title>F10 NOTICIAS DE LA TARDE</title>
+    <desc>Sector de noticias nacionales e internacionales con los temas mas importantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922140000 +0000" stop="20230922143000 +0000" channel="F10 HD">
+    <title>F10 DEPORTES</title>
+    <desc>Central de deportes de F10 con los temas mas importantes del ambito deportivo local y internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921143000 +0000" stop="20230921150000 +0000" channel="F10 HD">
+    <title>DORAMAS F10</title>
+    <desc>Novela korena familiar de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230921150000 +0000" stop="20230921152500 +0000" channel="F10 HD">
+    <title>DORAMAS F10</title>
+    <desc>Novela korena familiar de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922150000 +0000" stop="20230922152500 +0000" channel="F10 HD">
+    <title>NOVELA KOREANA</title>
+    <desc>Nocela korena familiar de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922152500 +0000" stop="20230922153000 +0000" channel="F10 HD">
+    <title>SECTOR DE COCINA F10</title>
+    <desc>Espacio donde te enseñamos la mejor receta culinaria de los platos mas espciales y ricos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922153000 +0000" stop="20230922163000 +0000" channel="F10 HD">
+    <title>YATI COLOR</title>
+    <desc>Sector infantil de F10 de cultura y entrenimiento familiar</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922163000 +0000" stop="20230922170000 +0000" channel="F10 HD">
+    <title>ZATCH BELL!-SERIE ANIME</title>
+    <desc>En un mundo mágico cada 100 años, 100 niños mamodos son enviados a la Tierra donde batallaran entre si, donde el ganador será nombrado el rey del mundo mágico</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922170000 +0000" stop="20230922173000 +0000" channel="F10 HD">
+    <title>CUARTO SHOW</title>
+    <desc>Revista juvenil de la tarde</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922173000 +0000" stop="20230922180000 +0000" channel="F10 HD">
+    <title>TODO WALIKI</title>
+    <desc>Sector de la tarde entrenimiento juvenil de musica y temas actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922180000 +0000" stop="20230922185500 +0000" channel="F10 HD">
+    <title>HECHIZADA-SERIE CLASICA</title>
+    <desc>Samantha, una mujer que pertenece a un largo linaje de brujas, se enamora y se casa con el ejecutivo Darrin Stephens, un mortal. Las aventuras se producen cuando Sam y Darrin intentan vivir una vida sin magia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922185500 +0000" stop="20230922203000 +0000" channel="F10 HD">
+    <title>F10 NOTICIAS EDICION CENTRAL</title>
+    <desc>Noticiero central F10 con las noticias mas importantes de la jornada diaria</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922203000 +0000" stop="20230922213000 +0000" channel="F10 HD">
+    <title>TERCER MILENIO - LA ULTIMA HORA</title>
+    <desc>Revista internacional con el presentador Ufologo Jaime Mausan</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922213000 +0000" stop="20230922223000 +0000" channel="F10 HD">
+    <title>A MI NO ME NADIE</title>
+    <desc>Revista nocturna de debate con los temas de la coyuntura politica actual</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922223000 +0000" stop="20230922230500 +0000" channel="F10 HD">
+    <title>F10 DEPORTES</title>
+    <desc>Sector deportivo de F10 con las noticias mas importantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230922230500 +0000" stop="20230923000000 +0000" channel="F10 HD">
+    <title>F10 DORAMAS</title>
+    <desc>Sector de novelas koreanas de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230923000000 +0000" stop="20230923013000 +0000" channel="F10 HD">
+    <title>F10 CENTRAL DE NOTICIAS - REPRIS</title>
+    <desc>Repris de noticiero central de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230923013000 +0000" stop="20230923063000 +0000" channel="F10 HD">
+    <title>CIERRE DE EMIMISION</title>
+    <desc>Cierre de emision de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+
 
 </tv>
