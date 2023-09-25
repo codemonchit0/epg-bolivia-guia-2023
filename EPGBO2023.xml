@@ -5074,4 +5074,1063 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
+  <programme start="20230925000000 +0000" stop="20230925000500 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU</title>
+    <desc>Himno nacional simfonico</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925000500 +0000" stop="20230925010500 +0000" channel="TVU UMSA HD">
+    <title>NOTICIERO HECHOS EDICION CENTRAL-REPRIS</title>
+    <desc>Respris del noticiero central de TVU con las noticias mas importantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925010500 +0000" stop="20230925020500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA-REPRIS</title>
+    <desc>Respris de la revista nocturna de analisis y entrevistas de temas actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925020500 +0000" stop="20230925043000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR DE PELICULAS NOCTURAS DE TVU</title>
+    <desc>Las mejores peliculas del sector nocturno de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925043000 +0000" stop="20230925050000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES MEMORABLES</title>
+    <desc>Sector de documentales con los romances y biografias mas importantes de personajes celebres</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925050000 +0000" stop="20230925055500 +0000" channel="TVU UMSA HD">
+    <title>SECTOR RELIGIOSO</title>
+    <desc>Espacio religioso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925055500 +0000" stop="20230925060000 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU IDENTIFICACION</title>
+    <desc>Himno nacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925060000 +0000" stop="20230925070000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR POR DEFINIR</title>
+    <desc>SECTOR POR DEFINIR</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925070000 +0000" stop="20230925083000 +0000" channel="TVU UMSA HD">
+    <title>PRIMERA IMPRESIÓN</title>
+    <desc>Sector matinal de informacion y entretenimiento familiar de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925083000 +0000" stop="20230925092500 +0000" channel="TVU UMSA HD">
+    <title>TV EXPRESS</title>
+    <desc>ciencia Economia Cultura y tecnologia REVISTA informativa matinal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925092500 +0000" stop="20230925093000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925093000 +0000" stop="20230925110000 +0000" channel="TVU UMSA HD">
+    <title>A PEDIR DE BOCA</title>
+    <desc>Cocina, Cultura, Belleza revista matinal de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925110000 +0000" stop="20230925115500 +0000" channel="TVU UMSA HD">
+    <title>ALFONBRA ROJA VIP</title>
+    <desc>Sector de farandula y moda actual de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925115500 +0000" stop="20230925120000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925120000 +0000" stop="20230925130000 +0000" channel="TVU UMSA HD">
+    <title>PRIMERO TU SALUD</title>
+    <desc>Sector para el cuidado de salud de forma tecnica y eficaz de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925130000 +0000" stop="20230925140000 +0000" channel="TVU UMSA HD">
+    <title>TVU HECHOS MERIDIANO</title>
+    <desc>Noticiero Meridiano de TVU con las noticias mas imporatantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925140000 +0000" stop="20230925150000 +0000" channel="TVU UMSA HD">
+    <title>REGENERACION</title>
+    <desc>Sector juvenil de la tarde de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925150000 +0000" stop="20230925160000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES TVU</title>
+    <desc>Seleccion de los mejores documentales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925160000 +0000" stop="20230925170000 +0000" channel="TVU UMSA HD">
+    <title>TROPICALISIMO</title>
+    <desc>Sector tropical de musica noticias y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925170000 +0000" stop="20230925172500 +0000" channel="TVU UMSA HD">
+    <title>ROBOTECH-MACROS</title>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime clasica.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="202309252172500 +0000" stop="20230925173000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925173000 +0000" stop="20230925183000 +0000" channel="TVU UMSA HD">
+    <title>HOY CONTIGO</title>
+    <desc>Sector tropical de musica noticias y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925183000 +0000" stop="20230925193000 +0000" channel="TVU UMSA HD">
+    <title>DOCTOR TV</title>
+    <desc>Sector de medicina y consejos donde vemos los problemas y soluciones practicas medias de los mismos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925193000 +0000" stop="20230925203000 +0000" channel="TVU UMSA HD">
+    <title>TVU  HECHOS NOTICIERO CENTRAL</title>
+    <desc>Noticiero central de TVU con las noticias mas importantes de la jornada nacionales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925203000 +0000" stop="20230925212500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA</title>
+    <desc>Revista noctura donde se toca los temas mas imporantes con entrevistas y debate actual</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925212500 +0000" stop="20230925213000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925213000 +0000" stop="20230925223000 +0000" channel="TVU UMSA HD">
+    <title>CUIDEMOS TU SALUD</title>
+    <desc>Programa de salud y medicina, donde se toca temas delicados de salud global</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925223000 +0000" stop="20230925233000 +0000" channel="TVU UMSA HD">
+    <title>CODIGO DEPORTIVO</title>
+    <desc>Central de deporte de TVU donde se toca los temas importantes del deporte nacional e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925233000 +0000" stop="20230926000000 +0000" channel="TVU UMSA HD">
+    <title>MISTICA</title>
+    <desc>Espacio de mitologia y religion de cuentos y relatos misticos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926000000 +0000" stop="20230926000500 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU</title>
+    <desc>Himno nacional simfonico</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926000500 +0000" stop="20230926010500 +0000" channel="TVU UMSA HD">
+    <title>NOTICIERO HECHOS EDICION CENTRAL-REPRIS</title>
+    <desc>Respris del noticiero central de TVU con las noticias mas importantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926010500 +0000" stop="20230926020500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA-REPRIS</title>
+    <desc>Respris de la revista nocturna de analisis y entrevistas de temas actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926020500 +0000" stop="20230926043000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR DE PELICULAS NOCTURAS DE TVU</title>
+    <desc>Las mejores peliculas del sector nocturno de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926043000 +0000" stop="20230926050000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES MEMORABLES</title>
+    <desc>Sector de documentales con los romances y biografias mas importantes de personajes celebres</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926050000 +0000" stop="20230926055500 +0000" channel="TVU UMSA HD">
+    <title>SECTOR RELIGIOSO</title>
+    <desc>Espacio religioso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926055500 +0000" stop="20230926060000 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU IDENTIFICACION</title>
+    <desc>Himno nacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926060000 +0000" stop="20230926070000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR POR DEFINIR</title>
+    <desc>SECTOR POR DEFINIR</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926070000 +0000" stop="20230926083000 +0000" channel="TVU UMSA HD">
+    <title>PRIMERA IMPRESIÓN</title>
+    <desc>Sector matinal de informacion y entretenimiento familiar de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926083000 +0000" stop="20230926092500 +0000" channel="TVU UMSA HD">
+    <title>TV EXPRESS</title>
+    <desc>ciencia Economia Cultura y tecnologia REVISTA informativa matinal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926092500 +0000" stop="20230926093000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926093000 +0000" stop="20230926110000 +0000" channel="TVU UMSA HD">
+    <title>A PEDIR DE BOCA</title>
+    <desc>Cocina, Cultura, Belleza revista matinal de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926110000 +0000" stop="20230926115500 +0000" channel="TVU UMSA HD">
+    <title>ALFONBRA ROJA VIP</title>
+    <desc>Sector de farandula y moda actual de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926115500 +0000" stop="20230926120000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926120000 +0000" stop="20230926130000 +0000" channel="TVU UMSA HD">
+    <title>PRIMERO TU SALUD</title>
+    <desc>Sector para el cuidado de salud de forma tecnica y eficaz de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926130000 +0000" stop="20230926140000 +0000" channel="TVU UMSA HD">
+    <title>TVU HECHOS MERIDIANO</title>
+    <desc>Noticiero Meridiano de TVU con las noticias mas imporatantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926140000 +0000" stop="20230926150000 +0000" channel="TVU UMSA HD">
+    <title>REGENERACION</title>
+    <desc>Sector juvenil de la tarde de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926150000 +0000" stop="20230926160000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES TVU</title>
+    <desc>Seleccion de los mejores documentales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926160000 +0000" stop="20230926170000 +0000" channel="TVU UMSA HD">
+    <title>TROPICALISIMO</title>
+    <desc>Sector tropical de musica noticias y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926170000 +0000" stop="20230926172500 +0000" channel="TVU UMSA HD">
+    <title>ROBOTECH-MACROS</title>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime clasica.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="202309262172500 +0000" stop="20230926173000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926173000 +0000" stop="20230926183000 +0000" channel="TVU UMSA HD">
+    <title>HOY CONTIGO</title>
+    <desc>Sector tropical de musica noticias y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926183000 +0000" stop="20230926193000 +0000" channel="TVU UMSA HD">
+    <title>DOCTOR TV</title>
+    <desc>Sector de medicina y consejos donde vemos los problemas y soluciones practicas medias de los mismos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926193000 +0000" stop="20230926203000 +0000" channel="TVU UMSA HD">
+    <title>TVU  HECHOS NOTICIERO CENTRAL</title>
+    <desc>Noticiero central de TVU con las noticias mas importantes de la jornada nacionales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926203000 +0000" stop="20230926212500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA</title>
+    <desc>Revista noctura donde se toca los temas mas imporantes con entrevistas y debate actual</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926212500 +0000" stop="20230926213000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926213000 +0000" stop="20230926223000 +0000" channel="TVU UMSA HD">
+    <title>CUIDEMOS TU SALUD</title>
+    <desc>Programa de salud y medicina, donde se toca temas delicados de salud global</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926223000 +0000" stop="20230926233000 +0000" channel="TVU UMSA HD">
+    <title>CODIGO DEPORTIVO</title>
+    <desc>Central de deporte de TVU donde se toca los temas importantes del deporte nacional e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926233000 +0000" stop="20230927000000 +0000" channel="TVU UMSA HD">
+    <title>MISTICA</title>
+    <desc>Espacio de mitologia y religion de cuentos y relatos misticos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927000000 +0000" stop="20230927000500 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU</title>
+    <desc>Himno nacional simfonico</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927000500 +0000" stop="20230927010500 +0000" channel="TVU UMSA HD">
+    <title>NOTICIERO HECHOS EDICION CENTRAL-REPRIS</title>
+    <desc>Respris del noticiero central de TVU con las noticias mas importantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927010500 +0000" stop="20230927020500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA-REPRIS</title>
+    <desc>Respris de la revista nocturna de analisis y entrevistas de temas actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927020500 +0000" stop="20230927043000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR DE PELICULAS NOCTURAS DE TVU</title>
+    <desc>Las mejores peliculas del sector nocturno de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927043000 +0000" stop="20230927050000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES MEMORABLES</title>
+    <desc>Sector de documentales con los romances y biografias mas importantes de personajes celebres</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927050000 +0000" stop="20230927055500 +0000" channel="TVU UMSA HD">
+    <title>SECTOR RELIGIOSO</title>
+    <desc>Espacio religioso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927055500 +0000" stop="20230927060000 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU IDENTIFICACION</title>
+    <desc>Himno nacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927060000 +0000" stop="20230927070000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR POR DEFINIR</title>
+    <desc>SECTOR POR DEFINIR</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927070000 +0000" stop="20230927083000 +0000" channel="TVU UMSA HD">
+    <title>PRIMERA IMPRESIÓN</title>
+    <desc>Sector matinal de informacion y entretenimiento familiar de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927083000 +0000" stop="20230927092500 +0000" channel="TVU UMSA HD">
+    <title>TV EXPRESS</title>
+    <desc>ciencia Economia Cultura y tecnologia REVISTA informativa matinal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927092500 +0000" stop="20230927093000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927093000 +0000" stop="20230927110000 +0000" channel="TVU UMSA HD">
+    <title>A PEDIR DE BOCA</title>
+    <desc>Cocina, Cultura, Belleza revista matinal de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927110000 +0000" stop="20230927115500 +0000" channel="TVU UMSA HD">
+    <title>ALFONBRA ROJA VIP</title>
+    <desc>Sector de farandula y moda actual de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927115500 +0000" stop="20230927120000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927120000 +0000" stop="20230927130000 +0000" channel="TVU UMSA HD">
+    <title>PRIMERO TU SALUD</title>
+    <desc>Sector para el cuidado de salud de forma tecnica y eficaz de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927130000 +0000" stop="20230927140000 +0000" channel="TVU UMSA HD">
+    <title>TVU HECHOS MERIDIANO</title>
+    <desc>Noticiero Meridiano de TVU con las noticias mas imporatantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927140000 +0000" stop="20230927150000 +0000" channel="TVU UMSA HD">
+    <title>REGENERACION</title>
+    <desc>Sector juvenil de la tarde de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927150000 +0000" stop="20230927160000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES TVU</title>
+    <desc>Seleccion de los mejores documentales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927160000 +0000" stop="20230927170000 +0000" channel="TVU UMSA HD">
+    <title>TROPICALISIMO</title>
+    <desc>Sector tropical de musica noticias y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927170000 +0000" stop="20230927172500 +0000" channel="TVU UMSA HD">
+    <title>ROBOTECH-MACROS</title>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime clasica.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="202309272172500 +0000" stop="20230927173000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927173000 +0000" stop="20230927183000 +0000" channel="TVU UMSA HD">
+    <title>HOY CONTIGO</title>
+    <desc>Sector tropical de musica noticias y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927183000 +0000" stop="20230927193000 +0000" channel="TVU UMSA HD">
+    <title>DOCTOR TV</title>
+    <desc>Sector de medicina y consejos donde vemos los problemas y soluciones practicas medias de los mismos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927193000 +0000" stop="20230927203000 +0000" channel="TVU UMSA HD">
+    <title>TVU  HECHOS NOTICIERO CENTRAL</title>
+    <desc>Noticiero central de TVU con las noticias mas importantes de la jornada nacionales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927203000 +0000" stop="20230927212500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA</title>
+    <desc>Revista noctura donde se toca los temas mas imporantes con entrevistas y debate actual</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927212500 +0000" stop="20230927213000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927213000 +0000" stop="20230927223000 +0000" channel="TVU UMSA HD">
+    <title>CUIDEMOS TU SALUD</title>
+    <desc>Programa de salud y medicina, donde se toca temas delicados de salud global</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927223000 +0000" stop="20230927233000 +0000" channel="TVU UMSA HD">
+    <title>CODIGO DEPORTIVO</title>
+    <desc>Central de deporte de TVU donde se toca los temas importantes del deporte nacional e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927233000 +0000" stop="20230928000000 +0000" channel="TVU UMSA HD">
+    <title>MISTICA</title>
+    <desc>Espacio de mitologia y religion de cuentos y relatos misticos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928000000 +0000" stop="20230928000500 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU</title>
+    <desc>Himno nacional simfonico</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928000500 +0000" stop="20230928010500 +0000" channel="TVU UMSA HD">
+    <title>NOTICIERO HECHOS EDICION CENTRAL-REPRIS</title>
+    <desc>Respris del noticiero central de TVU con las noticias mas importantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928010500 +0000" stop="20230928020500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA-REPRIS</title>
+    <desc>Respris de la revista nocturna de analisis y entrevistas de temas actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928020500 +0000" stop="20230928043000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR DE PELICULAS NOCTURAS DE TVU</title>
+    <desc>Las mejores peliculas del sector nocturno de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928043000 +0000" stop="20230928050000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES MEMORABLES</title>
+    <desc>Sector de documentales con los romances y biografias mas importantes de personajes celebres</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928050000 +0000" stop="20230928055500 +0000" channel="TVU UMSA HD">
+    <title>SECTOR RELIGIOSO</title>
+    <desc>Espacio religioso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928055500 +0000" stop="20230928060000 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU IDENTIFICACION</title>
+    <desc>Himno nacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928060000 +0000" stop="20230928070000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR POR DEFINIR</title>
+    <desc>SECTOR POR DEFINIR</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928070000 +0000" stop="20230928083000 +0000" channel="TVU UMSA HD">
+    <title>PRIMERA IMPRESIÓN</title>
+    <desc>Sector matinal de informacion y entretenimiento familiar de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928083000 +0000" stop="20230928092500 +0000" channel="TVU UMSA HD">
+    <title>TV EXPRESS</title>
+    <desc>ciencia Economia Cultura y tecnologia REVISTA informativa matinal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928092500 +0000" stop="20230928093000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928093000 +0000" stop="20230928110000 +0000" channel="TVU UMSA HD">
+    <title>A PEDIR DE BOCA</title>
+    <desc>Cocina, Cultura, Belleza revista matinal de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928110000 +0000" stop="20230928115500 +0000" channel="TVU UMSA HD">
+    <title>ALFONBRA ROJA VIP</title>
+    <desc>Sector de farandula y moda actual de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928115500 +0000" stop="20230928120000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928120000 +0000" stop="20230928130000 +0000" channel="TVU UMSA HD">
+    <title>PRIMERO TU SALUD</title>
+    <desc>Sector para el cuidado de salud de forma tecnica y eficaz de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928130000 +0000" stop="20230928140000 +0000" channel="TVU UMSA HD">
+    <title>TVU HECHOS MERIDIANO</title>
+    <desc>Noticiero Meridiano de TVU con las noticias mas imporatantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928140000 +0000" stop="20230928150000 +0000" channel="TVU UMSA HD">
+    <title>REGENERACION</title>
+    <desc>Sector juvenil de la tarde de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928150000 +0000" stop="20230928160000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES TVU</title>
+    <desc>Seleccion de los mejores documentales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928160000 +0000" stop="20230928170000 +0000" channel="TVU UMSA HD">
+    <title>TROPICALISIMO</title>
+    <desc>Sector tropical de musica noticias y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928170000 +0000" stop="20230928172500 +0000" channel="TVU UMSA HD">
+    <title>ROBOTECH-MACROS</title>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime clasica.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="202309282172500 +0000" stop="20230928173000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928173000 +0000" stop="20230928183000 +0000" channel="TVU UMSA HD">
+    <title>HOY CONTIGO</title>
+    <desc>Sector tropical de musica noticias y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928183000 +0000" stop="20230928193000 +0000" channel="TVU UMSA HD">
+    <title>DOCTOR TV</title>
+    <desc>Sector de medicina y consejos donde vemos los problemas y soluciones practicas medias de los mismos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928193000 +0000" stop="20230928203000 +0000" channel="TVU UMSA HD">
+    <title>TVU  HECHOS NOTICIERO CENTRAL</title>
+    <desc>Noticiero central de TVU con las noticias mas importantes de la jornada nacionales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928203000 +0000" stop="20230928212500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA</title>
+    <desc>Revista noctura donde se toca los temas mas imporantes con entrevistas y debate actual</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928212500 +0000" stop="20230928213000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928213000 +0000" stop="20230928223000 +0000" channel="TVU UMSA HD">
+    <title>CUIDEMOS TU SALUD</title>
+    <desc>Programa de salud y medicina, donde se toca temas delicados de salud global</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928223000 +0000" stop="20230928233000 +0000" channel="TVU UMSA HD">
+    <title>CODIGO DEPORTIVO</title>
+    <desc>Central de deporte de TVU donde se toca los temas importantes del deporte nacional e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928233000 +0000" stop="20230929000000 +0000" channel="TVU UMSA HD">
+    <title>MISTICA</title>
+    <desc>Espacio de mitologia y religion de cuentos y relatos misticos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929000000 +0000" stop="20230929000500 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU</title>
+    <desc>Himno nacional simfonico</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929000500 +0000" stop="20230929010500 +0000" channel="TVU UMSA HD">
+    <title>NOTICIERO HECHOS EDICION CENTRAL-REPRIS</title>
+    <desc>Respris del noticiero central de TVU con las noticias mas importantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929010500 +0000" stop="20230929020500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA-REPRIS</title>
+    <desc>Respris de la revista nocturna de analisis y entrevistas de temas actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929020500 +0000" stop="20230929043000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR DE PELICULAS NOCTURAS DE TVU</title>
+    <desc>Las mejores peliculas del sector nocturno de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929043000 +0000" stop="20230929050000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES MEMORABLES</title>
+    <desc>Sector de documentales con los romances y biografias mas importantes de personajes celebres</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929050000 +0000" stop="20230929055500 +0000" channel="TVU UMSA HD">
+    <title>SECTOR RELIGIOSO</title>
+    <desc>Espacio religioso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929055500 +0000" stop="20230929060000 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU IDENTIFICACION</title>
+    <desc>Himno nacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929060000 +0000" stop="20230929070000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR POR DEFINIR</title>
+    <desc>SECTOR POR DEFINIR</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929070000 +0000" stop="20230929083000 +0000" channel="TVU UMSA HD">
+    <title>PRIMERA IMPRESIÓN</title>
+    <desc>Sector matinal de informacion y entretenimiento familiar de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929083000 +0000" stop="20230929092500 +0000" channel="TVU UMSA HD">
+    <title>TV EXPRESS</title>
+    <desc>ciencia Economia Cultura y tecnologia REVISTA informativa matinal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929092500 +0000" stop="20230929093000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929093000 +0000" stop="20230929110000 +0000" channel="TVU UMSA HD">
+    <title>A PEDIR DE BOCA</title>
+    <desc>Cocina, Cultura, Belleza revista matinal de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929110000 +0000" stop="20230929115500 +0000" channel="TVU UMSA HD">
+    <title>ALFONBRA ROJA VIP</title>
+    <desc>Sector de farandula y moda actual de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929115500 +0000" stop="20230929120000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929120000 +0000" stop="20230929130000 +0000" channel="TVU UMSA HD">
+    <title>PRIMERO TU SALUD</title>
+    <desc>Sector para el cuidado de salud de forma tecnica y eficaz de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929130000 +0000" stop="20230929140000 +0000" channel="TVU UMSA HD">
+    <title>TVU HECHOS MERIDIANO</title>
+    <desc>Noticiero Meridiano de TVU con las noticias mas imporatantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929140000 +0000" stop="20230929150000 +0000" channel="TVU UMSA HD">
+    <title>REGENERACION</title>
+    <desc>Sector juvenil de la tarde de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929150000 +0000" stop="20230929160000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES TVU</title>
+    <desc>Seleccion de los mejores documentales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929160000 +0000" stop="20230929170000 +0000" channel="TVU UMSA HD">
+    <title>TROPICALISIMO</title>
+    <desc>Sector tropical de musica noticias y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929170000 +0000" stop="20230929172500 +0000" channel="TVU UMSA HD">
+    <title>ROBOTECH-MACROS</title>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime clasica.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="202309292172500 +0000" stop="20230929173000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929173000 +0000" stop="20230929183000 +0000" channel="TVU UMSA HD">
+    <title>HOY CONTIGO</title>
+    <desc>Sector tropical de musica noticias y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929183000 +0000" stop="20230929193000 +0000" channel="TVU UMSA HD">
+    <title>DOCTOR TV</title>
+    <desc>Sector de medicina y consejos donde vemos los problemas y soluciones practicas medias de los mismos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929193000 +0000" stop="20230929203000 +0000" channel="TVU UMSA HD">
+    <title>TVU  HECHOS NOTICIERO CENTRAL</title>
+    <desc>Noticiero central de TVU con las noticias mas importantes de la jornada nacionales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929203000 +0000" stop="20230929212500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA</title>
+    <desc>Revista noctura donde se toca los temas mas imporantes con entrevistas y debate actual</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929212500 +0000" stop="20230929213000 +0000" channel="TVU UMSA HD">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se difunde una propuesta o servicio empresarial diverso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929213000 +0000" stop="20230929223000 +0000" channel="TVU UMSA HD">
+    <title>CUIDEMOS TU SALUD</title>
+    <desc>Programa de salud y medicina, donde se toca temas delicados de salud global</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929223000 +0000" stop="20230929233000 +0000" channel="TVU UMSA HD">
+    <title>CODIGO DEPORTIVO</title>
+    <desc>Central de deporte de TVU donde se toca los temas importantes del deporte nacional e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929233000 +0000" stop="20230930000000 +0000" channel="TVU UMSA HD">
+    <title>MISTICA</title>
+    <desc>Espacio de mitologia y religion de cuentos y relatos misticos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="20230930000000 +0000" stop="20230930000500 +0000" channel="TVU UMSA HD">
+    <title>REJILLA TVU</title>
+    <desc>Himno nacional simfonico</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230930000500 +0000" stop="20230930010500 +0000" channel="TVU UMSA HD">
+    <title>NOTICIERO HECHOS EDICION CENTRAL-REPRIS</title>
+    <desc>Respris del noticiero central de TVU con las noticias mas importantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230930010500 +0000" stop="20230930020500 +0000" channel="TVU UMSA HD">
+    <title>CARTAS SOBRE LA MESA-REPRIS</title>
+    <desc>Respris de la revista nocturna de analisis y entrevistas de temas actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230930020500 +0000" stop="20230930043000 +0000" channel="TVU UMSA HD">
+    <title>SECTOR DE PELICULAS NOCTURAS DE TVU</title>
+    <desc>Las mejores peliculas del sector nocturno de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230930043000 +0000" stop="20230930050000 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES MEMORABLES</title>
+    <desc>Sector de documentales con los romances y biografias mas importantes de personajes celebres</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230930050000 +0000" stop="20230930055500 +0000" channel="TVU UMSA HD">
+    <title>SECTOR RELIGIOSO</title>
+    <desc>Espacio religioso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
 </tv>
