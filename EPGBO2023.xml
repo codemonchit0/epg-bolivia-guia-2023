@@ -1425,9 +1425,16 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20230925062500 +0000" stop="20230925063000 +0000" channel="F10 HD">
-    <title>REJILLA F10</title>
+  <programme start="20230925043000 +0000" stop="20230925050000 +0000" channel="F10 HD">
+    <title>INICIO DE PROGRAMACION</title>
     <desc>IDENTIFICACION F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925050000 +0000" stop="20230925063000 +0000" channel="F10 HD">
+    <title>A TODO WALIKI</title>
+    <desc>Sector de entretenimiento y videos musicales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -1447,8 +1454,8 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20230925093000 +0000" stop="20230925103000 +0000" channel="F10 HD">
-    <title>SECTOR POR DEFINIR</title>
-    <desc>SECTOR POR DEFINIR</desc>
+    <title>MUSICAL F10</title>
+    <desc>SECTOR MUSICAL DE F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -1586,7 +1593,7 @@
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926013000 +0000" stop="20230926062500 +0000" channel="F10 HD">
+  <programme start="20230926013000 +0000" stop="20230926043000 +0000" channel="F10 HD">
     <title>CIERRE DE EMIMISION</title>
     <desc>Cierre de emision de F10</desc>
     <country lang="bo">bolivia</country>
@@ -1594,9 +1601,16 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20230926062500 +0000" stop="20230926063000 +0000" channel="F10 HD">
-    <title>REJILLA F10</title>
+  <programme start="20230926043000 +0000" stop="20230926050000 +0000" channel="F10 HD">
+    <title>INICIO DE PROGRAMACION</title>
     <desc>IDENTIFICACION F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230926050000 +0000" stop="20230926063000 +0000" channel="F10 HD">
+    <title>A TODO WALIKI</title>
+    <desc>Sector de entretenimiento y videos musicales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -1616,8 +1630,8 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20230926093000 +0000" stop="20230926103000 +0000" channel="F10 HD">
-    <title>SECTOR POR DEFINIR</title>
-    <desc>SECTOR POR DEFINIR</desc>
+    <title>SECTOR MUSICAL F10</title>
+    <desc>SECTOR MUSICAL F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -1721,8 +1735,8 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20230926203000 +0000" stop="20230926213000 +0000" channel="F10 HD">
-    <title>TERCER MILENIO - LA ULTIMA HORA</title>
-    <desc>Revista internacional con el presentador Ufologo Jaime Mausan</desc>
+    <title>RENUEVA EL ALTO</title>
+    <desc>Sector informativo y noticias del alto</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -1755,7 +1769,7 @@
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927013000 +0000" stop="20230927062500 +0000" channel="F10 HD">
+  <programme start="20230927013000 +0000" stop="20230927043000 +0000" channel="F10 HD">
     <title>CIERRE DE EMIMISION</title>
     <desc>Cierre de emision de F10</desc>
     <country lang="bo">bolivia</country>
@@ -1763,9 +1777,16 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20230927062500 +0000" stop="20230927063000 +0000" channel="F10 HD">
-    <title>REJILLA F10</title>
+  <programme start="20230927043000 +0000" stop="20230927050000 +0000" channel="F10 HD">
+    <title>INICIO DE PROGRAMACION</title>
     <desc>IDENTIFICACION F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927050000 +0000" stop="20230927063000 +0000" channel="F10 HD">
+    <title>A TODO WALIKI</title>
+    <desc>Sector de entretenimiento y videos musicales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -1785,8 +1806,8 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20230927093000 +0000" stop="20230927103000 +0000" channel="F10 HD">
-    <title>SECTOR POR DEFINIR</title>
-    <desc>SECTOR POR DEFINIR</desc>
+    <title>SECTOR MUSICAL F10</title>
+    <desc>SECTOR MUSICAL F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -1924,7 +1945,7 @@
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928013000 +0000" stop="20230928062500 +0000" channel="F10 HD">
+  <programme start="20230928013000 +0000" stop="20230928043000 +0000" channel="F10 HD">
     <title>CIERRE DE EMIMISION</title>
     <desc>Cierre de emision de F10</desc>
     <country lang="bo">bolivia</country>
@@ -1932,9 +1953,16 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20230928062500 +0000" stop="20230928063000 +0000" channel="F10 HD">
-    <title>REJILLA F10</title>
+  <programme start="20230928043000 +0000" stop="20230928050000 +0000" channel="F10 HD">
+    <title>INICIO DE PROGRAMACION</title>
     <desc>IDENTIFICACION F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928050000 +0000" stop="20230928063000 +0000" channel="F10 HD">
+    <title>A TODO WALIKI</title>
+    <desc>Sector de entretenimiento y videos musicales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -1954,8 +1982,8 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20230928093000 +0000" stop="20230928103000 +0000" channel="F10 HD">
-    <title>SECTOR POR DEFINIR</title>
-    <desc>SECTOR POR DEFINIR</desc>
+    <title>SECTOR MUSICA F10</title>
+    <desc>SECTOR MUSICAL F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -2059,8 +2087,8 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20230928203000 +0000" stop="20230928213000 +0000" channel="F10 HD">
-    <title>TERCER MILENIO - LA ULTIMA HORA</title>
-    <desc>Revista internacional con el presentador Ufologo Jaime Mausan</desc>
+    <title>SMALL VILLE-SERI DE SUPER MAN</title>
+    <desc>Seria clasica de superman</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -2093,7 +2121,7 @@
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929013000 +0000" stop="20230929062500 +0000" channel="F10 HD">
+  <programme start="20230929013000 +0000" stop="20230929043000 +0000" channel="F10 HD">
     <title>CIERRE DE EMIMISION</title>
     <desc>Cierre de emision de F10</desc>
     <country lang="bo">bolivia</country>
@@ -2101,9 +2129,16 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20230929062500 +0000" stop="20230929063000 +0000" channel="F10 HD">
-    <title>REJILLA F10</title>
+  <programme start="20230929043000 +0000" stop="20230929050000 +0000" channel="F10 HD">
+    <title>INICIO DE PROGRAMACION</title>
     <desc>IDENTIFICACION F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929050000 +0000" stop="20230929063000 +0000" channel="F10 HD">
+    <title>A TODO WALIKI</title>
+    <desc>Sector de entretenimiento y videos musicales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -2123,8 +2158,8 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20230929093000 +0000" stop="20230929103000 +0000" channel="F10 HD">
-    <title>SECTOR POR DEFINIR</title>
-    <desc>SECTOR POR DEFINIR</desc>
+    <title>SECTOR MUSICAL F10</title>
+    <desc>SECTOR MUSICAL F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -2228,43 +2263,50 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20230929203000 +0000" stop="20230929213000 +0000" channel="F10 HD">
-    <title>TERCER MILENIO - LA ULTIMA HORA</title>
-    <desc>Revista internacional con el presentador Ufologo Jaime Mausan</desc>
-    <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de lunes a viernes</category>
-  </programme>
-  <programme start="20230929213000 +0000" stop="20230929223000 +0000" channel="F10 HD">
-    <title>A MI NO ME NADIE</title>
-    <desc>Revista nocturna de debate con los temas de la coyuntura politica actual</desc>
-    <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de lunes a viernes</category>
-  </programme>
-  <programme start="20230929223000 +0000" stop="20230929230500 +0000" channel="F10 HD">
     <title>F10 DEPORTES</title>
-    <desc>Sector deportivo de F10 con las noticias deportivas mas importantes de la jornada</desc>
+    <desc>Rector de noticias de deportes tanto del ambio nacional e internacional</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929230500 +0000" stop="20230930000000 +0000" channel="F10 HD">
-    <title>F10 DORAMAS</title>
-    <desc>Sector de novelas koreanas de F10</desc>
+  <programme start="20230929213000 +0000" stop="20230929233000 +0000" channel="F10 HD">
+    <title>SANTO SORBO</title>
+    <desc>Sector nocturno de grupos en vivo y entretenimiento</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230930000000 +0000" stop="20230930013000 +0000" channel="F10 HD">
-    <title>F10 CENTRAL DE NOTICIAS - REPRIS</title>
-    <desc>Repris de noticiero central de F10</desc>
+  <programme start="20230929233000 +0000" stop="20230930010000 +0000" channel="F10 HD">
+    <title>FIESTA MIX</title>
+    <desc>Sector de clasicos enganchados MIX</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230930013000 +0000" stop="20230930062500 +0000" channel="F10 HD">
-    <title>CIERRE DE EMIMISION</title>
-    <desc>Cierre de emision de F10</desc>
+  <programme start="20230930010000 +0000" stop="20230930053500 +0000" channel="F10 HD">
+    <title>CIERRE DE EMISION</title>
+    <desc>cierre de emision F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230930053500 +0000" stop="20230930054500 +0000" channel="F10 HD">
+    <title>HIMNO NACIONAL</title>
+    <desc>REJILLA DE HIMNO NACIONAL</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230930054500 +0000" stop="20230930060000 +0000" channel="F10 HD">
+    <title>REFLEXION MATUTINA</title>
+    <desc>Sector de reflexion y cristianismo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230930060000 +0000" stop="20230930070000 +0000" channel="F10 HD">
+    <title>GOSPEL</title>
+    <desc>Sector F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -4659,7 +4701,15 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20230925000000 +0000" stop="20230925122500 +0000" channel="UNITEL BOLIVIA">
+
+  <programme start="20230924233000 +0000" stop="20230925022500 +0000" channel="UNITEL BOLIVIA">
+    <title>Señor cine -Moni tv</title>
+    <desc>Sector de cine</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230925022500 +0000" stop="20230925122500 +0000" channel="UNITEL BOLIVIA">
     <title>Señor cine -Moni tv</title>
     <desc>Sector de cine</desc>
     <country lang="bo">bolivia</country>
@@ -4851,7 +4901,6 @@
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  
   <programme start="20230927170000 +0000" stop="20230927180000 +0000" channel="UNITEL BOLIVIA">
     <title>Hercai - Repris</title>
     <desc>Telenovela turca de unitel</desc>
@@ -4894,7 +4943,6 @@
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-
   <programme start="20230928000000 +0000" stop="20230928122500 +0000" channel="UNITEL BOLIVIA">
     <title>Señor cine -Moni tv</title>
     <desc>Sector de cine</desc>
@@ -4930,7 +4978,6 @@
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  
   <programme start="20230928170000 +0000" stop="20230928180000 +0000" channel="UNITEL BOLIVIA">
     <title>Hercai - Repris</title>
     <desc>Telenovela turca de unitel</desc>
@@ -5009,7 +5056,6 @@
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  
   <programme start="20230929170000 +0000" stop="20230929180000 +0000" channel="UNITEL BOLIVIA">
     <title>Hercai - Repris</title>
     <desc>Telenovela turca de unitel</desc>
