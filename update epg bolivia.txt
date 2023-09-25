@@ -29,6 +29,17 @@ TVU UMSA, (Para los canales F10 y TVU UMSA aun falta la programacion de fin de s
 -Correccion de titulos y descripcion de los EPG´s ya agregados.
 
 ---------------------------------------------
+---------LUNES 25 SEPTIEMBRE 2023 -----------
+-Se actualizo el EPG de 7 dias de programacion de los siguientes canales:
+RED UNO LP, SCZ, CBBA.
+BOLIVISION LPZ, SCZ.
+RTP LA PAZ.
+PTV PACEÑISIMA DE TELEVISION.
+TVU UMSA LA PAZ.
+F10 LA PAZ.
+UNITEL  (programacion parcial).
+
+- Correccion de programacion en muchos canales.
 
 
 
