@@ -25,7 +25,7 @@
     <url>https://erbol.com.bo</url>
     <icon src="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" />
   </channel>
-  <channel id="UNITEL BOLIVIA">
+  <channel id="UNITEL">
     <display-name>UNITEL</display-name>
     <url>https://television.unitel.bo</url>
     <icon src="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" />
@@ -4702,42 +4702,42 @@
   </programme>
 
 
-  <programme start="20230924233000 +0000" stop="20230925022500 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230924233000 +0000" stop="20230925022500 +0000" channel="UNITEL">
     <title>Señor cine -Moni tv</title>
     <desc>Sector de cine</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925022500 +0000" stop="20230925122500 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925022500 +0000" stop="20230925122500 +0000" channel="UNITEL">
     <title>Señor cine -Moni tv</title>
     <desc>Sector de cine</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925122500 +0000" stop="20230925140000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925122500 +0000" stop="20230925140000 +0000" channel="UNITEL">
     <title>Telepaís Meridiano</title>
     <desc>Noticiero de unitel medio dia con las noticias mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925140000 +0000" stop="20230925150000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925140000 +0000" stop="20230925150000 +0000" channel="UNITEL">
    <title>Al Fondo Hay Sitio </title>
    <desc>Serie comedia peruana de unitel</desc>
    <country lang="bo">bolivia</country>
    <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925150000 +0000" stop="20230925160000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925150000 +0000" stop="20230925160000 +0000" channel="UNITEL">
     <title>Mujer</title>
     <desc>Telenovela de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925160000 +0000" stop="20230925170000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925160000 +0000" stop="20230925170000 +0000" channel="UNITEL">
     <title>Tormenta de Pasiones </title>
     <desc>Telenovela turca de unitel</desc>
     <country lang="bo">bolivia</country>
@@ -4745,77 +4745,77 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   
-  <programme start="20230925170000 +0000" stop="20230925180000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925170000 +0000" stop="20230925180000 +0000" channel="UNITEL">
     <title>Hercai - Repris</title>
     <desc>Telenovela turca de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925180000 +0000" stop="20230925190000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925180000 +0000" stop="20230925190000 +0000" channel="UNITEL">
     <title>Luz de Luna</title>
     <desc>Telenovela  peruana de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925190000 +0000" stop="20230925210000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925190000 +0000" stop="20230925210000 +0000" channel="UNITEL">
     <title>Telepaís Central</title>
     <desc>Central de noticias de unitel con las noticias mas imporantes de la jornada</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925210000 +0000" stop="20230925220000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925210000 +0000" stop="20230925220000 +0000" channel="UNITEL">
     <title>Hercai</title>
     <desc>Novela turca de la unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925220000 +0000" stop="20230925233000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925220000 +0000" stop="20230925233000 +0000" channel="UNITEL">
     <title>MasterChef Bolivia</title>
     <desc>Sector de competencias culinaria de las mejores platos locales e internacionales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925233000 +0000" stop="20230926000000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230925233000 +0000" stop="20230926000000 +0000" channel="UNITEL">
     <title>señor cine - moni tv</title>
     <desc>sector de cine nocturno</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926000000 +0000" stop="20230926122500 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926000000 +0000" stop="20230926122500 +0000" channel="UNITEL">
     <title>Señor cine -Moni tv</title>
     <desc>Sector de cine</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926122500 +0000" stop="20230926140000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926122500 +0000" stop="20230926140000 +0000" channel="UNITEL">
     <title>Telepaís Meridiano</title>
     <desc>Noticiero de unitel medio dia con las noticias mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926140000 +0000" stop="20230926150000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926140000 +0000" stop="20230926150000 +0000" channel="UNITEL">
    <title>Al Fondo Hay Sitio </title>
    <desc>Serie comedia peruana de unitel</desc>
    <country lang="bo">bolivia</country>
    <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926150000 +0000" stop="20230926160000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926150000 +0000" stop="20230926160000 +0000" channel="UNITEL">
     <title>Mujer</title>
     <desc>Telenovela de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926160000 +0000" stop="20230926170000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926160000 +0000" stop="20230926170000 +0000" channel="UNITEL">
     <title>Tormenta de Pasiones </title>
     <desc>Telenovela turca de unitel</desc>
     <country lang="bo">bolivia</country>
@@ -4823,42 +4823,42 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   
-  <programme start="20230926170000 +0000" stop="20230926180000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926170000 +0000" stop="20230926180000 +0000" channel="UNITEL">
     <title>Hercai - Repris</title>
     <desc>Telenovela turca de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926180000 +0000" stop="20230926190000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926180000 +0000" stop="20230926190000 +0000" channel="UNITEL">
     <title>Luz de Luna</title>
     <desc>Telenovela  peruana de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926190000 +0000" stop="20230926210000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926190000 +0000" stop="20230926210000 +0000" channel="UNITEL">
     <title>Telepaís Central</title>
     <desc>Central de noticias de unitel con las noticias mas imporantes de la jornada</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926210000 +0000" stop="20230926220000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926210000 +0000" stop="20230926220000 +0000" channel="UNITEL">
     <title>Hercai</title>
     <desc>Novela turca de la unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926220000 +0000" stop="20230926233000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926220000 +0000" stop="20230926233000 +0000" channel="UNITEL">
     <title>MasterChef Bolivia</title>
     <desc>Sector de competencias culinaria de las mejores platos locales e internacionales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230926233000 +0000" stop="20230927000000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230926233000 +0000" stop="20230927000000 +0000" channel="UNITEL">
     <title>señor cine - moni tv</title>
     <desc>sector de cine nocturno</desc>
     <country lang="bo">bolivia</country>
@@ -4866,154 +4866,154 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20230927000000 +0000" stop="20230927122500 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927000000 +0000" stop="20230927122500 +0000" channel="UNITEL">
     <title>Señor cine -Moni tv</title>
     <desc>Sector de cine</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927122500 +0000" stop="20230927140000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927122500 +0000" stop="20230927140000 +0000" channel="UNITEL">
     <title>Telepaís Meridiano</title>
     <desc>Noticiero de unitel medio dia con las noticias mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927140000 +0000" stop="20230927150000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927140000 +0000" stop="20230927150000 +0000" channel="UNITEL">
    <title>Al Fondo Hay Sitio </title>
    <desc>Serie comedia peruana de unitel</desc>
    <country lang="bo">bolivia</country>
    <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927150000 +0000" stop="20230927160000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927150000 +0000" stop="20230927160000 +0000" channel="UNITEL">
     <title>Mujer</title>
     <desc>Telenovela de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927160000 +0000" stop="20230927170000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927160000 +0000" stop="20230927170000 +0000" channel="UNITEL">
     <title>Tormenta de Pasiones </title>
     <desc>Telenovela turca de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927170000 +0000" stop="20230927180000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927170000 +0000" stop="20230927180000 +0000" channel="UNITEL">
     <title>Hercai - Repris</title>
     <desc>Telenovela turca de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927180000 +0000" stop="20230927190000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927180000 +0000" stop="20230927190000 +0000" channel="UNITEL">
     <title>Luz de Luna</title>
     <desc>Telenovela  peruana de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927190000 +0000" stop="20230927210000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927190000 +0000" stop="20230927210000 +0000" channel="UNITEL">
     <title>Telepaís Central</title>
     <desc>Central de noticias de unitel con las noticias mas imporantes de la jornada</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927210000 +0000" stop="20230927220000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927210000 +0000" stop="20230927220000 +0000" channel="UNITEL">
     <title>Hercai</title>
     <desc>Novela turca de la unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927220000 +0000" stop="20230927233000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927220000 +0000" stop="20230927233000 +0000" channel="UNITEL">
     <title>MasterChef Bolivia</title>
     <desc>Sector de competencias culinaria de las mejores platos locales e internacionales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230927233000 +0000" stop="20230928000000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230927233000 +0000" stop="20230928000000 +0000" channel="UNITEL">
     <title>señor cine - moni tv</title>
     <desc>sector de cine nocturno</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928000000 +0000" stop="20230928122500 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928000000 +0000" stop="20230928122500 +0000" channel="UNITEL">
     <title>Señor cine -Moni tv</title>
     <desc>Sector de cine</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928122500 +0000" stop="20230928140000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928122500 +0000" stop="20230928140000 +0000" channel="UNITEL">
     <title>Telepaís Meridiano</title>
     <desc>Noticiero de unitel medio dia con las noticias mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928140000 +0000" stop="20230928150000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928140000 +0000" stop="20230928150000 +0000" channel="UNITEL">
    <title>Al Fondo Hay Sitio </title>
    <desc>Serie comedia peruana de unitel</desc>
    <country lang="bo">bolivia</country>
    <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928150000 +0000" stop="20230928160000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928150000 +0000" stop="20230928160000 +0000" channel="UNITEL">
     <title>Mujer</title>
     <desc>Telenovela de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928160000 +0000" stop="20230928170000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928160000 +0000" stop="20230928170000 +0000" channel="UNITEL">
     <title>Tormenta de Pasiones </title>
     <desc>Telenovela turca de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928170000 +0000" stop="20230928180000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928170000 +0000" stop="20230928180000 +0000" channel="UNITEL">
     <title>Hercai - Repris</title>
     <desc>Telenovela turca de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928180000 +0000" stop="20230928190000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928180000 +0000" stop="20230928190000 +0000" channel="UNITEL">
     <title>Luz de Luna</title>
     <desc>Telenovela  peruana de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928190000 +0000" stop="20230928210000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928190000 +0000" stop="20230928210000 +0000" channel="UNITEL">
     <title>Telepaís Central</title>
     <desc>Central de noticias de unitel con las noticias mas imporantes de la jornada</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928210000 +0000" stop="20230928220000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928210000 +0000" stop="20230928220000 +0000" channel="UNITEL">
     <title>Hercai</title>
     <desc>Novela turca de la unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928220000 +0000" stop="20230928233000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928220000 +0000" stop="20230928233000 +0000" channel="UNITEL">
     <title>MasterChef Bolivia</title>
     <desc>Sector de competencias culinaria de las mejores platos locales e internacionales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230928233000 +0000" stop="20230929000000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230928233000 +0000" stop="20230929000000 +0000" channel="UNITEL">
     <title>señor cine - moni tv</title>
     <desc>sector de cine nocturno</desc>
     <country lang="bo">bolivia</country>
@@ -5021,98 +5021,98 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20230929000000 +0000" stop="20230929122500 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929000000 +0000" stop="20230929122500 +0000" channel="UNITEL">
     <title>Señor cine -Moni tv</title>
     <desc>Sector de cine</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929122500 +0000" stop="20230929140000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929122500 +0000" stop="20230929140000 +0000" channel="UNITEL">
     <title>Telepaís Meridiano</title>
     <desc>Noticiero de unitel medio dia con las noticias mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929140000 +0000" stop="20230929150000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929140000 +0000" stop="20230929150000 +0000" channel="UNITEL">
    <title>Al Fondo Hay Sitio </title>
    <desc>Serie comedia peruana de unitel</desc>
    <country lang="bo">bolivia</country>
    <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929150000 +0000" stop="20230929160000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929150000 +0000" stop="20230929160000 +0000" channel="UNITEL">
     <title>Mujer</title>
     <desc>Telenovela de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929160000 +0000" stop="20230929170000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929160000 +0000" stop="20230929170000 +0000" channel="UNITEL">
     <title>Tormenta de Pasiones </title>
     <desc>Telenovela turca de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929170000 +0000" stop="20230929180000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929170000 +0000" stop="20230929180000 +0000" channel="UNITEL">
     <title>Hercai - Repris</title>
     <desc>Telenovela turca de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929180000 +0000" stop="20230929190000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929180000 +0000" stop="20230929190000 +0000" channel="UNITEL">
     <title>Luz de Luna</title>
     <desc>Telenovela  peruana de unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929190000 +0000" stop="20230929210000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929190000 +0000" stop="20230929210000 +0000" channel="UNITEL">
     <title>Telepaís Central</title>
     <desc>Central de noticias de unitel con las noticias mas imporantes de la jornada</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929210000 +0000" stop="20230929220000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929210000 +0000" stop="20230929220000 +0000" channel="UNITEL">
     <title>Hercai</title>
     <desc>Novela turca de la unitel</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929220000 +0000" stop="20230929233000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929220000 +0000" stop="20230929233000 +0000" channel="UNITEL">
     <title>MasterChef Bolivia</title>
     <desc>Sector de competencias culinaria de las mejores platos locales e internacionales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230929233000 +0000" stop="20230930000000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230929233000 +0000" stop="20230930000000 +0000" channel="UNITEL">
     <title>señor cine - moni tv</title>
     <desc>sector de cine nocturno</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230930000000 +0000" stop="20230930110000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230930000000 +0000" stop="20230930110000 +0000" channel="UNITEL">
     <title>señor cine - moni tv</title>
     <desc>sector de cine nocturno</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230930110000 +0000" stop="20230930122500 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230930110000 +0000" stop="20230930122500 +0000" channel="UNITEL">
     <title>al fondo al sitio</title>
     <desc>resumen de fin semana</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://www.cbnews.fr/sites/cbnews.fr/files/styles/panoramic_w1200/public/2019-07/euro.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230930122500 +0000" stop="20230930140000 +0000" channel="UNITEL BOLIVIA">
+  <programme start="20230930122500 +0000" stop="20230930140000 +0000" channel="UNITEL">
     <title>central de noticias de unitel</title>
     <desc>noticias de fin de semana de unitel</desc>
     <country lang="bo">bolivia</country>
