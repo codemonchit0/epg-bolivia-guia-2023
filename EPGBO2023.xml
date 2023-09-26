@@ -1525,7 +1525,7 @@
   </programme>
   <programme start="20230925170000 +0000" stop="20230925172500 +0000" channel="F10 HD">
     <title>MAZINGER Z - SERIE CLASICA</title>
-    <desc>Serie anime clasica</desc>
+    <desc>Mazinger Z es una serie de manga y anime creada por el dibujante y guionista japonés Gō Nagai, en el estilo de ficción, Mazinger Z fue el primer robot gigante tripulado por un protagonista, marcando las bases del género mecha</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -1701,7 +1701,7 @@
   </programme>
   <programme start="20230926170000 +0000" stop="20230926172500 +0000" channel="F10 HD">
     <title>MAZINGER Z - SERIE CLASICA</title>
-    <desc>Serie anime clasica</desc>
+    <desc>Mazinger Z es una serie de manga y anime creada por el dibujante y guionista japonés Gō Nagai, en el estilo de ficción, Mazinger Z fue el primer robot gigante tripulado por un protagonista, marcando las bases del género mecha</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -1877,7 +1877,7 @@
   </programme>
   <programme start="20230927170000 +0000" stop="20230927172500 +0000" channel="F10 HD">
     <title>MAZINGER Z - SERIE CLASICA</title>
-    <desc>Serie anime clasica</desc>
+    <desc>Mazinger Z es una serie de manga y anime creada por el dibujante y guionista japonés Gō Nagai, en el estilo de ficción, Mazinger Z fue el primer robot gigante tripulado por un protagonista, marcando las bases del género mecha</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -2053,7 +2053,7 @@
   </programme>
   <programme start="20230928170000 +0000" stop="20230928172500 +0000" channel="F10 HD">
     <title>MAZINGER Z - SERIE CLASICA</title>
-    <desc>Serie anime clasica</desc>
+    <desc>Mazinger Z es una serie de manga y anime creada por el dibujante y guionista japonés Gō Nagai, en el estilo de ficción, Mazinger Z fue el primer robot gigante tripulado por un protagonista, marcando las bases del género mecha</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -2229,7 +2229,7 @@
   </programme>
   <programme start="20230929170000 +0000" stop="20230929172500 +0000" channel="F10 HD">
     <title>MAZINGER Z - SERIE CLASICA</title>
-    <desc>Serie anime clasica</desc>
+    <desc>Mazinger Z es una serie de manga y anime creada por el dibujante y guionista japonés Gō Nagai, en el estilo de ficción, Mazinger Z fue el primer robot gigante tripulado por un protagonista, marcando las bases del género mecha</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -4775,11 +4775,11 @@
   </programme>
   <programme start="20230925220000 +0000" stop="20230925233000 +0000" channel="UNITEL">
     <title>MasterChef Bolivia</title>
-    <desc>Sector de competencias culinaria de las mejores platos locales e internacionales</desc>
+    <desc>Es el reality de cocina más importante del mundo que ahora llega a Bolivia, para poder disfrutar de una competencia unica</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
-  </programme>
+  </programme>  
   <programme start="20230925233000 +0000" stop="20230926000000 +0000" channel="UNITEL">
     <title>señor cine - moni tv</title>
     <desc>sector de cine nocturno</desc>
@@ -4853,7 +4853,7 @@
   </programme>
   <programme start="20230926220000 +0000" stop="20230926233000 +0000" channel="UNITEL">
     <title>MasterChef Bolivia</title>
-    <desc>Sector de competencias culinaria de las mejores platos locales e internacionales</desc>
+    <desc>Es el reality de cocina más importante del mundo que ahora llega a Bolivia, para poder disfrutar de una competencia unica</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -4931,7 +4931,7 @@
   </programme>
   <programme start="20230927220000 +0000" stop="20230927233000 +0000" channel="UNITEL">
     <title>MasterChef Bolivia</title>
-    <desc>Sector de competencias culinaria de las mejores platos locales e internacionales</desc>
+    <desc>Es el reality de cocina más importante del mundo que ahora llega a Bolivia, para poder disfrutar de una competencia unica</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -5008,7 +5008,7 @@
   </programme>
   <programme start="20230928220000 +0000" stop="20230928233000 +0000" channel="UNITEL">
     <title>MasterChef Bolivia</title>
-    <desc>Sector de competencias culinaria de las mejores platos locales e internacionales</desc>
+    <desc>Es el reality de cocina más importante del mundo que ahora llega a Bolivia, para poder disfrutar de una competencia unica</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -5086,7 +5086,7 @@
   </programme>
   <programme start="20230929220000 +0000" stop="20230929233000 +0000" channel="UNITEL">
     <title>MasterChef Bolivia</title>
-    <desc>Sector de competencias culinaria de las mejores platos locales e internacionales</desc>
+    <desc>Es el reality de cocina más importante del mundo que ahora llega a Bolivia, para poder disfrutar de una competencia unica</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/05/unitel.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -5134,14 +5134,14 @@
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925010500 +0000" stop="20230925020500 +0000" channel="TVU UMSA HD">
-    <title>CARTAS SOBRE LA MESA-REPRIS</title>
-    <desc>Respris de la revista nocturna de analisis y entrevistas de temas actuales</desc>
+  <programme start="20230925010500 +0000" stop="20230925014500 +0000" channel="TVU UMSA HD">
+    <title>DOCUMENTALES TVU</title>
+    <desc>Documentales tvu</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230925020500 +0000" stop="20230925043000 +0000" channel="TVU UMSA HD">
+  <programme start="20230925014500 +0000" stop="20230925043000 +0000" channel="TVU UMSA HD">
     <title>SECTOR DE PELICULAS NOCTURAS DE TVU</title>
     <desc>Las mejores peliculas del sector nocturno de TVU</desc>
     <country lang="bo">bolivia</country>
@@ -5255,7 +5255,7 @@
   </programme>
   <programme start="20230925170000 +0000" stop="20230925172500 +0000" channel="TVU UMSA HD">
     <title>ROBOTECH-MACROS</title>
-    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime clasica.</desc>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa Mazinger Z es una serie de manga y anime creada por el dibujante y guionista japonés Gō Nagai, en el estilo de ficción, Mazinger Z fue el primer robot gigante tripulado por un protagonista, marcando las bases del género mecha.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -5458,7 +5458,7 @@
   </programme>
   <programme start="20230926170000 +0000" stop="20230926172500 +0000" channel="TVU UMSA HD">
     <title>ROBOTECH-MACROS</title>
-    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime clasica.</desc>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa Mazinger Z es una serie de manga y anime creada por el dibujante y guionista japonés Gō Nagai, en el estilo de ficción, Mazinger Z fue el primer robot gigante tripulado por un protagonista, marcando las bases del género mecha.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -5661,7 +5661,7 @@
   </programme>
   <programme start="20230927170000 +0000" stop="20230927172500 +0000" channel="TVU UMSA HD">
     <title>ROBOTECH-MACROS</title>
-    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime clasica.</desc>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa Mazinger Z es una serie de manga y anime creada por el dibujante y guionista japonés Gō Nagai, en el estilo de ficción, Mazinger Z fue el primer robot gigante tripulado por un protagonista, marcando las bases del género mecha.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -5864,7 +5864,7 @@
   </programme>
   <programme start="20230928170000 +0000" stop="20230928172500 +0000" channel="TVU UMSA HD">
     <title>ROBOTECH-MACROS</title>
-    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime clasica.</desc>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa Mazinger Z es una serie de manga y anime creada por el dibujante y guionista japonés Gō Nagai, en el estilo de ficción, Mazinger Z fue el primer robot gigante tripulado por un protagonista, marcando las bases del género mecha.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
@@ -6067,7 +6067,7 @@
   </programme>
   <programme start="20230929170000 +0000" stop="20230929172500 +0000" channel="TVU UMSA HD">
     <title>ROBOTECH-MACROS</title>
-    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime clasica.</desc>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia robotech y secretos conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa Mazinger Z es una serie de manga y anime creada por el dibujante y guionista japonés Gō Nagai, en el estilo de ficción, Mazinger Z fue el primer robot gigante tripulado por un protagonista, marcando las bases del género mecha.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
