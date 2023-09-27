@@ -41,6 +41,16 @@ UNITEL  (programacion parcial).
 
 - Correccion de programacion en muchos canales.
 
+----------------------------------------------
+------MIERCOLES 27 SEPTIEMBRE 2023 -----------
+-Se agrego programacion EPG del canal  DTV BOLIVIA, pero solo programacion de lunes a viernes.
+-Proximos EPG que se agregaran seran:
+SEO TV HD, programacion de lunes a viernes parcial.
+SOLIDARIA TV, programacion completa de 7 dias.
+CVC CANAL VIRGEN DE COPACABANA programacion de 7 dias parcial.
+BTV BOLIVIA 7.1, programacion completa de 7 dias.
+
+
 
 
 
