@@ -45,6 +45,11 @@
     <url>https://f10.tv.bo</url>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg" />
   </channel>
+  <channel id="DTV BOLIVIA">
+    <display-name>DTV NOTICIAS</display-name>
+    <url>https://dtv.bo</url>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg" />
+  </channel>
   
   <programme start="20230925000000 +0000" stop="20230925010000 +0000" channel="RED UNO BOLIVIA">
     <title>problemas y soluciones</title>
@@ -6177,6 +6182,461 @@
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="20230927000000 +0000" stop="20230927010000 +0000" channel="DTV BOLIVIA">
+    <title>Sector DTV</title>
+    <desc>Espacio pagado de DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927010000 +0000" stop="20230927023000 +0000" channel="DTV BOLIVIA">
+    <title>DTV CENTRAL DE NOTICIAS (REPRIS)</title>
+    <desc>repris de central de noticias DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927023000 +0000" stop="20230927033000 +0000" channel="DTV BOLIVIA">
+   <title>DETRAS DE LE VERDAD (REPRIS)</title>
+   <desc>repris de la revista informativa nocturna DTV</desc>
+   <country lang="bo">bolivia</country>
+   <icon src="https://i.postimg.cc/cC28qJf2/DTV-BOLIVIA-DETRAS-DE-LA-VERDAD.jpg"/>
+   <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927033000 +0000" stop="20230927040000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO DTV</title>
+    <desc>Espacio pagado</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927040000 +0000" stop="20230927050000 +0000" channel="DTV BOLIVIA">
+    <title>FARANDULA DTV (REPRIS)</title>
+    <desc>Repris del programa DTV</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>  
+  <programme start="20230927050000 +0000" stop="20230927070000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO DTV</title>
+    <desc>noticias de red uno madrugada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927070000 +0000" stop="20230927090000 +0000" channel="DTV BOLIVIA">
+    <title>NOTICIERO DTV</title>
+    <desc>Noticiero DTV mañanero</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927090000 +0000" stop="20230927100000 +0000" channel="DTV BOLIVIA">
+    <title>DETRAS DE LA VERDAD (REPRIS)</title>
+    <desc>Revista informativa de DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/cC28qJf2/DTV-BOLIVIA-DETRAS-DE-LA-VERDAD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927100000 +0000" stop="20230927110000 +0000" channel="DTV BOLIVIA">
+    <title>DTV INFOMERCIALES</title>
+    <desc>Sector pagado DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927110000 +0000" stop="20230927120000 +0000" channel="DTV BOLIVIA">
+    <title>PIEDRA PAPEL Y TINTA (REPRIS)</title>
+    <desc>Revista informativa con entrevistados importanes con las noticias mas relevantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927120000 +0000" stop="20230927123000 +0000" channel="DTV BOLIVIA">
+    <title>MAQUINA DE DEPORTES</title>
+    <desc>Sector con la informacion deportiva mas importante del ambito nacional y internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927123000 +0000" stop="20230927140000 +0000" channel="DTV BOLIVIA">
+    <title>DTV NOTICIERO MERIDIANO</title>
+    <desc>Central de noticias de DTV con la informacion mas importante y relevante de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927140000 +0000" stop="20230927143000 +0000" channel="DTV BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se ofrecen productos de interes cotidiano global</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://www.clarin.com/2021/03/22/39jEZhedZ_720x0__1.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927143000 +0000" stop="20230927153000 +0000" channel="DTV BOLIVIA">
+    <title>FARANDULA DTV</title>
+    <desc>programa de noticias de la farandula bolivia y entrevistas</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927153000 +0000" stop="20230927160000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO</title>
+    <desc>Sector pagado</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMGU2NjZhMmUtNTYzYS00OTMyLTkzZDAtMTkzNDIwNWFkM2I0XkEyXkFqcGdeQXVyMTY3NTgwODk5._V1_.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927160000 +0000" stop="20230927173000 +0000" channel="DTV BOLIVIA">
+    <title>DTV NOTICIAS MERIDIANO (REPRIS)</title>
+    <desc>Repris del noticiero meridiano de DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927173000 +0000" stop="20230927183000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO</title>
+    <desc>Sector pagado DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927183000 +0000" stop="20230927193000 +0000" channel="DTV BOLIVIA">
+    <title>PIEDRA PAPEL Y TINTA</title>
+    <desc>Sector de entrevistas donde se tocan los temas mas relevantes de politica y noticias actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927193000 +0000" stop="20230927210000 +0000" channel="DTV BOLIVIA">
+    <title>DTV CENTRAL DE NOTICIAS</title>
+    <desc>Central de noticias de DTV con la informacion mas importante de bolivia y del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927210000 +0000" stop="20230927220000 +0000" channel="DTV BOLIVIA">
+    <title>MAQUINA DEPORTIVA</title>
+    <desc>Sector con la informacion mas importante del deporte boliviano y internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230927220000 +0000" stop="20230928000000 +0000" channel="DTV BOLIVIA">
+    <title>DETRAS DE LA VERDAD</title>
+    <desc>Revista nocturna con entrevistas y las noticias mas relevantes de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/cC28qJf2/DTV-BOLIVIA-DETRAS-DE-LA-VERDAD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928000000 +0000" stop="20230928010000 +0000" channel="DTV BOLIVIA">
+   <title>SECTOR PAGADO</title>
+   <desc>sector pagado DTV</desc>
+   <country lang="bo">bolivia</country>
+   <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+   <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="20230928010000 +0000" stop="20230928023000 +0000" channel="DTV BOLIVIA">
+    <title>DTV CENTRAL DE NOTIICIAS (REPRIS)</title>
+    <desc>repris de central de noticias DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928023000 +0000" stop="20230928033000 +0000" channel="DTV BOLIVIA">
+   <title>DETRAS DE LE VERDAD (REPRIS)</title>
+   <desc>repris de la revista informativa nocturna DTV</desc>
+   <country lang="bo">bolivia</country>
+   <icon src="https://i.postimg.cc/cC28qJf2/DTV-BOLIVIA-DETRAS-DE-LA-VERDAD.jpg"/>
+   <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928033000 +0000" stop="20230928040000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO DTV</title>
+    <desc>Espacio pagado</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928040000 +0000" stop="20230928050000 +0000" channel="DTV BOLIVIA">
+    <title>FARANDULA DTV (REPRIS)</title>
+    <desc>Repris del programa DTV</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>  
+  <programme start="20230928050000 +0000" stop="20230928070000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO DTV</title>
+    <desc>noticias de red uno madrugada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928070000 +0000" stop="20230928090000 +0000" channel="DTV BOLIVIA">
+    <title>NOTICIERO DTV</title>
+    <desc>Noticiero DTV mañanero</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928090000 +0000" stop="20230928100000 +0000" channel="DTV BOLIVIA">
+    <title>DETRAS DE LA VERDAD (REPRIS)</title>
+    <desc>Revista informativa de DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/cC28qJf2/DTV-BOLIVIA-DETRAS-DE-LA-VERDAD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928100000 +0000" stop="20230928110000 +0000" channel="DTV BOLIVIA">
+    <title>DTV INFOMERCIALES</title>
+    <desc>Sector pagado DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928110000 +0000" stop="20230928120000 +0000" channel="DTV BOLIVIA">
+    <title>PIEDRA PAPEL Y TINTA (REPRIS)</title>
+    <desc>Revista informativa con entrevistados importanes con las noticias mas relevantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928120000 +0000" stop="20230928123000 +0000" channel="DTV BOLIVIA">
+    <title>MAQUINA DE DEPORTES</title>
+    <desc>Sector con la informacion deportiva mas importante del ambito nacional y internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928123000 +0000" stop="20230928140000 +0000" channel="DTV BOLIVIA">
+    <title>DTV NOTICIERO MERIDIANO</title>
+    <desc>Central de noticias de DTV con la informacion mas importante y relevante de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928140000 +0000" stop="20230928143000 +0000" channel="DTV BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se ofrecen productos de interes cotidiano global</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://www.clarin.com/2021/03/22/39jEZhedZ_720x0__1.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928143000 +0000" stop="20230928153000 +0000" channel="DTV BOLIVIA">
+    <title>FARANDULA DTV</title>
+    <desc>programa de noticias de la farandula bolivia y entrevistas</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928153000 +0000" stop="20230928160000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO</title>
+    <desc>Sector pagado</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMGU2NjZhMmUtNTYzYS00OTMyLTkzZDAtMTkzNDIwNWFkM2I0XkEyXkFqcGdeQXVyMTY3NTgwODk5._V1_.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928160000 +0000" stop="20230928173000 +0000" channel="DTV BOLIVIA">
+    <title>DTV NOTICIAS MERIDIANO (REPRIS)</title>
+    <desc>Repris del noticiero meridiano de DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928173000 +0000" stop="20230928183000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO</title>
+    <desc>Sector pagado DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928183000 +0000" stop="20230928193000 +0000" channel="DTV BOLIVIA">
+    <title>PIEDRA PAPEL Y TINTA</title>
+    <desc>Sector de entrevistas donde se tocan los temas mas relevantes de politica y noticias actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928193000 +0000" stop="20230928210000 +0000" channel="DTV BOLIVIA">
+    <title>DTV CENTRAL DE NOTICIAS</title>
+    <desc>Central de noticias de DTV con la informacion mas importante de bolivia y del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928210000 +0000" stop="20230928220000 +0000" channel="DTV BOLIVIA">
+    <title>MAQUINA DEPORTIVA</title>
+    <desc>Sector con la informacion mas importante del deporte boliviano y internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230928220000 +0000" stop="20230929000000 +0000" channel="DTV BOLIVIA">
+    <title>DETRAS DE LA VERDAD</title>
+    <desc>Revista nocturna con entrevistas y las noticias mas relevantes de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/cC28qJf2/DTV-BOLIVIA-DETRAS-DE-LA-VERDAD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929000000 +0000" stop="20230929010000 +0000" channel="DTV BOLIVIA">
+   <title>SECTOR PAGADO</title>
+   <desc>sector pagado DTV</desc>
+   <country lang="bo">bolivia</country>
+   <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+   <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+ 
+  <programme start="20230929010000 +0000" stop="20230929023000 +0000" channel="DTV BOLIVIA">
+    <title>DTV CENTRAL DE NOTIICIAS (REPRIS)</title>
+    <desc>repris de central de noticias DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929023000 +0000" stop="20230929033000 +0000" channel="DTV BOLIVIA">
+   <title>DETRAS DE LE VERDAD (REPRIS)</title>
+   <desc>repris de la revista informativa nocturna DTV</desc>
+   <country lang="bo">bolivia</country>
+   <icon src="https://i.postimg.cc/cC28qJf2/DTV-BOLIVIA-DETRAS-DE-LA-VERDAD.jpg"/>
+   <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929033000 +0000" stop="20230929040000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO DTV</title>
+    <desc>Espacio pagado</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929040000 +0000" stop="20230929050000 +0000" channel="DTV BOLIVIA">
+    <title>FARANDULA DTV (REPRIS)</title>
+    <desc>Repris del programa DTV</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>  
+  <programme start="20230929050000 +0000" stop="20230929070000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO DTV</title>
+    <desc>noticias de red uno madrugada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929070000 +0000" stop="20230929090000 +0000" channel="DTV BOLIVIA">
+    <title>NOTICIERO DTV</title>
+    <desc>Noticiero DTV mañanero</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929090000 +0000" stop="20230929100000 +0000" channel="DTV BOLIVIA">
+    <title>DETRAS DE LA VERDAD (REPRIS)</title>
+    <desc>Revista informativa de DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/cC28qJf2/DTV-BOLIVIA-DETRAS-DE-LA-VERDAD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929100000 +0000" stop="20230929110000 +0000" channel="DTV BOLIVIA">
+    <title>DTV INFOMERCIALES</title>
+    <desc>Sector pagado DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929110000 +0000" stop="20230929120000 +0000" channel="DTV BOLIVIA">
+    <title>PIEDRA PAPEL Y TINTA (REPRIS)</title>
+    <desc>Revista informativa con entrevistados importanes con las noticias mas relevantes de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929120000 +0000" stop="20230929123000 +0000" channel="DTV BOLIVIA">
+    <title>MAQUINA DE DEPORTES</title>
+    <desc>Sector con la informacion deportiva mas importante del ambito nacional y internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929123000 +0000" stop="20230929140000 +0000" channel="DTV BOLIVIA">
+    <title>DTV NOTICIERO MERIDIANO</title>
+    <desc>Central de noticias de DTV con la informacion mas importante y relevante de la jornada</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929140000 +0000" stop="20230929143000 +0000" channel="DTV BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se ofrecen productos de interes cotidiano global</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://www.clarin.com/2021/03/22/39jEZhedZ_720x0__1.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929143000 +0000" stop="20230929153000 +0000" channel="DTV BOLIVIA">
+    <title>FARANDULA DTV</title>
+    <desc>programa de noticias de la farandula bolivia y entrevistas</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929153000 +0000" stop="20230929160000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO</title>
+    <desc>Sector pagado</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://m.media-amazon.com/images/M/MV5BMGU2NjZhMmUtNTYzYS00OTMyLTkzZDAtMTkzNDIwNWFkM2I0XkEyXkFqcGdeQXVyMTY3NTgwODk5._V1_.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929160000 +0000" stop="20230929173000 +0000" channel="DTV BOLIVIA">
+    <title>DTV NOTICIAS MERIDIANO (REPRIS)</title>
+    <desc>Repris del noticiero meridiano de DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929173000 +0000" stop="20230929183000 +0000" channel="DTV BOLIVIA">
+    <title>SECTOR PAGADO</title>
+    <desc>Sector pagado DTV</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929183000 +0000" stop="20230929193000 +0000" channel="DTV BOLIVIA">
+    <title>PIEDRA PAPEL Y TINTA</title>
+    <desc>Sector de entrevistas donde se tocan los temas mas relevantes de politica y noticias actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929193000 +0000" stop="20230929210000 +0000" channel="DTV BOLIVIA">
+    <title>DTV CENTRAL DE NOTICIAS</title>
+    <desc>Central de noticias de DTV con la informacion mas importante de bolivia y del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929210000 +0000" stop="20230929220000 +0000" channel="DTV BOLIVIA">
+    <title>MAQUINA DEPORTIVA</title>
+    <desc>Sector con la informacion mas importante del deporte boliviano y internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230929220000 +0000" stop="20230930000000 +0000" channel="DTV BOLIVIA">
+    <title>DETRAS DE LA VERDAD</title>
+    <desc>Revista nocturna con entrevistas y las noticias mas relevantes de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/cC28qJf2/DTV-BOLIVIA-DETRAS-DE-LA-VERDAD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230930000000 +0000" stop="20230930010000 +0000" channel="DTV BOLIVIA">
+   <title>SECTOR PAGADO</title>
+   <desc>sector pagado DTV</desc>
+   <country lang="bo">bolivia</country>
+   <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+   <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20230930010000 +0000" stop="20230930060000 +0000" channel="DTV BOLIVIA">
+   <title>SECTOR PAGADO</title>
+   <desc>sector pagado DTV</desc>
+   <country lang="bo">bolivia</country>
+   <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg"/>
+   <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
 </tv>
