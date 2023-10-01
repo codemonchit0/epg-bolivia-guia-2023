@@ -1,214 +1,2347 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="F10">
-    <display-name>F10</display-name>
-    <url>https://f10.tv.bo</url>
+  <channel id="RED UNO BOLIVIA">
+    <display-name>RED UNO BOLIVIA</display-name>
+    <url>https://www.reduno.com.bo</url>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg" />
+  </channel>
+  <channel id="ATB BOLIVIA">
+    <display-name>ATB BOLIVIA BOLIVIA</display-name>
+    <url>https://www.ATB BOLIVIA.com.bo</url>
+    <icon src="https://i.postimg.cc/D0rb4tL7/ATB BOLIVIA-BOLIVIA-HD-NEW.jpg" />
+  </channel>
+  <channel id="RTP BOLIVIA">
+    <display-name>RTP BOLIVIA BOLIVIA</display-name>
+    <url>https://RTP BOLIVIAbolivia.com.bo</url>
+    <icon src="https://i.ibb.co/mC3q3wm/RTP BOLIVIA-LA-PAZ-HD.jpg" />
+  </channel>
+  <channel id="BOLIVISION BOLIVIA">
+    <display-name>BOLIVISION BOLIVIA Bolivia HD</display-name>
+    <url>https://www.redBOLIVISION BOLIVIA.tv.bo</url>
+    <icon src="https://i.ibb.co/CtDdqVw/NEW-BOLIVISION BOLIVIA-HD.jpg" />
+  </channel>
+  <channel id="ERBOL BOLIVIA">
+    <display-name>ERBOL BOLIVIA</display-name>
+    <url>https://erbol.com.bo</url>
+    <icon src="https://i.ibb.co/f9yhWBW/RADIO-ERBOL-HD.jpg" />
+  </channel>
+  <channel id="UNITEL BOLIVIA">
+    <display-name>UNITEL BOLIVIA</display-name>
+    <url>https://television.unitel.bo</url>
+    <icon src="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg" />
+  </channel>
+  <channel id="PTV BOLIVIA">
+    <display-name>PTV BOLIVIA</display-name>
+    <url>https://ptvbolivia.com</url>
+    <icon src="https://i.postimg.cc/vHX89Zyg/PTV-HD.jpg" />
+  </channel>
+  <channel id="TVU BOLIVIA">
+    <display-name>TVU BOLIVIA</display-name>
+    <url>https://tvu.umsa.bo</url>
+    <icon src="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" />
+  </channel>
+  <channel id="FDIEZ BOLIVIA">
+    <display-name>FDIEZ BOLIVIA</display-name>
+    <url>https://FDIEZ BOLIVIA.tv.bo</url>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg" />
-  </channel>  
-  <programme start="20230930053500 +0000" stop="20230930054500 +0000" channel="F10">
+  </channel>
+  <channel id="DTV BOLIVIA">
+    <display-name>DTV BOLIVIA</display-name>
+    <url>https://dtv.bo</url>
+    <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg" />
+  </channel>
+  
+  <programme start="20230930000000 +0000" stop="20230930010000 +0000" channel="RED UNO BOLIVIA">
+    <title>problemas y soluciones</title>
+    <desc>programa cristiano donde se da soluciones con ayuda de la fe en dios</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930010000 +0000" stop="20230930030000 +0000" channel="RED UNO BOLIVIA">
+    <title>Notivision edicion central repris</title>
+    <desc>repris de notivisin central</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230913030000 +0000" stop="20230913040000 +0000" channel="RED UNO BOLIVIA">
+   <title>Pantanal repris</title>
+   <desc>repris de la novela pantanal</desc>
+   <country lang="bo">bolivia</country>
+   <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930040000 +0000" stop="20230930045500 +0000" channel="RED UNO BOLIVIA">
+    <title>La faborita</title>
+    <desc>novela</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930045500 +0000" stop="20230930055500 +0000" channel="RED UNO BOLIVIA">
+    <title>problemas y soluciones</title>
+    <desc>programa religioso para dar solucion con fe a problemas de la familia</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930055500 +0000" stop="20230930060000 +0000" channel="RED UNO BOLIVIA">
+    <title>Identificacion de red</title>
+    <desc>Himno nacional marcha naval</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930060000 +0000" stop="20230930063000 +0000" channel="RED UNO BOLIVIA">
+    <title>PORORO</title>
+    <desc>Serie de sabado</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930063000 +0000" stop="20230930070000 +0000" channel="RED UNO BOLIVIA">
+    <title>TAYO</title>
+    <desc>Serie de sabado</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930070000 +0000" stop="20230930080000 +0000" channel="RED UNO BOLIVIA">
+    <title>Saint seiya - Los caballeros del zodiaco</title>
+    <desc>Serie anime clasica</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930080000 +0000" stop="20230930090000 +0000" channel="RED UNO BOLIVIA">
+    <title>Kenichi</title>
+    <desc>Serie anime clasica</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930090000 +0000" stop="20230930093000 +0000" channel="RED UNO BOLIVIA">
+    <title>Megalobox</title>
+    <desc>Serie anime clasica</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930093000 +0000" stop="20230930110000 +0000" channel="RED UNO BOLIVIA">
+    <title>Dragon Ball</title>
+    <desc>Serie anime clasica</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930110000 +0000" stop="20230930122500 +0000" channel="RED UNO BOLIVIA">
+    <title>Super Campeones</title>
+    <desc>Serie anime clasica</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930122500 +0000" stop="20230930140000 +0000" channel="RED UNO BOLIVIA">
+    <title>Notivision Medio dia</title>
+    <desc>Noticias de medio dia con actualidad del momento</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930140000 +0000" stop="20230930150000 +0000" channel="RED UNO BOLIVIA">
+    <title>La Familia Ingals</title>
+    <desc>Serie familiar clasica</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930150000 +0000" stop="20230930170000 +0000" channel="RED UNO BOLIVIA">
+    <title>Maraton Amor de Familia</title>
+    <desc>maraton del dia sabado de la novela amor de familia</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930170000 +0000" stop="20230930183000 +0000" channel="RED UNO BOLIVIA">
+    <title>Uno de Pelicula-lassie</title>
+    <desc>Lassie pelicula</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930183000 +0000" stop="20230930190000 +0000" channel="RED UNO BOLIVIA">
+    <title>DT la mision repris</title>
+    <desc>programa de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930190000 +0000" stop="20230930195500 +0000" channel="RED UNO BOLIVIA">
+    <title>Uno de feria</title>
+    <desc>SECTOR DE UNO DE FERIA DE RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930195500 +0000" stop="20230930210000 +0000" channel="RED UNO BOLIVIA">
+    <title>NOTIVISION</title>
+    <desc>Central de noticias del dia Sabado</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930210000 +0000" stop="20230930222000 +0000" channel="RED UNO BOLIVIA">
+    <title>La Noche de la GRI segunda temporada</title>
+    <desc>Revista nocturna con entrevistas y grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930222000 +0000" stop="20231001000000 +0000" channel="RED UNO BOLIVIA">
+    <title>UNO DE PELICULA-FORMULA 51</title>
+    <desc>FORMULA 51</desc>
+    <country lang="bo">bolivia</country>
+    <category lang="es">programacion sabado</category>
+  </programme>
+
+
+  <programme start="20231001000000 +0000" stop="20231001010000 +0000" channel="RED UNO BOLIVIA">
+    <title>PROBLEMAS Y SOLUCIONES</title>
+    <desc>Sector religioso para ayudar con los problemas cotidianos de la familia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001010000 +0000" stop="20231001021000 +0000" channel="RED UNO BOLIVIA">
+    <title>LA NOCHE DE LA GRI (REPRIS)</title>
+    <desc>Repris del programa nocturno de entrevistas y de musica en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001021000 +0000" stop="20231001045500 +0000" channel="RED UNO BOLIVIA">
+    <title>UNO DE PELÍCULA: FORMULA 51 (REPRIS)</title>
+    <desc>Sector de peliculas de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001045500 +0000" stop="20231001055500 +0000" channel="RED UNO BOLIVIA">
+    <title>PROBLEMAS Y SOLUCIONES</title>
+    <desc>Sector religioso para ayudar con los problemas cotidianos de la familia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001055500 +0000" stop="20231001060000 +0000" channel="RED UNO BOLIVIA">
+    <title>IDENTIFICACION DE RED</title>
+    <desc>Himno nacional y marcha naval</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001060000 +0000" stop="20231001063000 +0000" channel="RED UNO BOLIVIA">
+    <title>PORORO</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001063000 +0000" stop="20231001070000 +0000" channel="RED UNO BOLIVIA">
+    <title>TAYO</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001070000 +0000" stop="20231001080000 +0000" channel="RED UNO BOLIVIA">
+    <title>SANTA MISA</title>
+    <desc>Santa misa dominical</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001080000 +0000" stop="20231001081500 +0000" channel="RED UNO BOLIVIA">
+    <title>MIGAFONOS 3RA TEMPORADA REPRIS</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001081500 +0000" stop="20231001082000 +0000" channel="RED UNO BOLIVIA">
+    <title>KIOKA</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001082000 +0000" stop="20231001083000 +0000" channel="RED UNO BOLIVIA">
+    <title>MASHA Y EL OSO </title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001083000 +0000" stop="20231001090000 +0000" channel="RED UNO BOLIVIA">
+    <title>ANIMAL RESCUE</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001090000 +0000" stop="20231001093000 +0000" channel="RED UNO BOLIVIA">
+    <title>PLIM PLIM, UN HEROE DEL CORAZÓN</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001093000 +0000" stop="20231001100000 +0000" channel="RED UNO BOLIVIA">
+    <title>BLOQUE NICK: BABY SHARK'S BIG SHOW REPRIS</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001100000 +0000" stop="20231001103000 +0000" channel="RED UNO BOLIVIA">
+    <title>BLOQUE NICK: PAW PATROL T7</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001103000 +0000" stop="20231001110000 +0000" channel="RED UNO BOLIVIA">
+    <title>NICK: BLAZE AND THE MONSTER MACHINE</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001110000 +0000" stop="20231001113000 +0000" channel="RED UNO BOLIVIA">
+    <title>BLOQUE NICK: BOB ESPONJA T13</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001113000 +0000" stop="20231001120000 +0000" channel="RED UNO BOLIVIA">
+    <title>BLOQUE NICK: THE LOUD HOUSE T6</title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001120000 +0000" stop="20231001122500 +0000" channel="RED UNO BOLIVIA">
+    <title>BLOQUE NICK: HENRY DANGER </title>
+    <desc>Sector infantil de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001122500 +0000" stop="20231001140000 +0000" channel="RED UNO BOLIVIA">
+    <title>NOTIVISION EDICION DE FIN DE SEMANA</title>
+    <desc>Sector de noticias de fin de semana de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001140000 +0000" stop="20231001150000 +0000" channel="RED UNO BOLIVIA">
+    <title>FAMILIA INGALS</title>
+    <desc>Serie clasica familiar</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001150000 +0000" stop="20231001170000 +0000" channel="RED UNO BOLIVIA">
+    <title>MARATÓN PANTANAL</title>
+    <desc>Maraton de fin de semana de la novela Pantanal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001170000 +0000" stop="20231001183000 +0000" channel="RED UNO BOLIVIA">
+    <title>UNO DE PELÍCULA: LA VENGANZA DEL DRAGÓN (SHINJUKU)</title>
+    <desc>SECTOR DE PELICULA RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001183000 +0000" stop="20231001190000 +0000" channel="RED UNO BOLIVIA">
+    <title>DT LA MISIÓN</title>
+    <desc>Sector de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001190000 +0000" stop="20231001195500 +0000" channel="RED UNO BOLIVIA">
+    <title>UNO DE FERIA FINAL</title>
+    <desc>Sector de noticias de feria de bolivia de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001195500 +0000" stop="20231001205000 +0000" channel="RED UNO BOLIVIA">
+    <title>NOTIVISION EDICION DE FIN DE SEMANA</title>
+    <desc>Sector de noticias de RED UNO BOLIVIA de fin de semana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001205000 +0000" stop="20231001222000 +0000" channel="RED UNO BOLIVIA">
+    <title>100 BOLIVIANOS DICEN FAMOSOS</title>
+    <desc>Sector familiar de concursos y premios donde compiten famosos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001222000 +0000" stop="20231002000000 +0000" channel="RED UNO BOLIVIA">
+    <title>LA NOCHE DE LA GRI 2DA TEMPORADA</title>
+    <desc>Revista nocturna de entrevistas y grupos en vivo de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+
+  <programme start="20231002000000 +0000" stop="20231002010000 +0000" channel="RED UNO BOLIVIA">
+    <title>PROBLEMAS Y SOLUCIONES</title>
+    <desc>Sector religioso para dar solucion a problemas con ayuda de la fe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231002010000 +0000" stop="20231002030000 +0000" channel="RED UNO BOLIVIA">
+    <title>LA NOCHE DE LA GRI (REPRIS)</title>
+    <desc>Revista nocturna de entrevistas y grupos en vivo de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231002030000 +0000" stop="20231002045500 +0000" channel="RED UNO BOLIVIA">
+    <title>UNO DE PELÍCULA(REPRIS)</title>
+    <desc>Sector de peliculas de RED UNO BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231002045500 +0000" stop="20231002055500 +0000" channel="RED UNO BOLIVIA">
+    <title>PROBLEMAS Y SOLUCIONES</title>
+    <desc>Sector religioso para dar solucion a problemas con ayuda de la fe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+
+  <programme start="20230930010000 +0000" stop="20230930063000 +0000" channel="ATB BOLIVIA">
+    <title>ATB BOLIVIA DE PELICULA</title>
+    <desc>sector con las mejores peliculas y estrenos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930063000 +0000" stop="20230930070000 +0000" channel="ATB BOLIVIA">
+    <title>El gato con botas</title>
+    <desc>Serie infantil del gato con botas</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930070000 +0000" stop="20230930073000 +0000" channel="ATB BOLIVIA">
+    <title>Red cima</title>
+    <desc>Programa de ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930073000 +0000" stop="20230930080000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector de oferta variada de productos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930080000 +0000" stop="20230930090000 +0000" channel="ATB BOLIVIA">
+    <title>Bolivia Emprende</title>
+    <desc>Sector donde se da difusion y gestion de emprendimientos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930090000 +0000" stop="20230930093000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se ofertan distintos productos de consumo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930093000 +0000" stop="20230930103000 +0000" channel="ATB BOLIVIA">
+    <title>AD HOC</title>
+    <desc>Programa de ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930103000 +0000" stop="20230930110000 +0000" channel="ATB BOLIVIA">
+    <title>PICA</title>
+    <desc>Programa de ATB BOLIVIA matinal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930110000 +0000" stop="20230930113000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se ofertan productos empresariales variados</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930113000 +0000" stop="20230930120000 +0000" channel="ATB BOLIVIA">
+    <title>El Gato con botas</title>
+    <desc>serie infantil del gato con botas por ATB BOLIVIA red nacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930120000 +0000" stop="20230930130000 +0000" channel="ATB BOLIVIA">
+    <title>Contame</title>
+    <desc>Revista de fin de semana de ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930130000 +0000" stop="20230930140000 +0000" channel="ATB BOLIVIA">
+    <title>ATB BOLIVIA Noticias</title>
+    <desc>Noticias de fin de semana de la red ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930140000 +0000" stop="20230930143000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se promociona productos variados</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930143000 +0000" stop="20230930153000 +0000" channel="ATB BOLIVIA">
+    <title>Crack TV</title>
+    <desc>programa de la red ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930153000 +0000" stop="20230930163000 +0000" channel="ATB BOLIVIA">
+    <title>Love That Makes You Cry</title>
+    <desc>programa de la red ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930163000 +0000" stop="20230930180000 +0000" channel="ATB BOLIVIA">
+    <title>Pura Energia</title>
+    <desc>Programa boliviano exclusico que trata del deporte tuerca de nuestro pais y del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930180000 +0000" stop="20230930190000 +0000" channel="ATB BOLIVIA">
+    <title>ATB BOLIVIA sonrisas te de</title>
+    <desc>Programa de ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930190000 +0000" stop="20230930200000 +0000" channel="ATB BOLIVIA">
+    <title>Embajadas y embajadores</title>
+    <desc>Programa que trata de las politicas y temas de las embajas tanto en bolivia y del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930200000 +0000" stop="20230930220000 +0000" channel="ATB BOLIVIA">
+    <title>ATB BOLIVIA de Pelicula</title>
+    <desc>Estrenos de las mejores peliculas tanto nacionales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930220000 +0000" stop="20230930233000 +0000" channel="ATB BOLIVIA">
+    <title>Sin filtro</title>
+    <desc>Programa de ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>
+  <programme start="20230930233000 +0000" stop="20231001063000 +0000" channel="ATB BOLIVIA">
+    <title>ATB BOLIVIA DE PELICULA NOCTURNO</title>
+    <desc>Sector nocturno donde podras ver las mejores peliculas del momento</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0QX2mqFY/02-SECTOR-PELICULAS-ATB BOLIVIA.jpg"/>
+    <category lang="es">programacion sabado</category>
+  </programme>  
+
+  <programme start="20231001063000 +0000" stop="20231001070000 +0000" channel="ATB BOLIVIA">
+    <title>El gato con botas</title>
+    <desc>serie infantil del gato con botas</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001070000 +0000" stop="20231001073000 +0000" channel="ATB BOLIVIA">
+    <title>PROMO TV</title>
+    <desc>Sector donde se anuncian los mejores productos comerciales para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001073000 +0000" stop="20231001083000 +0000" channel="ATB BOLIVIA">
+    <title>Bolivia Emprende</title>
+    <desc>Sector donde se da a conocer a los emprendimientos de bolivia y donde se le da su respectiva promocion</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001083000 +0000" stop="20231001090000 +0000" channel="ATB BOLIVIA">
+    <title>Promo TV</title>
+    <desc>Sector donde se anuncian los mejores productos comerciales para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001090000 +0000" stop="20231001100000 +0000" channel="ATB BOLIVIA">
+    <title>Red tv te conecta</title>
+    <desc>Programa de la red ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001100000 +0000" stop="20231001103000 +0000" channel="ATB BOLIVIA">
+    <title>Promo TV</title>
+    <desc>Sector donde se anuncian los mejores productos comerciales para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001103000 +0000" stop="20231001110000 +0000" channel="ATB BOLIVIA">
+    <title>Guerreros invencibles</title>
+    <desc>Programa de la red ATB BOLIVIA de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001110000 +0000" stop="20231001130000 +0000" channel="ATB BOLIVIA">
+    <title>Sala ViB</title>
+    <desc>Programa de la red ATB BOLIVIA de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001130000 +0000" stop="20231001133000 +0000" channel="ATB BOLIVIA">
+    <title>Magica Aventura</title>
+    <desc>Programa documental donde se toca los tema de amazonia y medio ambiente dandonde un efoce humano</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001133000 +0000" stop="20231001143000 +0000" channel="ATB BOLIVIA">
+    <title>Generacion Z</title>
+    <desc>Programa juvenil de la red ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001143000 +0000" stop="20231001150000 +0000" channel="ATB BOLIVIA">
+    <title>Promo TV</title>
+    <desc>Sector donde se anuncian los mejores productos comerciales para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001150000 +0000" stop="20231001170000 +0000" channel="ATB BOLIVIA">
+    <title>Feat TV</title>
+    <desc>Programa de la red ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001170000 +0000" stop="20231001183000 +0000" channel="ATB BOLIVIA">
+    <title>Emprendedores</title>
+    <desc>Programa de la red ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001183000 +0000" stop="20231001193000 +0000" channel="ATB BOLIVIA">
+    <title>ATB BOLIVIA Noticias edicion nocturna</title>
+    <desc>Noticias de fin de semana con los temas mas importanes locales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001193000 +0000" stop="20231001203500 +0000" channel="ATB BOLIVIA">
+    <title>Futbol Mania</title>
+    <desc>Sector deportivo de fin de semana con las noticia mas importantes del deporte actual</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001203500 +0000" stop="20231001212500 +0000" channel="ATB BOLIVIA">
+    <title>Magnun</title>
+    <desc>Serie televisiva de ATB BOLIVIA red nacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001212500 +0000" stop="20231001230000 +0000" channel="ATB BOLIVIA">
+    <title>Asi Baila Bolivia</title>
+    <desc>Programa reality de bailes en grupo de entretenimiento familiar</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231001230000 +0000" stop="20231002000000 +0000" channel="ATB BOLIVIA">
+    <title>Contame</title>
+    <desc>Programa reality de bailes en grupo de entretenimiento familiar</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+  <programme start="20231002000000 +0000" stop="20231002040000 +0000" channel="ATB BOLIVIA">
+    <title>sector de peliculas de ATB BOLIVIA </title>
+    <desc>sector de peliculas de ATB BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/gk52qgFq/ATB BOLIVIA-imagen-icono-de-programas.jpg"/>
+    <category lang="es">programacion domingo</category>
+  </programme>
+
+  <programme start="202309300000000 +0000" stop="20230930053000 +0000" channel="RTP BOLIVIA">
+    <title>Info comerciales productos variados</title>
+    <desc>Muestrario de variados productos de consumo general para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+    <review type="text">Ratings: 4.</review>
+  </programme>
+  <programme start="20230930000000 +0000" stop="20230930060000 +0000" channel="RTP BOLIVIA">
+    <title>Espacio de difuscion Comercial</title>
+    <desc>Sector donde se anuncian diversos productos para el consumidor en general</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 5.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930060000 +0000" stop="20230930090000 +0000" channel="RTP BOLIVIA">
+    <title>Ritmo Popular</title>
+    <desc>Revista musical folklorica de entrenimiento</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930090000 +0000" stop="20230930100000 +0000" channel="RTP BOLIVIA">
+    <title>Su Empresa</title>
+    <desc>Somos un programa de TV especializado en la difusión y promoción de micro, pequeñas y grandes empresa de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930100000 +0000" stop="20230930110000 +0000" channel="RTP BOLIVIA">
+    <title>ABC de la Medicina</title>
+    <desc>El ABC de la Medicina se difunde a nivel nacional por la señal de RTP BOLIVIA, El programa dedicado a la salud en general, donde da consejos tecnicos en general para que cuidemos nuestra salud</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930110000 +0000" stop="20230930120000 +0000" channel="RTP BOLIVIA">
+    <title>Voces Anonimas</title>
+    <desc>Programa de televios de RTP BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930120000 +0000" stop="20230930130000 +0000" channel="RTP BOLIVIA">
+    <title>La tribuna libre</title>
+    <desc>Es un espacio donde la gente puede poner una denuncia barrial, anunciar el extravio de un menor o de un adulto mayor; alertar la pérdida de documentos y de mascotas y concientiza al publico sobre la importancia del cuidado del medio ambiente, lleva ya 35 años al aire</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 9.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930130000 +0000" stop="20230930140000 +0000" channel="RTP BOLIVIA">
+    <title>Noticiero Popular</title>
+    <desc>Noticiero RTP BOLIVIA del dia sabado con las noticias mas importantes de la jornada semanal y actual</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930140000 +0000" stop="20230930153000 +0000" channel="RTP BOLIVIA">
+    <title>RTP BOLIVIA Mundo</title>
+    <desc>RTP BOLIVIA Mundo analiza dos problemáticas que derivan del cambio climático y de la afectación al medioambiente</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930153000 +0000" stop="20230930163000 +0000" channel="RTP BOLIVIA">
+    <title>Sabado Estelar</title>
+    <desc>SABÁDO ESTELAR" programa de entretenimiento familiar para todos</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930163000 +0000" stop="20230930173000 +0000" channel="RTP BOLIVIA">
+    <title>Desafiados</title>
+    <desc>Programa de entretenimiento familiar de juegos</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930173000 +0000" stop="20230930180000 +0000" channel="RTP BOLIVIA">
+    <title>Noticiero Popular</title>
+    <desc>Noticiero RTP BOLIVIA del dia sabado con las noticias mas importantes de la jornada semanal y actual</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930180000 +0000" stop="20230930203000 +0000" channel="RTP BOLIVIA">
+    <title>Cine RTP BOLIVIA</title>
+    <desc>Sector con las mejores peliculas del momento</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930203000 +0000" stop="20230930223000 +0000" channel="RTP BOLIVIA">
+    <title>La Wislla Popular</title>
+    <desc>Programa nocturo de entretenimiento y de grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930223000 +0000" stop="20231001000000 +0000" channel="RTP BOLIVIA">
+    <title>Cine Mundo</title>
+    <desc>Cine Mundo, un espacio esperado por todos los cinéfilos y pionero en lo que respecta a los detalles minuciosos del séptimo arte</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+
+  <programme start="20231001000000 +0000" stop="20231001053000 +0000" channel="RTP BOLIVIA">
+    <title>Sector info-merciales</title>
+    <desc>espacio donde se anuncian productos para toda la familia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001053000 +0000" stop="20231001090000 +0000" channel="RTP BOLIVIA">
+    <title>Ritmo popular</title>
+    <desc>sector de entretenimiento musical nacional de la musica folklorica de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001090000 +0000" stop="20231001100000 +0000" channel="RTP BOLIVIA">
+    <title>Markanaru Sarañani</title>
+    <desc>sector de radio television pópular RTP BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001100000 +0000" stop="20231001110000 +0000" channel="RTP BOLIVIA">
+    <title>Voces Anonimas</title>
+    <desc>sector de radio television pópular RTP BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001110000 +0000" stop="20231001120000 +0000" channel="RTP BOLIVIA">
+    <title>Reporte Rural</title>
+    <desc>sector donde se toma la tematica rural del pais en toda sus noticias y necesidades</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001120000 +0000" stop="20231001130000 +0000" channel="RTP BOLIVIA">
+    <title>Domingueando</title>
+    <desc>sector de radio television popular RTP BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001130000 +0000" stop="20231001140000 +0000" channel="RTP BOLIVIA">
+    <title>Noticiero Popular RTP BOLIVIA</title>
+    <desc>Resumen de noticias semanal RTP BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001140000 +0000" stop="20231001150000 +0000" channel="RTP BOLIVIA">
+    <title>RTP BOLIVIA MUNDO</title>
+    <desc>Sector de radio television popular RTP BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001150000 +0000" stop="20231001160000 +0000" channel="RTP BOLIVIA">
+    <title>CINE RTP BOLIVIA</title>
+    <desc>Sector de peliculas y estrenos de la tarde</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001160000 +0000" stop="20231001180000 +0000" channel="RTP BOLIVIA">
+    <title>Desafiados</title>
+    <desc>Programa de radio television popular RTP BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001180000 +0000" stop="20231001190000 +0000" channel="RTP BOLIVIA">
+    <title>RTP BOLIVIA NOTICIAS FIN DE SEMANA</title>
+    <desc>Sector de fin de semana de noticias de RTP BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001190000 +0000" stop="20231001200000 +0000" channel="RTP BOLIVIA">
+    <title>DESACUERDO</title>
+    <desc>Revista de analisis y critica de la coyuntura politica actual del momento</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001200000 +0000" stop="20231001210000 +0000" channel="RTP BOLIVIA">
+    <title>espaco sin definir</title>
+    <desc>Programa de radio television popular RTP BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 6.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001210000 +0000" stop="20231001213000 +0000" channel="RTP BOLIVIA">
+    <title>ESPACIO SIN DEFINIR</title>
+    <desc>ESPACIO SIN DEFINIR</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001213000 +0000" stop="20231001223000 +0000" channel="RTP BOLIVIA">
+    <title>EL EQUIPO DEPORTIVO</title>
+    <desc>Sector de noticias y deportes actuales</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001223000 +0000" stop="20231001233000 +0000" channel="RTP BOLIVIA">
+    <title>Telecasos</title>
+    <desc>Sector nocturno de cronica roja donde se recrea los casos mas importantes de la semana del telepolicial</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001233000 +0000" stop="20231002003000 +0000" channel="RTP BOLIVIA">
+    <title>Telecasos</title>
+    <desc>Sector nocturno de cronica roja donde se recrea los casos mas importantes de la semana del telepolicial</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <icon src="https://i.postimg.cc/QMSMVJSW/RTP BOLIVIA-ICONO-PROGRAMACION.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+
+
+  <programme start="20231002003000 +0000" stop="20231002053000 +0000" channel="RTP BOLIVIA">
+    <title>Info comerciales productos variados</title>
+    <desc>Muestrario de variados productos de consumo general para la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 4.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+    <review type="text">Ratings: 4.</review>
+  </programme>
+  <programme start="20231002063000 +0000" stop="20231002090000 +0000" channel="RTP BOLIVIA">
+    <title>RTP BOLIVIA informa edicion matinal</title>
+    <desc>Noticiero RTP BOLIVIA donde se trata las noticias que incian en la primera hora del dia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002090000 +0000" stop="20231002113000 +0000" channel="RTP BOLIVIA">
+    <title>La Wislla Popular</title>
+    <desc>Revista matinal de entrenimiento y de grupos musicales en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002113000 +0000" stop="20231002123000 +0000" channel="RTP BOLIVIA">
+    <title>La Tribuna libre de pueblo</title>
+    <desc>Es un espacio donde la gente puede poner una denuncia barrial, anunciar el extravio de un menor o de un adulto mayor; alertar la pérdida de documentos y de mascotas y concientiza al publico sobre la importancia del cuidado del medio ambiente, lleva ya 35 años al aire</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002123000 +0000" stop="20231002130000 +0000" channel="RTP BOLIVIA">
+    <title>El Equipo Deportivo</title>
+    <desc>Programa deportivo local que trata temas de deportes variados del ambito boliviano e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002130000 +0000" stop="20231002140000 +0000" channel="RTP BOLIVIA">
+    <title>Noticiero Popular</title>
+    <desc>Programa noticioso de edicion meridiana que trata los temas mas importanes locales e internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002140000 +0000" stop="20231002153000 +0000" channel="RTP BOLIVIA">
+    <title>Los Principales</title>
+    <desc>Primer informativo boliviano a nivel nacional especializado en espectáculo y folklore de la televisión en Bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002153000 +0000" stop="20231002170000 +0000" channel="RTP BOLIVIA">
+    <title>El Gustito Boliviano</title>
+    <desc>Programa de television de entretenimiento familiar y de grupos musicales en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002170000 +0000" stop="20231002180000 +0000" channel="RTP BOLIVIA">
+    <title>Tu Top</title>
+    <desc>Programa juvenil de entretenimiento musical con grupos en vivo y concursos</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002180000 +0000" stop="20231002190000 +0000" channel="RTP BOLIVIA">
+    <title>El equipo Deportivo</title>
+    <desc>Programa deportivo local que trata de deportes variados del ambito boliviano e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 7.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002190000 +0000" stop="20231002200000 +0000" channel="RTP BOLIVIA">
+    <title>Lucha de Caceras</title>
+    <desc>Primer programa reality de la television Boliviana, donde las principales protagonistas son las caseras de mercados populares</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002200000 +0000" stop="20231002210000 +0000" channel="RTP BOLIVIA">
+    <title>Noticiero Popular Edicion Central</title>
+    <desc>Noticiero central de RTP BOLIVIA donde se tocan los temas mas importantes que se vio en la jornada local e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002210000 +0000" stop="20231002220000 +0000" channel="RTP BOLIVIA">
+    <title>Tomando El Pulso</title>
+    <desc>Revista nocturna donde se toca temas de impacto informativo, con las noticias mas relevantes y entrevistas</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 8.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002220000 +0000" stop="20231002230000 +0000" channel="RTP BOLIVIA">
+    <title>ClarOscuro</title>
+    <desc>la revista Claroscuro tiene el objetivo de construir la noticia más destacada del día y hacer una revisión de los antecedentes, la coyuntura, los posibles escenarios futuros y, sobre todo, darle miradas desde diferentes ángulos a la temática.</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002230000 +0000" stop="20231003000000 +0000" channel="RTP BOLIVIA">
+    <title>Telepolicial</title>
+    <desc>El Telepolicial, es el primer programa de la television boliviana de crónica roja que se difunde por Radio Televisión Popular (RTP BOLIVIA) y que sigue al aire despues de 30 años</desc>
+    <country lang="bo">bolivia</country>
+    <review type="text">Ratings: 10.</review>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="20230930000000 +0000" stop="20230930020000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Espacio pagado</title>
+    <desc>espacio pagado de la red BOLIVISION BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>  
+  <programme start="20230930020000 +0000" stop="20230930023000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Una luz en tu camino</title>
+    <desc>programa de la red BOLIVISION BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930023000 +0000" stop="20230930040000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Extant</title>
+    <desc>Molly Woods (Halle Berry) es una astronauta que regresa a la Tierra tras pasar un año en el espacio debido a una misión en solitario.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930040000 +0000" stop="20230930060000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Espacio Pagado</title>
+    <desc>Espacio pagado de la red BOLIVISION BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930060000 +0000" stop="20230930063000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>1-2-3 Vamos</title>
+    <desc>Serie animada, educativa y de ciencia ficción. Sucesor de Plaza Sésamo, en la que participan algunos muppets originales y únicos de esta serie</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930063000 +0000" stop="20230930070000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Magazine UCL</title>
+    <desc>programa de la red BOLIVISION BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930070000 +0000" stop="20230930073000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>FILARMONICA DE VIENA</title>
+    <desc>Espacio con los mejores conciertos sinfonicos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930073000 +0000" stop="20230930074500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Duda y dada</title>
+    <desc>Duda, un topo de 6 años, solía vivir bajo tierra hasta que un día, se atreve a salir. Para Duda, todo sobre el “bosque desconocido” es emocionante y nuevo.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930074500 +0000" stop="20230930081500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Dino Ranch</title>
+    <desc>Dino Ranch sigue las aventuras llenas de acción de la familia Cassidy como enfrentarse a la vida en un mundo prehistórico fantástico por donde los dinosaurios todavía pasean.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930081500 +0000" stop="20230930085000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Hold on Tight</title>
+    <desc>Ha comenzado un nuevo semestre en la Escuela especial de Bomnae. Por ser una escuela nueva, solo hay estudiantes de primer año de bachillerato</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930085000 +0000" stop="20230930091500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>The Pink Panther and Sons</title>
+    <desc>Es una serie animada de televisión basada en las caricaturas clásicas de La Pantera Rosa, La hormiga y el oso hormiguero.</desc>
+  </programme>
+  <programme start="20230930091500 +0000" stop="20230930094000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>The Planet's Funniest Animals</title>
+    <desc>Videos caseros del comportamiento divertido o curioso por parte de las mascotas o animales, que son relatados por el anfitrión, que por lo general</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930094000 +0000" stop="20230930103000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Escape Perfecto</title>
+    <desc>Programa de juegos mexicano que se estrenó en 2015. El programa está basado en el programa de juegos argentino del mismo nombre y presenta equipos de dos concursantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930103000 +0000" stop="20230930105500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Totally Insane Guinness World Records</title>
+    <desc>Record guines del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930105500 +0000" stop="20230930114000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Escape Perfecto</title>
+    <desc>Programa de juegos mexicano que se estrenó en 2015. El programa está basado en el programa de juegos argentino del mismo nombre y presenta equipos de dos concursantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930114000 +0000" stop="20230930122500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>The Messengers</title>
+    <desc>serie de la red BOLIVISION BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930122500 +0000" stop="20230930133000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero al dia fin de semana</title>
+    <desc>Sector de noticias de fin de semana de la red BOLIVISION BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930133000 +0000" stop="20230930151500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>American ninja warrior</title>
+    <desc>Competidores se enfrentan a la carrera de obstáculos más difícil del mundo.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930151500 +0000" stop="20230930160000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Alerta cobra</title>
+    <desc>También conocida como Alarm für Cobra 11 (Die Autobahnpolizei en alemán) es una serie de procedimientos de la policía alemana sobre un equipo de dos agentes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930160000 +0000" stop="20230930170000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Rosalinda</title>
+    <desc>Producción mexicana. Rosalinda trabaja en el puesto de flores del abuelo Florentino. Rosalinda pierde a quien cree que es su madre y ayuda a sacar adelante a su papá Javier</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930170000 +0000" stop="20230930180000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Repris Playoffs Braga vs. Panathinaikos</title>
+    <desc>Teleserie mexicana que recrea historias y situaciones actuales que se asemejan a dichos y refranes comunes y populares.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930180000 +0000" stop="20230930190000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La rosa de guadalupe</title>
+    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe cuenta una historia diferente sobre una persona</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930190000 +0000" stop="20230930200000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero al dia fina de semana</title>
+    <desc>noticiero al dia edicion de fin de semana con el resumen de las mejores noticias de la jornada sermanal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930200000 +0000" stop="20230930220000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Cine Boliwood</title>
+    <desc>Es la primera de la serie de películas de James Bond. En la película, James Bond es enviado a Jamaica para investigar la desaparición de otro agente británico. El rastro lo lleva a la</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930220000 +0000" stop="20230930230000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Hawaii 5.0</title>
+    <desc>La serie cubre las acciones de una pequeña unidad especial de la policía estatal creada por la gobernadora de Hawái para investigar delitos graves en las islas.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+  <programme start="20230930230000 +0000" stop="20231001000000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCIS Los Ángeles</title>
+    <desc>Serie policíaca y de ficción estadounidense sobre un equipo de agentes de la ciudad de los Ángeles que trabajan encubiertos con la tecnología disponible más avanzada para atrapar a los criminales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del sabado</category>
+  </programme>
+
+  <programme start="20231001000000 +0000" stop="20231001010000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCIS Los Ángeles</title>
+    <desc>Serie policíaca y de ficción estadounidense sobre un equipo de agentes de la ciudad de los Ángeles que trabajan encubiertos con la tecnología disponible más avanzada para atrapar a los criminales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001010000 +0000" stop="20231001020000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>CSI Nueva York</title>
+    <desc>Ambientada en la ciudad de New York, la serie sigue a un grupo de investigadores que trabajan para el laboratorio criminalístico de la ciudad. La trama mezcla temas ásperos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001020000 +0000" stop="20231001040000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Fear Factor</title>
+    <desc>Es un reality show de juegos, espectáculo deportivo estadounidense y de suspenso. El programa enfrenta a los concursantes unos contra otros en una variedad de trucos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001040000 +0000" stop="20231001050000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCIS Navy</title>
+    <desc>La serie sigue a un grupo de agentes federales del equipo de respuesta en casos principales del servicio de investigación criminal naval, cuyo cuartel general está en el arsenal naval</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001050000 +0000" stop="20231001060000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Al Extremo</title>
+    <desc>Producción mexicana, con noticias impactantes, historias extremas, asombrosas, sorprendentes y audaces, especialmente de Estados Unidos y México</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001060000 +0000" stop="20231001063000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>3-2-1 VAMOS</title>
+    <desc>Serie animada, educativa y de ciencia ficción. Sucesor de Plaza Sésamo, en la que participan algunos muppets originales y únicos de esta serie, como ser Abby Cadabby, Elmo, Beto</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001063000 +0000" stop="20231001070000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Vicky the Viking</title>
+    <desc>El personaje principal de la serie es Vicky, hijo de Halvar, jefe del pueblo vikingo de Flake. A diferencia de sus compañeros de la aldea, incluidos la mayoría de los otros niños de su edad,</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001070000 +0000" stop="20231001073000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Plaza Sesamo</title>
+    <desc>Serie de televisión educativa en español para niños en edad preescolar que se estrenó en México en 1972. Es una de las primeras coproducciones internacionales de Plaza Sésamo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001073000 +0000" stop="20231001074500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Duda y dada</title>
+    <desc>Duda, un topo de 6 años, solía vivir bajo tierra hasta que un día, se atreve a salir. Para Duda, todo sobre el “bosque desconocido” es emocionante y nuevo. Duda está tan</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001074500 +0000" stop="20231001081500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Dino Ranch</title>
+    <desc>Dino Ranch sigue las aventuras llenas de acción de la familia Cassidy como enfrentarse a la vida en un mundo prehistórico fantástico por donde los dinosaurios todavía pasean.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001081500 +0000" stop="20231001085000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Hold on Tight</title>
+    <desc>Ha comenzado un nuevo semestre en la Escuela especial de Bomnae. Por ser una escuela nueva, solo hay estudiantes de primer año de bachillerato, y acaban de entrar muchos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001085000 +0000" stop="20231001103000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Lucha Libre Mexicana</title>
+    <desc>Lucha Libre AAA Worldwide es una promoción de lucha libre profesional mexicana con sede en la Ciudad de México. AAA es conocida por su estilo de lucha acrobática de altos vuelos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001103000 +0000" stop="20231001105500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Totally Insane Guinness World Records</title>
+    <desc>Sector de record guinness de BOLIVISION BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001105500 +0000" stop="20231001114000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Escape perfecto</title>
+    <desc>Programa de juegos mexicano que se estrenó en 2015. El programa está basado en el programa de juegos argentino del mismo nombre y presenta equipos de dos concursantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001114000 +0000" stop="20231001122500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>The Messengers</title>
+    <desc>Serie de BOLIVISION BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001122500 +0000" stop="20231001133000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero Al Día Segunda Edición</title>
+    <desc>Noticiero de fin de semana de la red BOLIVISION BOLIVIA con las noticias mas importantes de la semana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001133000 +0000" stop="20231001143000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>American ninja warrior</title>
+    <desc>Competidores se enfrentan a la carrera de obstáculos más difícil del mundo.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001143000 +0000" stop="20231001151500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Smack Down</title>
+    <desc>Entretenimiento deportivo de lucha libre profesional producido por la WWE. Es el segundo programa principal de la empresa después de RAW. Originalmente creado para</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001151500 +0000" stop="20231001160000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Alerta cobra</title>
+    <desc>También conocida como Alarm für Cobra 11 (Die Autobahnpolizei en alemán) es una serie de procedimientos de la policía alemana sobre un equipo de dos agentes de la</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001160000 +0000" stop="20231001180000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Rosalinda</title>
+    <desc>Producción mexicana. Rosalinda trabaja en el puesto de flores del abuelo Florentino. Rosalinda pierde a quien cree que es su madre y ayuda a sacar adelante a su papá Javier</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001170000 +0000" stop="20231001180000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Como Dice El Dicho</title>
+    <desc>Teleserie mexicana que recrea historias y situaciones actuales que se asemejan a dichos y refranes comunes y populares.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001180000 +0000" stop="20231001185000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La Rosa De Guadalupe</title>
+    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe cuenta una historia diferente</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001185000 +0000" stop="20231001195000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero Al Día Edición Central</title>
+    <desc>Noticiero de edicion de BOLIVISION BOLIVIA donde se toma las noticias mas relevantes de fin de semana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001195000 +0000" stop="20231001203000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La Cancha de Bolivisión</title>
+    <desc>Sector deportivo de fin de semana donde se tocan los temas mas importanes de fin de semana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001203000 +0000" stop="20231001223000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Mira Quién Baila</title>
+    <desc>Es una serie de telerrealidad mexicana basada en el programa estadounidense Bailando con las estrellas. El espectáculo presenta a celebridades que se emparejan con bailarines</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001223000 +0000" stop="20231001233000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Hawaii 5.0</title>
+    <desc>La serie cubre las acciones de una pequeña unidad especial de la policía estatal creada por la gobernadora de Hawái para investigar delitos graves en las islas.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001233000 +0000" stop="20231002000000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCIS Los Ángeles</title>
+    <desc>La serie cubre las acciones de una pequeña unidad especial de la policía estatal creada por la gobernadora de Hawái para investigar delitos graves en las islas.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+
+  <programme start="20231002000000 +0000" stop="20231002020000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Creer es Poder</title>
+    <desc>Programa religioso para solucionar problemas con la fe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002020000 +0000" stop="20231002030000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>NCI Navy</title>
+    <desc>La serie sigue a un grupo de agentes federales del equipo de respuesta en casos principales del servicio de investigación criminologia naval</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002030000 +0000" stop="20231002040000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Al Extremo</title>
+    <desc>Producción mexicana, con noticias impactantes, historias extremas, asombrosas, sorprendentes y audaces, especialmente de Estados Unidos y México.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002040000 +0000" stop="20231002060000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Creer es Poder</title>
+    <desc>Programa religioso para solucionar problemas con ayuda de la fe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002060000 +0000" stop="20231002090000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Al Dia tu Dia</title>
+    <desc>Revista manital de noticias y entrenimiento de la red BOLIVISION BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002090000 +0000" stop="20231002095500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Laura</title>
+    <desc>Es un programa de televisión del género talk show, animado por la abogada Laura Bozzo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002095500 +0000" stop="20231002105500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Mujer Casos de la vida Real</title>
+    <desc>Esta serie conmovedora, que en el comienzo fue titulada solamente Casos de la Vida Real, ahora tiene añadido el sustantivo Mujer y como su título lo indica</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002105500 +0000" stop="20231002114500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La rosa de guadalupe</title>
+    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002114500 +0000" stop="20231002122500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Las mil y una noches</title>
+    <desc>Producción turca. Cuenta la historia de Sherezade y Onur. Ella profesional, viuda con un hijo al que le diagnostican leucemia y para salvarlo acepta la proposición de su jefe (Onur)</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002122500 +0000" stop="20231002140000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero al dia segunda edicion</title>
+    <desc>Noticiero de medio de la red BOLIVISION BOLIVIA que trata las noticias mas importantes de la mañana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002140000 +0000" stop="20231002145000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La promesa</title>
+    <desc>Producción turca. La familia Tarhun es una familia muy rica y conocida. El padre de la familia, Hikmet, quiere casar a su malcriado e irresponsable hijo Emir</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002145000 +0000" stop="20231002154500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>El amor invencible</title>
+    <desc>Producción mexicana. Hace quince años, Marena Ramos sufre un percance a manos de Gael Torrenegro, heredero de una de las cervecerías más importantes de México</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002154500 +0000" stop="20231002163500 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Como dice el dicho</title>
+    <desc>Teleserie mexicana que recrea historias y situaciones actuales que se asemejan a dichos y refranes comunes y populares</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002163500 +0000" stop="20231002174000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>La Rosa de Guadalupe</title>
+    <desc>Se ha emitido en más de 180 países de todo el mundo y se ha traducido a 25 idiomas. Cada episodio de La Rosa de Guadalupe</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002174000 +0000" stop="20231002184000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>El Legado</title>
+    <desc>Producción turca. Historia de Yaman un hombre de negocios rico y carismático, y Seher que tiene una vida inocente y modesta</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002184000 +0000" stop="20231002194000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Elif</title>
+    <desc>Producción turca. Melek era una empleada que se enamoró de Kenan, el primogénito de la familia rica para la que trabajaba. Kenan también se enamoró de ella</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002194000 +0000" stop="20231002203000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Fugitiva</title>
+    <desc>Producción turca. Narra la historia de Nefes, una mujer que se casó muy joven cuando fue vendida por su padre</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002203000 +0000" stop="20231002220000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Noticiero al dia edicion central</title>
+    <desc>Sector noticiero de BOLIVISION BOLIVIA con las noticias del momento del ambito local e internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002220000 +0000" stop="20231003000000 +0000" channel="BOLIVISION BOLIVIA">
+    <title>Aqui en En Vivo</title>
+    <desc>Revista Nocturna donde se tratan los temas mas importantes de la jornada y donde se presentan grupos en vivo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/sPGt3SQ/BOLIVISION BOLIVIA-HD-NEW-2.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+
+  <programme start="20230930000000 +0000" stop="20230930000500 +0000" channel="TVU BOLIVIA">
+    <title>REJILLA TVU</title>
+    <desc>Himno nacional simfonico</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230930000500 +0000" stop="20230930010500 +0000" channel="TVU BOLIVIA">
+    <title>NOTICIERO HECHOS EDICION CENTRAL-REPRIS</title>
+    <desc>Respris del noticiero central de TVU con las noticias mas importantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230930010500 +0000" stop="20230930020500 +0000" channel="TVU BOLIVIA">
+    <title>CARTAS SOBRE LA MESA-REPRIS</title>
+    <desc>Respris de la revista nocturna de analisis y entrevistas de temas actuales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230930020500 +0000" stop="20230930043000 +0000" channel="TVU BOLIVIA">
+    <title>SECTOR DE PELICULAS NOCTURAS DE TVU</title>
+    <desc>Las mejores peliculas del sector nocturno de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230930043000 +0000" stop="20230930050000 +0000" channel="TVU BOLIVIA">
+    <title>DOCUMENTALES MEMORABLES</title>
+    <desc>Sector de documentales con los romances y biografias mas importantes de personajes celebres</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230930050000 +0000" stop="20230930055500 +0000" channel="TVU BOLIVIA">
+    <title>SECTOR RELIGIOSO</title>
+    <desc>Espacio religioso</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230930055500 +0000" stop="20230930060000 +0000" channel="TVU BOLIVIA">
+    <title>REJILLA TVU IDENTIFICACION</title>
+    <desc>Himno nacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20230930060000 +0000" stop="20230930070000 +0000" channel="TVU BOLIVIA">
+    <title>SECTOR TVU</title>
+    <desc>Sector de television universitaria UMSA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930070000 +0000" stop="20230930080000 +0000" channel="TVU BOLIVIA">
+    <title>PRISMA AGROPECUARIO</title>
+    <desc>Sector de TVU con las noticias mas importantes del tema agropecuario, tecnoligia y desarrollo de la misma</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930080000 +0000" stop="20230930090000 +0000" channel="TVU BOLIVIA">
+    <title>TU SALUD</title>
+    <desc>Sector de noticias de salud y consejos tecnicos practicos para cuidarla</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930090000 +0000" stop="20230930103000 +0000" channel="TVU BOLIVIA">
+    <title>CUIDANDO TU SONRISA</title>
+    <desc>Programa donde se trata el tema del cuidado de la salud bucal con tamas de interes general</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930103000 +0000" stop="20230930110000 +0000" channel="TVU BOLIVIA">
+    <title>ZONA DOCUMENTALES TVU</title>
+    <desc>Sector de documentales de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930110000 +0000" stop="20230930120000 +0000" channel="TVU BOLIVIA">
+    <title>ZONA DE DOCUMENTALES TVU</title>
+    <desc>Sector De documentales de tvu</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930120000 +0000" stop="20230930130000 +0000" channel="TVU BOLIVIA">
+    <title>QANTATI</title>
+    <desc>Sector de musica nacional grupos en vivo y noticias de cultura</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930130000 +0000" stop="20230930140000 +0000" channel="TVU BOLIVIA">
+    <title>NOTICIERO FIN DE SEMANA HECHOS TVU</title>
+    <desc>Sector de noticias de fin de semana de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930140000 +0000" stop="20230930150000 +0000" channel="TVU BOLIVIA">
+    <title>BIOFAR TV</title>
+    <desc>Sector informacion y tratamientos de medicina en general</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930150000 +0000" stop="20230930160000 +0000" channel="TVU BOLIVIA">
+    <title>LA REVUELTA</title>
+    <desc>Sector de entrevistas y informacion con los temas mas importantes de la politica boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930160000 +0000" stop="20230930170000 +0000" channel="TVU BOLIVIA">
+    <title>ESCENCIA CULTURAL</title>
+    <desc>Programa de cultura y noticias en general de bolivia y del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930170000 +0000" stop="20230930180000 +0000" channel="TVU BOLIVIA">
+    <title>ROMPECABEZAS</title>
+    <desc>Programa de entretenimiento, educación e información para toda la familia boliviana</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930180000 +0000" stop="20230930193000 +0000" channel="TVU BOLIVIA">
+    <title>DOCUMENTALES HISTORICOS TVU</title>
+    <desc>Sector de documentales historicos con los personajes mas relevantes de la historia universal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930193000 +0000" stop="20230930203000 +0000" channel="TVU BOLIVIA">
+    <title>INNOVA TVU</title>
+    <desc>LA UMSA PRESENTA LA QUINTA VERSIÓN DEL INNOVA SAN ANDRÉS - RUMBO A LA CONSTRUCCIÓN DEL PARQUE DE INNOVACIÓN TECNOLÓGICO SAN ANDRÉS </desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930203000 +0000" stop="20230930210000 +0000" channel="TVU BOLIVIA">
+    <title>DOCUMENTALES HISTORICOS TVU</title>
+    <desc>Sector de documentales historicos con los personajes mas relevantes de la historia universal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930210000 +0000" stop="20230930215600 +0000" channel="TVU BOLIVIA">
+    <title>COMUNICANDO CIENCIA TVU</title>
+    <desc>Espacio para hablar de Ciencia, Tecnología e Innovación, con temas importantes y mini-documentales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930215600 +0000" stop="20230930220500 +0000" channel="TVU BOLIVIA">
+    <title>HECHOS DE NUESTRA HISTORIA</title>
+    <desc>Mini sector de informacion historica de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930220500 +0000" stop="20230930223500 +0000" channel="TVU BOLIVIA">
+    <title>DOCUMENTAL-CAMINANDO CON DINOSAURIOS</title>
+    <desc>es una mini-serie documental británica de seis capítulos principales. Se muestra como un documental estándar de fauna salvaje, pero que sigue el modo de vida de distintos animales de la era mesozoica</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930223500 +0000" stop="20230930235500 +0000" channel="TVU BOLIVIA">
+    <title>BIOGRAFIAS MUSICALES</title>
+    <desc>Sector de biografias con los grupos y solistas mas relevantes de la historia musical</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20230930235500 +0000" stop="20231001000000 +0000" channel="TVU BOLIVIA">
     <title>HIMNO NACIONAL</title>
-    <desc>IDENTIFICACION F10 con himno nacional</desc>
+    <desc>himno nacional vercion sinfonica</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion de Sabado</category>
+  </programme>
+  <programme start="20231001000000 +0000" stop="20231001010000 +0000" channel="TVU BOLIVIA">
+    <title>DOCUMENTALES TVU</title>
+    <desc>Sector de documentales TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+
+
+  <programme start="20231001010000 +0000" stop="20231001020000 +0000" channel="TVU BOLIVIA">
+    <title>SECTOR DE DOCUMENTALES TVU</title>
+    <desc>Documentales tvu</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001020000 +0000" stop="20231001035900 +0000" channel="TVU BOLIVIA">
+    <title>PELICULAS TVU</title>
+    <desc>Sector con las mejores peliculas clasicas de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001035900 +0000" stop="20231001045900 +0000" channel="TVU BOLIVIA">
+    <title>DOCUMENTALES HISTORICOS TVU</title>
+    <desc>Sector con los mas importantes de la historia del mundo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001045900 +0000" stop="20231001055900 +0000" channel="TVU BOLIVIA">
+    <title>ESPACIO PAGADO</title>
+    <desc>Sector pagado de tvu</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001055900 +0000" stop="20231001070000 +0000" channel="TVU BOLIVIA">
+    <title>ESPACIO PAGADO</title>
+    <desc>Sector pagado de tvu</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001070000 +0000" stop="20231001080000 +0000" channel="TVU BOLIVIA">
+    <title>PRISMA AGROPECUARIO</title>
+    <desc>Sector de noticias agropecuarias con temas de tecnologia y implementacion</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001080000 +0000" stop="20231001090000 +0000" channel="TVU BOLIVIA">
+    <title>TU SALUD</title>
+    <desc>Sector donde se informa y educa con los temas mas importantes de la salud en general</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001090000 +0000" stop="20231001103000 +0000" channel="TVU BOLIVIA">
+    <title>PELICULAS TVU</title>
+    <desc>Sector de peliculas de fin de semana de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001103000 +0000" stop="20231001105000 +0000" channel="TVU BOLIVIA">
+    <title>CARTOONS CLASICOS ANIMADOS</title>
+    <desc>Sector de las mejores series animadas clasicas de nuestra infancia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001105000 +0000" stop="20231001115000 +0000" channel="TVU BOLIVIA">
+    <title>PLANETA U</title>
+    <desc>Sector infantil matinal de TVU de educacion y entretenimiento</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001115000 +0000" stop="20231001121500 +0000" channel="TVU BOLIVIA">
+    <title>CAPITAN FUTURO</title>
+    <desc>Capitán Futuro es una serie anime japonesa creada en 1978, por el estudio de animación japonés Toei Animation, basada en las historias del mismo nombre del estadounidense Edmond Hamilton</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001121500 +0000" stop="20231001125400 +0000" channel="TVU BOLIVIA">
+    <title>ROBOTECH-MACROSS</title>
+    <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia y secretos que lleva, conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001125400 +0000" stop="20231001130000 +0000" channel="TVU BOLIVIA">
+    <title>TV EMPRESA</title>
+    <desc>Sector donde se da a concer emprendimientos nacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001130000 +0000" stop="20231001140000 +0000" channel="TVU BOLIVIA">
+    <title>AULA 13</title>
+    <desc>𝒂𝒖𝒍𝒂 13 𝒔𝒊𝒏 𝒎𝒖𝒓𝒐𝒔, 𝒂𝒖𝒍𝒂 𝒔𝒊𝒏 𝒍𝒊́𝒎𝒊𝒕𝒆𝒔...𝒏𝒖𝒆𝒗𝒂𝒔 𝒑𝒓𝒐𝒑𝒖𝒆𝒔𝒕𝒂𝒔, 𝒏𝒖𝒆𝒗𝒐𝒔 𝒉𝒐𝒓𝒊𝒛𝒐𝒏𝒕𝒆𝒔 𝒅𝒆 𝒇𝒐𝒓𝒎𝒂𝒄𝒊𝒐́𝒏 𝒑𝒆𝒅𝒂𝒈𝒐́𝒈𝒊𝒄𝒂</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001140000 +0000" stop="20231001150000 +0000" channel="TVU BOLIVIA">
+    <title>DOCUMENTALES TVU</title>
+    <desc>Sector de documentales de tvu</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001150000 +0000" stop="20231001153000 +0000" channel="TVU BOLIVIA">
+    <title>TVU TEATRO INFO-DOCUMENTALES</title>
+    <desc>Sector de mini documentales de teatro</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001153000 +0000" stop="20231001170000 +0000" channel="TVU BOLIVIA">
+    <title>CUIDANDO TU SONRISA</title>
+    <desc>Somos Cuidando Tu Sonrisa, el único programa dedicado a la Salud Bucodental</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001170000 +0000" stop="20231001174500 +0000" channel="TVU BOLIVIA">
+    <title>COMUNICANDO CIENCIA</title>
+    <desc>un espacio para hablar de Ciencia, Tecnología e Innovación con entrevistas y mini-documentales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001174500 +0000" stop="20231001183000 +0000" channel="TVU BOLIVIA">
+    <title>GRANDES HOMBRES DE  LA HISTORIA</title>
+    <desc>Sector donde se presenta a los personajes mas relevantes de la historia universal</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001183000 +0000" stop="20231001193000 +0000" channel="TVU BOLIVIA">
+    <title>REVISTA ENCUENTRO</title>
+    <desc>Sector de entrevistas donde se toca los temas mas relevantes de la politica y coyuntura de bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001193000 +0000" stop="20231001194500 +0000" channel="TVU BOLIVIA">
+    <title>DOCUMENTALES TVU</title>
+    <desc>Sector de documentales de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001194500 +0000" stop="20231001210000 +0000" channel="TVU BOLIVIA">
+    <title>PELICULAS CLASICAS TVU</title>
+    <desc>Sector de las mejores peliculas clasicas del cine mudo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001210000 +0000" stop="20231001223000 +0000" channel="TVU BOLIVIA">
+    <title>CENTRAL DE DEPORTES</title>
+    <desc>Espacio donde se tocan los temas mas importantes del deporte boliviano y internacional</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001223000 +0000" stop="20231001233000 +0000" channel="TVU BOLIVIA">
+    <title>FIN DE LA HISTORIA</title>
+    <desc>Espacio donde se tocan temas de historia politica con una perspectiva critica filosofica y analitica con entrevistados importantes</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001233000 +0000" stop="20231002000000 +0000" channel="TVU BOLIVIA">
+    <title>FILOSOFIA AQUI Y AHORA</title>
+    <desc>Sector de filosofia politica y critica al socialismo y burguesia actual</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231002000000 +0000" stop="20231002000500 +0000" channel="TVU BOLIVIA">
+    <title>REJILLA TVU-HIMNO NACIONAL</title>
+    <desc>himno nacional sinfonico</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231002000500 +0000" stop="20231002015900 +0000" channel="TVU BOLIVIA">
+    <title>CINEMA TVU</title>
+    <desc>Sector con las mejores peliculas clasicas</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231002015900 +0000" stop="20231002033000 +0000" channel="TVU BOLIVIA">
+    <title>SECTOR DE SERIES TVU</title>
+    <desc>Las mejores series documentales de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231002033000 +0000" stop="20231002043000 +0000" channel="TVU BOLIVIA">
+    <title>SECTOR DE DOCUMENTALES TVU</title>
+    <desc>Documentales de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231002043000 +0000" stop="20231002053000 +0000" channel="TVU BOLIVIA">
+    <title>FILOSOFIA</title>
+    <desc>Sector de TVU</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+
+  <programme start="20230930053500 +0000" stop="20230930054500 +0000" channel="FDIEZ BOLIVIA">
+    <title>HIMNO NACIONAL</title>
+    <desc>IDENTIFICACION FDIEZ BOLIVIA con himno nacional</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930054500 +0000" stop="20230930060000 +0000" channel="F10">
+  <programme start="20230930054500 +0000" stop="20230930060000 +0000" channel="FDIEZ BOLIVIA">
     <title>REFLEXION MATUTINA</title>
     <desc>Sector de reflexion religiosa</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930060000 +0000" stop="20230930070000 +0000" channel="F10">
-    <title>GOSPEL F10</title>
-    <desc>Sector de F10 matinal</desc>
+  <programme start="20230930060000 +0000" stop="20230930070000 +0000" channel="FDIEZ BOLIVIA">
+    <title>GOSPEL FDIEZ BOLIVIA</title>
+    <desc>Sector de FDIEZ BOLIVIA matinal</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930070000 +0000" stop="20230930080000 +0000" channel="F10">
+  <programme start="20230930070000 +0000" stop="20230930080000 +0000" channel="FDIEZ BOLIVIA">
     <title>DOCUMENTAL ASIATICO NHK</title>
     <desc>Documental de la cultura asiatica de NHK</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930080000 +0000" stop="20230930093000 +0000" channel="F10">
+  <programme start="20230930080000 +0000" stop="20230930093000 +0000" channel="FDIEZ BOLIVIA">
     <title>PELICULA INFANTIL</title>
     <desc>Sector con las mejores peliculas infantiles</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930093000 +0000" stop="20230930100000 +0000" channel="F10">
+  <programme start="20230930093000 +0000" stop="20230930100000 +0000" channel="FDIEZ BOLIVIA">
     <title>ANIME FAN-J MUSIC</title>
     <desc>Anime fan - con la seleccion de la mejor musica de la cultura asiatica</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930100000 +0000" stop="20230930103000 +0000" channel="F10">
+  <programme start="20230930100000 +0000" stop="20230930103000 +0000" channel="FDIEZ BOLIVIA">
     <title>ANIME FAN - CANDY CANDY</title>
     <desc>Candy Candy es una serie de animación japonesa inspirada en los mangas de la escritora Kyōko Mizuki y la ilustradora Yumiko Igarashi; que a su vez, se crearon a partir de la novela Ana la de tejas verdes (Anne of Green Gables) de Lucy Maud Montgomery</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930103000 +0000" stop="20230930110000 +0000" channel="F10">
+  <programme start="20230930103000 +0000" stop="20230930110000 +0000" channel="FDIEZ BOLIVIA">
     <title>ANIME FAN- INUYASHA</title>
     <desc>Esta serie narra las aventuras de un hanyō (hombre mitad demonio) llamado Inuyasha, que está en la búsqueda de los fragmentos de la Perla de Shikon con sus amigos, En su viaje encontrarán toda clase de demonios, algunos buenos como el pequeño demonio zorro Shippo y otros malvados, como Sesshomaru, dispuesto a todo para hacerse con “Colmillo de Hierro”</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930110000 +0000" stop="20230930113000 +0000" channel="F10">
+  <programme start="20230930110000 +0000" stop="20230930113000 +0000" channel="FDIEZ BOLIVIA">
     <title>ANIME FAN-HUNTER X HUNTER</title>
     <desc>Hunter × Hunter es una serie de televisión de anime basada en la serie de manga del mismo nombre escrita e ilustrada por Yoshihiro Togashi que se emitió de 1999 a 2001</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930113000 +0000" stop="20230930120000 +0000" channel="F10">
+  <programme start="20230930113000 +0000" stop="20230930120000 +0000" channel="FDIEZ BOLIVIA">
     <title>ANIME FAN-FULL METAL ALCHEMIST BROTHER</title>
     <desc>Los hermanos Edward y Alphonse Elric continúan la búsqueda de la Piedra Filosofal con la esperanza de restaurar sus cuerpos, que se perdieron cuando intentaron utilizar sus habilidades en alquimia al tratar de resucitar a su madre fallecida.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930120000 +0000" stop="20230930123000 +0000" channel="F10">
+  <programme start="20230930120000 +0000" stop="20230930123000 +0000" channel="FDIEZ BOLIVIA">
     <title>ANIME FAN-YUYU HAKUSHO</title>
     <desc>Yusuke Urameshi es un joven de 14 años que muere al intentar salvar a un niño de ser atropellado. Su alma es enviada al más allá, donde descubre que aún no era su hora. Para poder resucitar, Yusuke deberá convertirse en investigador espiritual y vencer a todas las fuerzas del mal.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930123000 +0000" stop="20230930130000 +0000" channel="F10">
+  <programme start="20230930123000 +0000" stop="20230930130000 +0000" channel="FDIEZ BOLIVIA">
     <title>ANIME FAN-SAILOR MOON</title>
     <desc>Sailor Moon es considerada uno de los animes más representativos del género shōnen y del shōjo (al poseer elementos característicos de ambos), marcando un antes y un después por ser una de las primeras historias protagonizadas por personajes femeninos</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930130000 +0000" stop="20230930140000 +0000" channel="F10">
+  <programme start="20230930130000 +0000" stop="20230930140000 +0000" channel="FDIEZ BOLIVIA">
     <title>CON O SIN NOSTALGIA</title>
     <desc>Programa con la seleccion de la mejor musica del recuerdo para el deguste de todos</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930140000 +0000" stop="20230930160000 +0000" channel="F10">
+  <programme start="20230930140000 +0000" stop="20230930160000 +0000" channel="FDIEZ BOLIVIA">
     <title>FILM 10</title>
     <desc>Sector con las mejores peliculas clasicas y del momento</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930160000 +0000" stop="20230930170000 +0000" channel="F10">
-    <title>DOCUMENTALES F10 ASIATICOS</title>
+  <programme start="20230930160000 +0000" stop="20230930170000 +0000" channel="FDIEZ BOLIVIA">
+    <title>DOCUMENTALES FDIEZ BOLIVIA ASIATICOS</title>
     <desc>Sector de documentales asiaticos</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930170000 +0000" stop="20230930173000 +0000" channel="F10">
+  <programme start="20230930170000 +0000" stop="20230930173000 +0000" channel="FDIEZ BOLIVIA">
     <title>EL AUTO FANTASTICO</title>
     <desc>La infancia de los niños de los 80 y 90 estuvo marcada por unas cuantas series de televisión, pero la predilecta de todos los amantes de los coches era ‘El Coche Fantástico’ o ‘Knight Rider’, como se conocía en Estados Unidos</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930173000 +0000" stop="20230930180000 +0000" channel="F10">
+  <programme start="20230930173000 +0000" stop="20230930180000 +0000" channel="FDIEZ BOLIVIA">
     <title>MI PEQUEÑA MARAVILLA</title>
     <desc>Mi pequeña maravilla, fue un éxito estadounidense de comedia, emitido entre 1985 y 1989, la cual contaba la historia de una niña androide de 10 años quien es incluida como parte de una familia para mantener el secreto de su existencia.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>  
-  <programme start="20230930180000 +0000" stop="20230930183000 +0000" channel="F10">
+  <programme start="20230930180000 +0000" stop="20230930183000 +0000" channel="FDIEZ BOLIVIA">
     <title>TRES X TRES-FULL HOUSE</title>
     <desc>Ambientada en san francisco, california , Tras la muerte de su esposa en un accidente de coche, Danny Tanner, un periodista de San Francisco, tiene que sacar adelante a sus tres hijas pequeñas: D.J., Stephanie y Michelle. Su cuñado Jesse y su mejor amigo, Joey, le ayudarán en la diaria y difícil tarea de criar, cuidar y educar a las niñas.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930183000 +0000" stop="20230930190000 +0000" channel="F10">
-    <title>SERIE F10</title>
-    <desc>Sector de F10</desc>
+  <programme start="20230930183000 +0000" stop="20230930190000 +0000" channel="FDIEZ BOLIVIA">
+    <title>SERIE FDIEZ BOLIVIA</title>
+    <desc>Sector de FDIEZ BOLIVIA</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930190000 +0000" stop="20230930200000 +0000" channel="F10">
+  <programme start="20230930190000 +0000" stop="20230930200000 +0000" channel="FDIEZ BOLIVIA">
     <title>POWER RANGERS</title>
     <desc>Power Rangers es una serie de televisión y una franquicia estadounidense del género tokusatsu, versión de Super Sentai Series, una serie de televisión japonesa del mismo género. Se emite desde el año 1993</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930200000 +0000" stop="20230930203000 +0000" channel="F10">
+  <programme start="20230930200000 +0000" stop="20230930203000 +0000" channel="FDIEZ BOLIVIA">
     <title>FIESTA MIX</title>
     <desc>Sector mix de los mejores clasicos</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930203000 +0000" stop="20230930210000 +0000" channel="F10">
+  <programme start="20230930203000 +0000" stop="20230930210000 +0000" channel="FDIEZ BOLIVIA">
     <title>BATMAN LA SERIE</title>
     <desc>El excéntrico filántropo de la Ciudad Gótica, Bruno Díaz se coloca su traje de superhéroe para luchar contra el crimen organizado como Batman, ayudado por su amigo Dick Ward como Robin, que también usa su traje especial, en este clásico de los años 60</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930210000 +0000" stop="20230930230000 +0000" channel="F10">
-    <title>F10 PELICULAS</title>
-    <desc>Sector de peliculas F10</desc>
+  <programme start="20230930210000 +0000" stop="20230930230000 +0000" channel="FDIEZ BOLIVIA">
+    <title>FDIEZ BOLIVIA PELICULAS</title>
+    <desc>Sector de peliculas FDIEZ BOLIVIA</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de sabado</category>
   </programme>
-  <programme start="20230930230000 +0000" stop="20231001013000 +0000" channel="F10">
+  
+  <programme start="20230930230000 +0000" stop="20231001013000 +0000" channel="FDIEZ BOLIVIA">
     <title>ANIME NOCTURNO</title>
     <desc>Sector nocturno de series anime</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
-  <programme start="20231001013000 +0000" stop="20231001043000 +0000" channel="F10">
+  <programme start="20231001013000 +0000" stop="20231001043000 +0000" channel="FDIEZ BOLIVIA">
     <title>CIERRE DE EMISION</title>
-    <desc>cierre de emision F10 bolivia</desc>
+    <desc>cierre de emision canal FDIEZ BOLIVIA</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
-  
-  <programme start="20231001043000 +0000" stop="20231001050000 +0000" channel="F10">
+
+  <programme start="20231001043000 +0000" stop="20231001050000 +0000" channel="FDIEZ BOLIVIA">
     <title>INICIO DE EMISION</title>
-    <desc>inicio de emision F10</desc>
+    <desc>inicio de emision canal FDIEZ BOLIVIA</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
-  <programme start="20231001050000 +0000" stop="20231001060000 +0000" channel="F10">
+  <programme start="20231001050000 +0000" stop="20231001060000 +0000" channel="FDIEZ BOLIVIA">
     <title>REFLEXION MATUTINA</title>
     <desc>sector de reflexion del dia domingo</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
-  <programme start="20231001060000 +0000" stop="20231001063000 +0000" channel="F10">
-    <title>GOSPEL F10</title>
-    <desc>sector gospel f10</desc>
+  <programme start="20231001060000 +0000" stop="20231001063000 +0000" channel="FDIEZ BOLIVIA">
+    <title>GOSPEL FDIEZ BOLIVIA</title>
+    <desc>sector gospel FDIEZ BOLIVIA</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
-  <programme start="20231001063000 +0000" stop="20231001070000 +0000" channel="F10">
-    <title>DOCUMENTALES CULTURA ASIATICA NHK</title>
-    <desc>sector de documentales de la cultura asiatica F10</desc>
+  <programme start="20231001063000 +0000" stop="20231001070000 +0000" channel="FDIEZ BOLIVIA">
+    <title>DOCUMENTALES CULTUR ASIATICA NHK</title>
+    <desc>sector de documentales de la cultura asiatica</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
-    
-
+  <programme start="20231001070000 +0000" stop="20231001080000 +0000" channel="FDIEZ BOLIVIA">
+    <title>PROGRAMA DE LA ALCALDIA DEL ALTO</title>
+    <desc>sector informativo de la alcaldia del alto</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001080000 +0000" stop="20231001090000 +0000" channel="FDIEZ BOLIVIA">
+    <title>CON O SIN NOSTALGIA</title>
+    <desc>sector del recuerdo con la mejor musica clasica de nuestros tiempos de antaño</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001090000 +0000" stop="20231001093000 +0000" channel="FDIEZ BOLIVIA">
+    <title>MUSIC ANIME WORLD</title>
+    <desc>sector de la mejor musica de la cultura del anime japones</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001093000 +0000" stop="20231001100000 +0000" channel="FDIEZ BOLIVIA">
+    <title>ANIME FAN-CANDY CANDY</title>
+    <desc>Candy Candy es una serie de animación japonesa inspirada en los mangas de la escritora Kyōko Mizuki y la ilustradora Yumiko Igarashi; que a su vez, se crearon a partir de la novela Ana la de tejas verdes (Anne of Green Gables) de Lucy Maud Montgomery</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001100000 +0000" stop="20231001103000 +0000" channel="FDIEZ BOLIVIA">
+    <title>ANIME FAN-INUYASHA</title>
+    <desc>Esta serie narra las aventuras de un hanyō (hombre mitad demonio) llamado Inuyasha, que está en la búsqueda de los fragmentos de la Perla de Shikon con sus amigos, En su viaje encontrarán toda clase de demonios, algunos buenos como el pequeño demonio zorro Shippo y otros malvados, como Sesshomaru, dispuesto a todo para hacerse con “Colmillo de Hierro”</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001103000 +0000" stop="20231001110000 +0000" channel="FDIEZ BOLIVIA">
+    <title>ANIME FAN-HUNTER X HUNTER</title>
+    <desc>Hunter × Hunter es una serie de televisión de anime basada en la serie de manga del mismo nombre escrita e ilustrada por Yoshihiro Togashi que se emitió de 1999 a 2001</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001110000 +0000" stop="20231001113000 +0000" channel="FDIEZ BOLIVIA">
+    <title>ANIME FAN-FULL METAL ALCHEMIST BROTHER</title>
+    <desc>Los hermanos Edward y Alphonse Elric continúan la búsqueda de la Piedra Filosofal con la esperanza de restaurar sus cuerpos, que se perdieron cuando intentaron utilizar sus habilidades en alquimia al tratar de resucitar a su madre fallecida.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001113000 +0000" stop="20231001120000 +0000" channel="FDIEZ BOLIVIA">
+    <title>ANIME FAN-YUYU HAKUSHO</title>
+    <desc>Yusuke Urameshi es un joven de 14 años que muere al intentar salvar a un niño de ser atropellado. Su alma es enviada al más allá, donde descubre que aún no era su hora. Para poder resucitar, Yusuke deberá convertirse en investigador espiritual y vencer a todas las fuerzas del mal.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001120000 +0000" stop="20231001123000 +0000" channel="FDIEZ BOLIVIA">
+    <title>ANIME FAN-SAILOR MOON</title>
+    <desc>Sailor Moon es considerada uno de los animes más representativos del género shōnen y del shōjo (al poseer elementos característicos de ambos), marcando un antes y un después por ser una de las primeras historias protagonizadas por personajes femeninos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001123000 +0000" stop="20231001130000 +0000" channel="FDIEZ BOLIVIA">
+    <title>ANIME FAN-BATMAN SERIE ANIMADA</title>
+    <desc>La aclamada serie es una adaptación del cómic protagonizado por el superhéroe de DC Comics Batman. Fue desarrollada por Bruce Timm y Eric Radomski</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001130000 +0000" stop="20231001150000 +0000" channel="FDIEZ BOLIVIA">
+    <title>PELICULAS FDIEZ BOLIVIA</title>
+    <desc>Sector de peliculas de FDIEZ BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001150000 +0000" stop="20231001153000 +0000" channel="FDIEZ BOLIVIA">
+    <title>COMIDAS DEL MUNDO</title>
+    <desc>Sector donde veremos la comida internacional desde una mirada diferente</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001153000 +0000" stop="20231001160000 +0000" channel="FDIEZ BOLIVIA">
+    <title>ZONA DOCUMENTALES FDIEZ BOLIVIA</title>
+    <desc>Sector de los mejores documentales internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001160000 +0000" stop="20231001170000 +0000" channel="FDIEZ BOLIVIA">
+    <title>EL AUTO FANTASTICO</title>
+    <desc>La infancia de los niños de los 80 y 90 estuvo marcada por unas cuantas series de televisión, pero la predilecta de todos los amantes de los coches era ‘El Coche Fantástico’ o ‘Knight Rider’, como se conocía en Estados Unidos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001170000 +0000" stop="20231001173000 +0000" channel="FDIEZ BOLIVIA">
+    <title>MI PEQUEÑA MARAVILLA</title>
+    <desc>Mi pequeña maravilla, fue un éxito estadounidense de comedia, emitido entre 1985 y 1989, la cual contaba la historia de una niña androide de 10 años quien es incluida como parte de una familia para mantener el secreto de su existencia.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001173000 +0000" stop="20231001180000 +0000" channel="FDIEZ BOLIVIA">
+    <title>TRES X TRES-FULL HOUSE</title>
+    <desc>Ambientada en san francisco, california , Tras la muerte de su esposa en un accidente de coche, Danny Tanner, un periodista de San Francisco, tiene que sacar adelante a sus tres hijas pequeñas: D.J., Stephanie y Michelle. Su cuñado Jesse y su mejor amigo, Joey, le ayudarán en la diaria y difícil tarea de criar, cuidar y educar a las niñas.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001180000 +0000" stop="20231001183000 +0000" channel="FDIEZ BOLIVIA">
+    <title>SERIES FDIEZ BOLIVIA</title>
+    <desc>Sector de series FDIEZ BOLIVIA</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001183000 +0000" stop="20231001190000 +0000" channel="FDIEZ BOLIVIA">
+    <title>POWER RANGERS</title>
+    <desc>Power Rangers es una serie de televisión y una franquicia estadounidense del género tokusatsu, versión de Super Sentai Series, una serie de televisión japonesa del mismo género. Se emite desde el año 1993</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001190000 +0000" stop="20231001200000 +0000" channel="FDIEZ BOLIVIA">
+    <title>INVASION V</title>
+    <desc>Invasión V Extraterrestre se convirtió en un fenómeno televisivo hace cuatro décadas, una época en la que surgieron muchos éxitos, pero pocos alcanzaron el brillo y la popularidad de esta serie en particular. Creada por Kenneth Johnson, la serie se emitió originalmente entre 1983 y 1985</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001200000 +0000" stop="20231001210000 +0000" channel="FDIEZ BOLIVIA">
+    <title>EXPEDIENTES FDIEZ BOLIVIA</title>
+    <desc>Revista investigacion con mini-documentales y entrevistados con los temas mas importantes de la coyuntura de bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001210000 +0000" stop="20231001220000 +0000" channel="FDIEZ BOLIVIA">
+    <title>A MI NO ME NADIE</title>
+    <desc>Sector de debate y analisis con los temas politicos mas relevantes de la coyuntura en bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001220000 +0000" stop="20231001233000 +0000" channel="FDIEZ BOLIVIA">
+    <title>TERCER MILENIO</title>
+    <desc>Programa de informacion cientifica global</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231001233000 +0000" stop="20231002010000 +0000" channel="FDIEZ BOLIVIA">
+    <title>SANTO SORBO</title>
+    <desc>Sector nocturno de musica grupos en vivo y entrevistados</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del domingo</category>
+  </programme>
+  <programme start="20231002010000 +0000" stop="20231002040500 +0000" channel="FDIEZ BOLIVIA">
+    <title>CIERRE DE EMISION</title>
+    <desc>cierre de emision FDIEZ BOLIVIA</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002040500 +0000" stop="20231002043000 +0000" channel="FDIEZ BOLIVIA">
+    <title>INICIO DE EMISION</title>
+    <desc>inicio de emision FDIEZ BOLIVIA</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002043000 +0000" stop="20231002050000 +0000" channel="FDIEZ BOLIVIA">
+    <title>TIEMPO DE FE</title>
+    <desc>Sector de reflexion religiosa</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002050000 +0000" stop="20231002060000 +0000" channel="FDIEZ BOLIVIA">
+    <title>TODO WALIKI</title>
+    <desc>Sector de musica y videos musicales</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion del lunes a viernes</category>
+  </programme>
 </tv>
