@@ -883,7 +883,6 @@
     <category lang="es">programacion sabado</category>
   </programme>
 
-
   <programme start="20231001000000 +0000" stop="20231001010000 +0000" channel="RED UNO BOLIVIA">
     <title>PROBLEMAS Y SOLUCIONES</title>
     <desc>Sector religioso para ayudar con los problemas cotidianos de la familia</desc>
@@ -1086,14 +1085,14 @@
     <desc>Sector religioso para dar solucion a problemas con ayuda de la fe</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
-    <category lang="es">programacion del domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20231002010000 +0000" stop="20231002030000 +0000" channel="RED UNO BOLIVIA">
     <title>LA NOCHE DE LA GRI (REPRIS)</title>
     <desc>Revista nocturna de entrevistas y grupos en vivo de red uno</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
-    <category lang="es">programacion del domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20231002030000 +0000" stop="20231002045500 +0000" channel="RED UNO BOLIVIA">
     <title>UNO DE PELÍCULA(REPRIS)</title>
@@ -1107,10 +1106,8 @@
     <desc>Sector religioso para dar solucion a problemas con ayuda de la fe</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/wB9YCbf3/RED-UNO-LA-PAZ.jpg"/>
-    <category lang="es">programacion del domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-
-
 
   <programme start="20230925000000 +0000" stop="20230925020000 +0000" channel="BOLIVISION BOLIVIA">
     <title>Creer es Poder</title>
@@ -1651,13 +1648,7 @@
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
-  </programme>
-
-  <channel id="BOLIVISION BOLIVIA">
-    <display-name>Bolivision Bolivia HD</display-name>
-    <url>https://www.redbolivision.tv.bo</url>
-    <icon src="https://i.ibb.co/CtDdqVw/NEW-BOLIVISION-HD.jpg" />
-  </channel>  
+  </programme>    
   <programme start="20230929000000 +0000" stop="20230929020000 +0000" channel="BOLIVISION BOLIVIA">
     <title>Creer es Poder</title>
     <desc>Programa religioso para solucionar problemas con la fe</desc>
@@ -2159,7 +2150,7 @@
     <desc>La serie cubre las acciones de una pequeña unidad especial de la policía estatal creada por la gobernadora de Hawái para investigar delitos graves en las islas.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/RFYWrSWq/ICONO-BOLIVISION.jpg"/>
-    <category lang="es">programacion del domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
   <programme start="20231002000000 +0000" stop="20231002020000 +0000" channel="BOLIVISION BOLIVIA">
@@ -3523,36 +3514,32 @@
     <title>SANTO SORBO</title>
     <desc>Sector nocturno de musica grupos en vivo y entrevistados</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20231002010500 +0000" stop="20231002040500 +0000" channel="F10 HD">
     <title>CIERRE DE EMISION</title>
     <desc>cierre de emision f10</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20231002040500 +0000" stop="20231002043000 +0000" channel="F10 HD">
     <title>INICIO DE EMISION</title>
     <desc>inicio de emision F10</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20231002043000 +0000" stop="20231002050000 +0000" channel="F10 HD">
     <title>TIEMPO DE FE</title>
     <desc>Sector de reflexion religiosa</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20231002050000 +0000" stop="20231002060000 +0000" channel="F10 HD">
     <title>TODO WALIKI</title>
     <desc>Sector de musica y videos musicales</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
-
-
-
-
 
   <programme start="20230925000000 +0000" stop="20230925060000 +0000" channel="ATB BOLIVIA">
     <title>Sector nocturno de Peliculas</title>
