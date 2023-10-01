@@ -46,7 +46,7 @@
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg" />
   </channel>
   <channel id="DTV">
-    <display-name>DTV NOTICIAS</display-name>
+    <display-name>DTV</display-name>
     <url>https://dtv.bo</url>
     <icon src="https://i.postimg.cc/RFFytkkn/DTV-BOLVIA-NEW-HD.jpg" />
   </channel>
@@ -2120,16 +2120,16 @@
     <category lang="es">programacion de sabado</category>
   </programme>
   
-  <programme start="20230930230000 +0000" stop="20231001000000 +0000" channel="F10">
+  <programme start="20230930230000 +0000" stop="20231001013000 +0000" channel="F10">
     <title>ANIME NOCTURNO</title>
     <desc>Sector nocturno de series anime</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de domingo</category>
   </programme>
-  <programme start="20231001000000 +0000" stop="20231001043000 +0000" channel="F10">
+  <programme start="20231001013000 +0000" stop="20231001043000 +0000" channel="F10">
     <title>CIERRE DE EMISION</title>
-    <desc>CIERRE DE EMISION</desc>
+    <desc>cierre de emision canal F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de domingo</category>
@@ -2137,7 +2137,7 @@
 
   <programme start="20231001043000 +0000" stop="20231001050000 +0000" channel="F10">
     <title>INICIO DE EMISION</title>
-    <desc>inicio de emision F10</desc>
+    <desc>inicio de emision canal F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de domingo</category>
