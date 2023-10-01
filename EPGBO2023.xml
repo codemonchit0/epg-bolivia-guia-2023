@@ -1554,49 +1554,49 @@
     <desc>Himno nacional simfonico</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20230930000500 +0000" stop="20230930010500 +0000" channel="TVU UMSA">
     <title>NOTICIERO HECHOS EDICION CENTRAL-REPRIS</title>
     <desc>Respris del noticiero central de TVU con las noticias mas importantes</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20230930010500 +0000" stop="20230930020500 +0000" channel="TVU UMSA">
     <title>CARTAS SOBRE LA MESA-REPRIS</title>
     <desc>Respris de la revista nocturna de analisis y entrevistas de temas actuales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20230930020500 +0000" stop="20230930043000 +0000" channel="TVU UMSA">
     <title>SECTOR DE PELICULAS NOCTURAS DE TVU</title>
     <desc>Las mejores peliculas del sector nocturno de TVU</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20230930043000 +0000" stop="20230930050000 +0000" channel="TVU UMSA">
     <title>DOCUMENTALES MEMORABLES</title>
     <desc>Sector de documentales con los romances y biografias mas importantes de personajes celebres</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20230930050000 +0000" stop="20230930055500 +0000" channel="TVU UMSA">
     <title>SECTOR RELIGIOSO</title>
     <desc>Espacio religioso</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20230930055500 +0000" stop="20230930060000 +0000" channel="TVU UMSA">
     <title>REJILLA TVU IDENTIFICACION</title>
     <desc>Himno nacional</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20230930060000 +0000" stop="20230930070000 +0000" channel="TVU UMSA">
     <title>SECTOR TVU</title>
@@ -1743,7 +1743,7 @@
     <desc>Sector de documentales TVU</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
 
 
@@ -1752,210 +1752,210 @@
     <desc>Documentales tvu</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001020000 +0000" stop="20231001035900 +0000" channel="TVU UMSA">
     <title>PELICULAS TVU</title>
     <desc>Sector con las mejores peliculas clasicas de TVU</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001035900 +0000" stop="20231001045900 +0000" channel="TVU UMSA">
     <title>DOCUMENTALES HISTORICOS TVU</title>
     <desc>Sector con los mas importantes de la historia del mundo</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001045900 +0000" stop="20231001055900 +0000" channel="TVU UMSA">
     <title>ESPACIO PAGADO</title>
     <desc>Sector pagado de tvu</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001055900 +0000" stop="20231001070000 +0000" channel="TVU UMSA">
     <title>ESPACIO PAGADO</title>
     <desc>Sector pagado de tvu</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001070000 +0000" stop="20231001080000 +0000" channel="TVU UMSA">
     <title>PRISMA AGROPECUARIO</title>
     <desc>Sector de noticias agropecuarias con temas de tecnologia y implementacion</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001080000 +0000" stop="20231001090000 +0000" channel="TVU UMSA">
     <title>TU SALUD</title>
     <desc>Sector donde se informa y educa con los temas mas importantes de la salud en general</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001090000 +0000" stop="20231001103000 +0000" channel="TVU UMSA">
     <title>PELICULAS TVU</title>
     <desc>Sector de peliculas de fin de semana de TVU</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001103000 +0000" stop="20231001105000 +0000" channel="TVU UMSA">
     <title>CARTOONS CLASICOS ANIMADOS</title>
     <desc>Sector de las mejores series animadas clasicas de nuestra infancia</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001105000 +0000" stop="20231001115000 +0000" channel="TVU UMSA">
     <title>PLANETA U</title>
     <desc>Sector infantil matinal de TVU de educacion y entretenimiento</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001115000 +0000" stop="20231001121500 +0000" channel="TVU UMSA">
     <title>CAPITAN FUTURO</title>
     <desc>Capitán Futuro es una serie anime japonesa creada en 1978, por el estudio de animación japonés Toei Animation, basada en las historias del mismo nombre del estadounidense Edmond Hamilton</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001121500 +0000" stop="20231001125400 +0000" channel="TVU UMSA">
     <title>ROBOTECH-MACROSS</title>
     <desc>Una nave espacial extraterrestre se estrella en la tierra y la tecnologia y secretos que lleva, conducen a la tierra a tres guerras interplanetarias destructivas en esta famosa serie anime.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001125400 +0000" stop="20231001130000 +0000" channel="TVU UMSA">
     <title>TV EMPRESA</title>
     <desc>Sector donde se da a concer emprendimientos nacionales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001130000 +0000" stop="20231001140000 +0000" channel="TVU UMSA">
     <title>AULA 13</title>
     <desc>𝒂𝒖𝒍𝒂 13 𝒔𝒊𝒏 𝒎𝒖𝒓𝒐𝒔, 𝒂𝒖𝒍𝒂 𝒔𝒊𝒏 𝒍𝒊́𝒎𝒊𝒕𝒆𝒔...𝒏𝒖𝒆𝒗𝒂𝒔 𝒑𝒓𝒐𝒑𝒖𝒆𝒔𝒕𝒂𝒔, 𝒏𝒖𝒆𝒗𝒐𝒔 𝒉𝒐𝒓𝒊𝒛𝒐𝒏𝒕𝒆𝒔 𝒅𝒆 𝒇𝒐𝒓𝒎𝒂𝒄𝒊𝒐́𝒏 𝒑𝒆𝒅𝒂𝒈𝒐́𝒈𝒊𝒄𝒂</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001140000 +0000" stop="20231001150000 +0000" channel="TVU UMSA">
     <title>DOCUMENTALES TVU</title>
     <desc>Sector de documentales de tvu</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001150000 +0000" stop="20231001153000 +0000" channel="TVU UMSA">
     <title>TVU TEATRO INFO-DOCUMENTALES</title>
     <desc>Sector de mini documentales de teatro</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001153000 +0000" stop="20231001170000 +0000" channel="TVU UMSA">
     <title>CUIDANDO TU SONRISA</title>
     <desc>Somos Cuidando Tu Sonrisa, el único programa dedicado a la Salud Bucodental</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001170000 +0000" stop="20231001174500 +0000" channel="TVU UMSA">
     <title>COMUNICANDO CIENCIA</title>
     <desc>un espacio para hablar de Ciencia, Tecnología e Innovación con entrevistas y mini-documentales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001174500 +0000" stop="20231001183000 +0000" channel="TVU UMSA">
     <title>GRANDES HOMBRES DE  LA HISTORIA</title>
     <desc>Sector donde se presenta a los personajes mas relevantes de la historia universal</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001183000 +0000" stop="20231001193000 +0000" channel="TVU UMSA">
     <title>REVISTA ENCUENTRO</title>
     <desc>Sector de entrevistas donde se toca los temas mas relevantes de la politica y coyuntura de bolivia</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001193000 +0000" stop="20231001194500 +0000" channel="TVU UMSA">
     <title>DOCUMENTALES TVU</title>
     <desc>Sector de documentales de TVU</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001194500 +0000" stop="20231001210000 +0000" channel="TVU UMSA">
     <title>PELICULAS CLASICAS TVU</title>
     <desc>Sector de las mejores peliculas clasicas del cine mudo</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001210000 +0000" stop="20231001223000 +0000" channel="TVU UMSA">
     <title>CENTRAL DE DEPORTES</title>
     <desc>Espacio donde se tocan los temas mas importantes del deporte boliviano y internacional</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001223000 +0000" stop="20231001233000 +0000" channel="TVU UMSA">
     <title>FIN DE LA HISTORIA</title>
     <desc>Espacio donde se tocan temas de historia politica con una perspectiva critica filosofica y analitica con entrevistados importantes</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001233000 +0000" stop="20231002000000 +0000" channel="TVU UMSA">
     <title>FILOSOFIA AQUI Y AHORA</title>
     <desc>Sector de filosofia politica y critica al socialismo y burguesia actual</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231002000000 +0000" stop="20231002000500 +0000" channel="TVU UMSA">
     <title>REJILLA TVU-HIMNO NACIONAL</title>
     <desc>himno nacional sinfonico</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231002000500 +0000" stop="20231002015900 +0000" channel="TVU UMSA">
     <title>CINEMA TVU</title>
     <desc>Sector con las mejores peliculas clasicas</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231002015900 +0000" stop="20231002033000 +0000" channel="TVU UMSA">
     <title>SECTOR DE SERIES TVU</title>
     <desc>Las mejores series documentales de TVU</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231002033000 +0000" stop="20231002043000 +0000" channel="TVU UMSA">
     <title>SECTOR DE DOCUMENTALES TVU</title>
     <desc>Documentales de TVU</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231002043000 +0000" stop="20231002053000 +0000" channel="TVU UMSA">
     <title>FILOSOFIA</title>
     <desc>Sector de TVU</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.postimg.cc/0NwgJ20z/TVU-ICO.jpg"/>
-    <category lang="es">programacion de Domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
 
   <programme start="20230930053500 +0000" stop="20230930054500 +0000" channel="F10">
@@ -2125,14 +2125,14 @@
     <desc>Sector nocturno de series anime</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001013000 +0000" stop="20231001043000 +0000" channel="F10">
     <title>CIERRE DE EMISION</title>
     <desc>cierre de emision canal F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
 
   <programme start="20231001043000 +0000" stop="20231001050000 +0000" channel="F10">
@@ -2140,208 +2140,208 @@
     <desc>inicio de emision canal F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001050000 +0000" stop="20231001060000 +0000" channel="F10">
     <title>REFLEXION MATUTINA</title>
     <desc>sector de reflexion del dia domingo</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001060000 +0000" stop="20231001063000 +0000" channel="F10">
     <title>GOSPEL F10</title>
     <desc>sector gospel f10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001063000 +0000" stop="20231001070000 +0000" channel="F10">
     <title>DOCUMENTALES CULTUR ASIATICA NHK</title>
     <desc>sector de documentales de la cultura asiatica</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001070000 +0000" stop="20231001080000 +0000" channel="F10">
-    <title>PROGRAMA DE ALCALDIA DEL ALTO</title>
+    <title>PROGRAMA DE LA ALCALDIA DEL ALTO</title>
     <desc>sector informativo de la alcaldia del alto</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001080000 +0000" stop="20231001090000 +0000" channel="F10">
     <title>CON O SIN NOSTALGIA</title>
     <desc>sector del recuerdo con la mejor musica clasica de nuestros tiempos de antaño</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001090000 +0000" stop="20231001093000 +0000" channel="F10">
     <title>MUSIC ANIME WORLD</title>
     <desc>sector de la mejor musica de la cultura del anime japones</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001093000 +0000" stop="20231001100000 +0000" channel="F10">
     <title>ANIME FAN-CANDY CANDY</title>
     <desc>Candy Candy es una serie de animación japonesa inspirada en los mangas de la escritora Kyōko Mizuki y la ilustradora Yumiko Igarashi; que a su vez, se crearon a partir de la novela Ana la de tejas verdes (Anne of Green Gables) de Lucy Maud Montgomery</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001100000 +0000" stop="20231001103000 +0000" channel="F10">
     <title>ANIME FAN-INUYASHA</title>
     <desc>Esta serie narra las aventuras de un hanyō (hombre mitad demonio) llamado Inuyasha, que está en la búsqueda de los fragmentos de la Perla de Shikon con sus amigos, En su viaje encontrarán toda clase de demonios, algunos buenos como el pequeño demonio zorro Shippo y otros malvados, como Sesshomaru, dispuesto a todo para hacerse con “Colmillo de Hierro”</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001103000 +0000" stop="20231001110000 +0000" channel="F10">
     <title>ANIME FAN-HUNTER X HUNTER</title>
     <desc>Hunter × Hunter es una serie de televisión de anime basada en la serie de manga del mismo nombre escrita e ilustrada por Yoshihiro Togashi que se emitió de 1999 a 2001</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001110000 +0000" stop="20231001113000 +0000" channel="F10">
     <title>ANIME FAN-FULL METAL ALCHEMIST BROTHER</title>
     <desc>Los hermanos Edward y Alphonse Elric continúan la búsqueda de la Piedra Filosofal con la esperanza de restaurar sus cuerpos, que se perdieron cuando intentaron utilizar sus habilidades en alquimia al tratar de resucitar a su madre fallecida.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001113000 +0000" stop="20231001120000 +0000" channel="F10">
     <title>ANIME FAN-YUYU HAKUSHO</title>
     <desc>Yusuke Urameshi es un joven de 14 años que muere al intentar salvar a un niño de ser atropellado. Su alma es enviada al más allá, donde descubre que aún no era su hora. Para poder resucitar, Yusuke deberá convertirse en investigador espiritual y vencer a todas las fuerzas del mal.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001120000 +0000" stop="20231001123000 +0000" channel="F10">
     <title>ANIME FAN-SAILOR MOON</title>
     <desc>Sailor Moon es considerada uno de los animes más representativos del género shōnen y del shōjo (al poseer elementos característicos de ambos), marcando un antes y un después por ser una de las primeras historias protagonizadas por personajes femeninos</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001123000 +0000" stop="20231001130000 +0000" channel="F10">
     <title>ANIME FAN-BATMAN SERIE ANIMADA</title>
     <desc>La aclamada serie es una adaptación del cómic protagonizado por el superhéroe de DC Comics Batman. Fue desarrollada por Bruce Timm y Eric Radomski</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001130000 +0000" stop="20231001150000 +0000" channel="F10">
     <title>PELICULAS F10</title>
     <desc>Sector de peliculas de F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001150000 +0000" stop="20231001153000 +0000" channel="F10">
     <title>COMIDAS DEL MUNDO</title>
     <desc>Sector donde veremos la comida internacional desde una mirada diferente</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001153000 +0000" stop="20231001160000 +0000" channel="F10">
     <title>ZONA DOCUMENTALES F10</title>
     <desc>Sector de los mejores documentales internacionales</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001160000 +0000" stop="20231001170000 +0000" channel="F10">
     <title>EL AUTO FANTASTICO</title>
     <desc>La infancia de los niños de los 80 y 90 estuvo marcada por unas cuantas series de televisión, pero la predilecta de todos los amantes de los coches era ‘El Coche Fantástico’ o ‘Knight Rider’, como se conocía en Estados Unidos</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001170000 +0000" stop="20231001173000 +0000" channel="F10">
     <title>MI PEQUEÑA MARAVILLA</title>
     <desc>Mi pequeña maravilla, fue un éxito estadounidense de comedia, emitido entre 1985 y 1989, la cual contaba la historia de una niña androide de 10 años quien es incluida como parte de una familia para mantener el secreto de su existencia.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001173000 +0000" stop="20231001180000 +0000" channel="F10">
     <title>TRES X TRES-FULL HOUSE</title>
     <desc>Ambientada en san francisco, california , Tras la muerte de su esposa en un accidente de coche, Danny Tanner, un periodista de San Francisco, tiene que sacar adelante a sus tres hijas pequeñas: D.J., Stephanie y Michelle. Su cuñado Jesse y su mejor amigo, Joey, le ayudarán en la diaria y difícil tarea de criar, cuidar y educar a las niñas.</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001180000 +0000" stop="20231001183000 +0000" channel="F10">
     <title>SERIES F10</title>
     <desc>Sector de series F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001183000 +0000" stop="20231001190000 +0000" channel="F10">
     <title>POWER RANGERS</title>
     <desc>Power Rangers es una serie de televisión y una franquicia estadounidense del género tokusatsu, versión de Super Sentai Series, una serie de televisión japonesa del mismo género. Se emite desde el año 1993</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001190000 +0000" stop="20231001200000 +0000" channel="F10">
     <title>INVASION V</title>
     <desc>Invasión V Extraterrestre se convirtió en un fenómeno televisivo hace cuatro décadas, una época en la que surgieron muchos éxitos, pero pocos alcanzaron el brillo y la popularidad de esta serie en particular. Creada por Kenneth Johnson, la serie se emitió originalmente entre 1983 y 1985</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001200000 +0000" stop="20231001210000 +0000" channel="F10">
     <title>EXPEDIENTES F10</title>
     <desc>Revista investigacion con mini-documentales y entrevistados con los temas mas importantes de la coyuntura de bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001210000 +0000" stop="20231001220000 +0000" channel="F10">
     <title>A MI NO ME NADIE</title>
     <desc>Sector de debate y analisis con los temas politicos mas relevantes de la coyuntura en bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001220000 +0000" stop="20231001233000 +0000" channel="F10">
     <title>TERCER MILENIO</title>
     <desc>Programa de informacion cientifica global</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231001233000 +0000" stop="20231002010000 +0000" channel="F10">
     <title>SANTO SORBO</title>
     <desc>Sector nocturno de musica grupos en vivo y entrevistados</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del domingo</category>
   </programme>
   <programme start="20231002010000 +0000" stop="20231002040500 +0000" channel="F10">
     <title>CIERRE DE EMISION</title>
     <desc>cierre de emision f10</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20231002040500 +0000" stop="20231002043000 +0000" channel="F10">
     <title>INICIO DE EMISION</title>
     <desc>inicio de emision F10</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20231002043000 +0000" stop="20231002050000 +0000" channel="F10">
     <title>TIEMPO DE FE</title>
     <desc>Sector de reflexion religiosa</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion de lunes a viernes</category>
   </programme>
   <programme start="20231002050000 +0000" stop="20231002060000 +0000" channel="F10">
     <title>TODO WALIKI</title>
     <desc>Sector de musica y videos musicales</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
-    <category lang="es">programacion de domingo</category>
+    <category lang="es">programacion del lunes a viernes</category>
   </programme>
 </tv>
