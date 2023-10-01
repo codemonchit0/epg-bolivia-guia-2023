@@ -3333,12 +3333,225 @@
     <category lang="es">programacion de domingo</category>
   </programme>
   <programme start="20231001000000 +0000" stop="20231001043000 +0000" channel="F10 HD">
-    <title>CIERE DE EMISION</title>
-    <desc>CIERRE DE EMISION</desc>
+    <title>CIERRE DE EMISION</title>
+    <desc>CIERRE DE EMISION f10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de domingo</category>
   </programme>
+
+  <programme start="20231001043000 +0000" stop="20231001050000 +0000" channel="F10 HD">
+    <title>INICIO DE EMISION</title>
+    <desc>inicio de emision F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001050000 +0000" stop="20231001060000 +0000" channel="F10 HD">
+    <title>REFLEXION MATUTINA</title>
+    <desc>sector de reflexion del dia domingo</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001060000 +0000" stop="20231001063000 +0000" channel="F10 HD">
+    <title>GOSPEL F10</title>
+    <desc>sector gospel f10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001063000 +0000" stop="20231001070000 +0000" channel="F10 HD">
+    <title>DOCUMENTALES CULTURA ASIATICA NHK</title>
+    <desc>sector de documentales de la cultura asiatica</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001070000 +0000" stop="20231001080000 +0000" channel="F10 HD">
+    <title>PROGRAMA DE LA ALCALDIA DEL ALTO</title>
+    <desc>sector informativo de la alcaldia del alto</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001080000 +0000" stop="20231001090000 +0000" channel="F10 HD">
+    <title>CON O SIN NOSTALGIA</title>
+    <desc>sector del recuerdo con la mejor musica clasica de nuestros tiempos de antaño</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001090000 +0000" stop="20231001093000 +0000" channel="F10 HD">
+    <title>MUSIC ANIME WORLD</title>
+    <desc>sector de la mejor musica de la cultura del anime japones</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001093000 +0000" stop="20231001100000 +0000" channel="F10 HD">
+    <title>ANIME FAN-CANDY CANDY</title>
+    <desc>Candy Candy es una serie de animación japonesa inspirada en los mangas de la escritora Kyōko Mizuki y la ilustradora Yumiko Igarashi; que a su vez, se crearon a partir de la novela Ana la de tejas verdes (Anne of Green Gables) de Lucy Maud Montgomery</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001100000 +0000" stop="20231001103000 +0000" channel="F10 HD">
+    <title>ANIME FAN-INUYASHA</title>
+    <desc>Esta serie narra las aventuras de un hanyō (hombre mitad demonio) llamado Inuyasha, que está en la búsqueda de los fragmentos de la Perla de Shikon con sus amigos, En su viaje encontrarán toda clase de demonios, algunos buenos como el pequeño demonio zorro Shippo y otros malvados, como Sesshomaru, dispuesto a todo para hacerse con “Colmillo de Hierro”</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001103000 +0000" stop="20231001110000 +0000" channel="F10 HD">
+    <title>ANIME FAN-HUNTER X HUNTER</title>
+    <desc>Hunter × Hunter es una serie de televisión de anime basada en la serie de manga del mismo nombre escrita e ilustrada por Yoshihiro Togashi que se emitió de 1999 a 2001</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001110000 +0000" stop="20231001113000 +0000" channel="F10 HD">
+    <title>ANIME FAN-FULL METAL ALCHEMIST BROTHER</title>
+    <desc>Los hermanos Edward y Alphonse Elric continúan la búsqueda de la Piedra Filosofal con la esperanza de restaurar sus cuerpos, que se perdieron cuando intentaron utilizar sus habilidades en alquimia al tratar de resucitar a su madre fallecida.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001113000 +0000" stop="20231001120000 +0000" channel="F10 HD">
+    <title>ANIME FAN-YUYU HAKUSHO</title>
+    <desc>Yusuke Urameshi es un joven de 14 años que muere al intentar salvar a un niño de ser atropellado. Su alma es enviada al más allá, donde descubre que aún no era su hora. Para poder resucitar, Yusuke deberá convertirse en investigador espiritual y vencer a todas las fuerzas del mal.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001120000 +0000" stop="20231001123000 +0000" channel="F10 HD">
+    <title>ANIME FAN-SAILOR MOON</title>
+    <desc>Sailor Moon es considerada uno de los animes más representativos del género shōnen y del shōjo (al poseer elementos característicos de ambos), marcando un antes y un después por ser una de las primeras historias protagonizadas por personajes femeninos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001123000 +0000" stop="20231001130000 +0000" channel="F10 HD">
+    <title>ANIME FAN-BATMAN SERIE ANIMADA</title>
+    <desc>La aclamada serie es una adaptación del cómic protagonizado por el superhéroe de DC Comics Batman. Fue desarrollada por Bruce Timm y Eric Radomski</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001130000 +0000" stop="20231001150000 +0000" channel="F10 HD">
+    <title>PELICULAS F10</title>
+    <desc>Sector de peliculas de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001150000 +0000" stop="20231001153000 +0000" channel="F10 HD">
+    <title>COMIDAS AL REDEDOR DEL MUNDO</title>
+    <desc>Sector donde veremos la comida internacional desde una mirada diferente</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001153000 +0000" stop="20231001160000 +0000" channel="F10 HD">
+    <title>ZONA DOCUMENTALES F10</title>
+    <desc>Sector de los mejores documentales internacionales</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001160000 +0000" stop="20231001170000 +0000" channel="F10 HD">
+    <title>EL AUTO FANTASTICO</title>
+    <desc>La infancia de los niños de los 80 y 90 estuvo marcada por unas cuantas series de televisión, pero la predilecta de todos los amantes de los coches era ‘El Coche Fantástico’ o ‘Knight Rider’, como se conocía en Estados Unidos</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001170000 +0000" stop="20231001173000 +0000" channel="F10 HD">
+    <title>MI PEQUEÑA MARAVILLA</title>
+    <desc>Mi pequeña maravilla, fue un éxito estadounidense de comedia, emitido entre 1985 y 1989, la cual contaba la historia de una niña androide de 10 años quien es incluida como parte de una familia para mantener el secreto de su existencia.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001173000 +0000" stop="20231001180000 +0000" channel="F10 HD">
+    <title>TRES X TRES-FULL HOUSE</title>
+    <desc>Ambientada en san francisco, california , Tras la muerte de su esposa en un accidente de coche, Danny Tanner, un periodista de San Francisco, tiene que sacar adelante a sus tres hijas pequeñas: D.J., Stephanie y Michelle. Su cuñado Jesse y su mejor amigo, Joey, le ayudarán en la diaria y difícil tarea de criar, cuidar y educar a las niñas.</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001180000 +0000" stop="20231001183000 +0000" channel="F10 HD">
+    <title>SERIES F10</title>
+    <desc>Sector de series F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001183000 +0000" stop="20231001190000 +0000" channel="F10 HD">
+    <title>POWER RANGERS</title>
+    <desc>Power Rangers es una serie de televisión y una franquicia estadounidense del género tokusatsu, versión de Super Sentai Series, una serie de televisión japonesa del mismo género. Se emite desde el año 1993</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001190000 +0000" stop="20231001200000 +0000" channel="F10 HD">
+    <title>INVASION V</title>
+    <desc>V Invasión Extraterrestre se convirtió en un fenómeno televisivo hace cuatro décadas, una época en la que surgieron muchos éxitos, pero pocos alcanzaron el brillo y la popularidad de esta serie en particular. Creada por Kenneth Johnson, la serie se emitió originalmente entre 1983 y 1985</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001200000 +0000" stop="20231001210000 +0000" channel="F10 HD">
+    <title>EXPEDIENTES F10</title>
+    <desc>Revista investigacion con mini-documentales y entrevistados con los temas mas importantes de la coyuntura de bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001210000 +0000" stop="20231001220000 +0000" channel="F10 HD">
+    <title>A MI NO ME NADIE</title>
+    <desc>Sector de debate y analisis con los temas politicos mas relevantes de la coyuntura en bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001220000 +0000" stop="20231001233000 +0000" channel="F10 HD">
+    <title>TERCER MILENIO</title>
+    <desc>Programa de informacion cientifica global</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231001233000 +0000" stop="20231002010500 +0000" channel="F10 HD">
+    <title>SANTO SORBO</title>
+    <desc>Sector nocturno de musica grupos en vivo y entrevistados</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231002010500 +0000" stop="20231002040500 +0000" channel="F10 HD">
+    <title>CIERRE DE EMISION</title>
+    <desc>cierre de emision f10</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231002040500 +0000" stop="20231002043000 +0000" channel="F10 HD">
+    <title>INICIO DE EMISION</title>
+    <desc>inicio de emision F10</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231002043000 +0000" stop="20231002050000 +0000" channel="F10 HD">
+    <title>TIEMPO DE FE</title>
+    <desc>Sector de reflexion religiosa</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+  <programme start="20231002050000 +0000" stop="20231002060000 +0000" channel="F10 HD">
+    <title>TODO WALIKI</title>
+    <desc>Sector de musica y videos musicales</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de domingo</category>
+  </programme>
+
+
+
 
 
   <programme start="20230925000000 +0000" stop="20230925060000 +0000" channel="ATB BOLIVIA">
