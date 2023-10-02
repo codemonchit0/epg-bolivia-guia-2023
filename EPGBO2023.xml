@@ -40,8 +40,8 @@
     <url>https://tvu.umsa.bo</url>
     <icon src="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" />
   </channel>
-  <channel id="EFEDIEZ BOLIVIA">
-    <display-name>EFEDIEZ BOLIVIA</display-name>
+  <channel id="F10">
+    <display-name>F10</display-name>
     <url>https://f10.tv.bo</url>
     <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg" />
   </channel>
@@ -4828,890 +4828,918 @@
   </programme>
 
 
-  <programme start="20231001233500 +0000" stop="20231002014500 +0000" channel="EFEDIEZ BOLIVIA">
-    <title>MUSICAL F10</title>
+  <programme start="20231002011500 +0000" stop="20231002013500 +0000" channel="F10">
+    <title>ANIME FAN NOCTURO F10</title>
     <desc>inicio de transmision de f10 bolivia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002014500 +0000" stop="20231002050000 +0000" channel="EFEDIEZ BOLIVIA">
+   <programme start="20231002013500 +0000" stop="20231002020000 +0000" channel="F10">
+    <title>ANIME FAN-HISTORIAS DE FANTASMAS</title>
+    <desc>Sector de anime nocturno de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002020000 +0000" stop="20231002023000 +0000" channel="F10">
+    <title>ANIME FAN-ANIME NOCTURNO</title>
+    <desc>Sector de anime nocturno de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002023000 +0000" stop="20231002023000 +0000" channel="F10">
+    <title>ANIME FAN-ANIME NOCTURNO</title>
+    <desc>Sector de anime nocturno de F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002023000 +0000" stop="20231002043500 +0000" channel="F10">
+    <title>CIERRE DE EMISION F10</title>
+    <desc>cierre de emision F10</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
+  <programme start="20231002043500 +0000" stop="20231002050000 +0000" channel="F10">
     <title>INICIO DE TRANSMISION</title>
     <desc>inicio de transmision de f10 bolivia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>  
-  <programme start="20231002050000 +0000" stop="20231002063000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002050000 +0000" stop="20231002063000 +0000" channel="F10">
     <title>TODO WALIKI</title>
     <desc>Sector de musica y entrenimiento nacional</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002063000 +0000" stop="20231002080000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002063000 +0000" stop="20231002080000 +0000" channel="F10">
     <title>NOTICIERO F10 PRIMERA EDICION</title>
     <desc>Noticiero de F10 primera edicion con las noticias iniciales de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002080000 +0000" stop="20231002093000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002080000 +0000" stop="20231002093000 +0000" channel="F10">
     <title>REVISTA 40 60</title>
     <desc>Revista matinal de F10 donde se trata temas actuales concursos y grupos en vivo</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002093000 +0000" stop="20231002103000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002093000 +0000" stop="20231002103000 +0000" channel="F10">
     <title>SECTOR POR DEFINIR</title>
     <desc>SECTOR POR DEFINIR</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002103000 +0000" stop="20231002113000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002103000 +0000" stop="20231002113000 +0000" channel="F10">
     <title>YATI COLOR</title>
     <desc>Programa infantil matinal de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
-  </programme>
-  <programme start="20231002113000 +0000" stop="20231002120000 +0000" channel="EFEDIEZ BOLIVIA">
+  </programme> 
+  <programme start="20231002113000 +0000" stop="20231002120000 +0000" channel="F10">
     <title>CHAYRITO MUSICAL DE F10</title>
     <desc>Sector de videos musicales nacionales e internacionales</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002120000 +0000" stop="20231002140000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002120000 +0000" stop="20231002140000 +0000" channel="F10">
     <title>F10 NOTICIAS DE LA TARDE</title>
     <desc>Sector de noticias nacionales e internacionales con los temas mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002140000 +0000" stop="20231002143000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002140000 +0000" stop="20231002143000 +0000" channel="F10">
     <title>F10 DEPORTES</title>
     <desc>Central de deportes de F10 con los temas mas importantes del ambito deportivo local y internacional</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002143000 +0000" stop="20231002150000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002143000 +0000" stop="20231002150000 +0000" channel="F10">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002150000 +0000" stop="20231002152500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002150000 +0000" stop="20231002152500 +0000" channel="F10">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002152500 +0000" stop="20231002153000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002152500 +0000" stop="20231002153000 +0000" channel="F10">
     <title>SECTOR DE COCINA F10</title>
     <desc>Espacio donde te enseñamos la mejor receta culinaria de los platos mas espciales y ricos</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002153000 +0000" stop="20231002163000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002153000 +0000" stop="20231002163000 +0000" channel="F10">
     <title>YATI COLOR</title>
     <desc>Sector infantil de F10 de cultura y entrenimiento familiar</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002163000 +0000" stop="20231002170000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002163000 +0000" stop="20231002170000 +0000" channel="F10">
     <title>ZATCH BELL!-SERIE ANIME</title>
     <desc>En un mundo mágico cada 100 años, 100 niños mamodos son enviados a la Tierra donde batallaran entre si, donde el ganador será nombrado el rey del mundo mágico</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002170000 +0000" stop="20231002172500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002170000 +0000" stop="20231002172500 +0000" channel="F10">
     <title>MAZINGER Z - SERIE CLASICA</title>
     <desc>Serie anime clasica</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002172500 +0000" stop="20231002173000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002172500 +0000" stop="20231002173000 +0000" channel="F10">
     <title>MICRO-SECTOR F10 INFORMATIVO </title>
     <desc>Con las 5 noticias mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002173000 +0000" stop="20231002183000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002173000 +0000" stop="20231002183000 +0000" channel="F10">
     <title>CUARTO SHOW</title>
     <desc>Revista juvenil de la tarde con musica actual y entrevistas</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>  
-  <programme start="20231002183000 +0000" stop="20231002185500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002183000 +0000" stop="20231002185500 +0000" channel="F10">
     <title>HECHIZADA-SERIE CLASICA</title>
     <desc>Samantha, una mujer que pertenece a un largo linaje de brujas, se enamora y se casa con el ejecutivo Darrin Stephens, un mortal. Las aventuras se producen cuando Sam y Darrin intentan vivir una vida sin magia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002185500 +0000" stop="20231002203000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002185500 +0000" stop="20231002203000 +0000" channel="F10">
     <title>F10 NOTICIAS EDICION CENTRAL</title>
     <desc>Noticiero central F10 con las noticias mas importantes de la jornada diaria</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002203000 +0000" stop="20231002213000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002203000 +0000" stop="20231002213000 +0000" channel="F10">
     <title>TERCER MILENIO - LA ULTIMA HORA</title>
     <desc>Revista internacional con el presentador Ufologo Jaime Mausan</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002213000 +0000" stop="20231002223000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002213000 +0000" stop="20231002223000 +0000" channel="F10">
     <title>A MI NO ME NADIE</title>
     <desc>Revista nocturna de debate con los temas de la coyuntura politica actual</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002223000 +0000" stop="20231002230500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002223000 +0000" stop="20231002230500 +0000" channel="F10">
     <title>F10 DEPORTES</title>
     <desc>Sector deportivo de F10 con las noticias deportivas mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002230500 +0000" stop="20231003000000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002230500 +0000" stop="20231003000000 +0000" channel="F10">
     <title>F10 DORAMAS</title>
     <desc>Sector de novelas koreanas de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003000000 +0000" stop="20231003013000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003000000 +0000" stop="20231003013000 +0000" channel="F10">
     <title>F10 CENTRAL DE NOTICIAS - REPRIS</title>
     <desc>Repris de noticiero central de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003013000 +0000" stop="20231003043500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003013000 +0000" stop="20231003043500 +0000" channel="F10">
     <title>CIERRE DE EMIMISION</title>
     <desc>Cierre de emision de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20231003043500 +0000" stop="20231003050000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003043500 +0000" stop="20231003050000 +0000" channel="F10">
     <title>INICIO DE TRANSMISION</title>
     <desc>inicio de transmision de f10 bolivia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>  
-  <programme start="20231003050000 +0000" stop="20231003063000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003050000 +0000" stop="20231003063000 +0000" channel="F10">
     <title>TODO WALIKI</title>
     <desc>Sector de musica y entrenimiento nacional</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003063000 +0000" stop="20231003080000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003063000 +0000" stop="20231003080000 +0000" channel="F10">
     <title>NOTICIERO F10 PRIMERA EDICION</title>
     <desc>Noticiero de F10 primera edicion con las noticias iniciales de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003080000 +0000" stop="20231003093000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003080000 +0000" stop="20231003093000 +0000" channel="F10">
     <title>REVISTA 40 60</title>
     <desc>Revista matinal de F10 donde se trata temas actuales concursos y grupos en vivo</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003093000 +0000" stop="20231003103000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003093000 +0000" stop="20231003103000 +0000" channel="F10">
     <title>SECTOR POR DEFINIR</title>
     <desc>SECTOR POR DEFINIR</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003103000 +0000" stop="20231003113000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003103000 +0000" stop="20231003113000 +0000" channel="F10">
     <title>YATI COLOR</title>
     <desc>Programa infantil matinal de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003113000 +0000" stop="20231003120000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003113000 +0000" stop="20231003120000 +0000" channel="F10">
     <title>CHAYRITO MUSICAL DE F10</title>
     <desc>Sector de videos musicales nacionales e internacionales</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003120000 +0000" stop="20231003140000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003120000 +0000" stop="20231003140000 +0000" channel="F10">
     <title>F10 NOTICIAS DE LA TARDE</title>
     <desc>Sector de noticias nacionales e internacionales con los temas mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003140000 +0000" stop="20231003143000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003140000 +0000" stop="20231003143000 +0000" channel="F10">
     <title>F10 DEPORTES</title>
     <desc>Central de deportes de F10 con los temas mas importantes del ambito deportivo local y internacional</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003143000 +0000" stop="20231003150000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003143000 +0000" stop="20231003150000 +0000" channel="F10">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003150000 +0000" stop="20231003152500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003150000 +0000" stop="20231003152500 +0000" channel="F10">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003152500 +0000" stop="20231003153000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003152500 +0000" stop="20231003153000 +0000" channel="F10">
     <title>SECTOR DE COCINA F10</title>
     <desc>Espacio donde te enseñamos la mejor receta culinaria de los platos mas espciales y ricos</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003153000 +0000" stop="20231003163000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003153000 +0000" stop="20231003163000 +0000" channel="F10">
     <title>YATI COLOR</title>
     <desc>Sector infantil de F10 de cultura y entrenimiento familiar</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003163000 +0000" stop="20231003170000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003163000 +0000" stop="20231003170000 +0000" channel="F10">
     <title>ZATCH BELL!-SERIE ANIME</title>
     <desc>En un mundo mágico cada 100 años, 100 niños mamodos son enviados a la Tierra donde batallaran entre si, donde el ganador será nombrado el rey del mundo mágico</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003170000 +0000" stop="20231003172500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003170000 +0000" stop="20231003172500 +0000" channel="F10">
     <title>MAZINGER Z - SERIE CLASICA</title>
     <desc>Serie anime clasica</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003172500 +0000" stop="20231003173000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003172500 +0000" stop="20231003173000 +0000" channel="F10">
     <title>MICRO-SECTOR F10 INFORMATIVO </title>
     <desc>Con las 5 noticias mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003173000 +0000" stop="20231003183000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003173000 +0000" stop="20231003183000 +0000" channel="F10">
     <title>CUARTO SHOW</title>
     <desc>Revista juvenil de la tarde con musica actual y entrevistas</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>  
-  <programme start="20231003183000 +0000" stop="20231003185500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003183000 +0000" stop="20231003185500 +0000" channel="F10">
     <title>HECHIZADA-SERIE CLASICA</title>
     <desc>Samantha, una mujer que pertenece a un largo linaje de brujas, se enamora y se casa con el ejecutivo Darrin Stephens, un mortal. Las aventuras se producen cuando Sam y Darrin intentan vivir una vida sin magia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003185500 +0000" stop="20231003203000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003185500 +0000" stop="20231003203000 +0000" channel="F10">
     <title>F10 NOTICIAS EDICION CENTRAL</title>
     <desc>Noticiero central F10 con las noticias mas importantes de la jornada diaria</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003203000 +0000" stop="20231003213000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003203000 +0000" stop="20231003213000 +0000" channel="F10">
     <title>TERCER MILENIO - LA ULTIMA HORA</title>
     <desc>Revista internacional con el presentador Ufologo Jaime Mausan</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003213000 +0000" stop="20231003223000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003213000 +0000" stop="20231003223000 +0000" channel="F10">
     <title>A MI NO ME NADIE</title>
     <desc>Revista nocturna de debate con los temas de la coyuntura politica actual</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003223000 +0000" stop="20231003230500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003223000 +0000" stop="20231003230500 +0000" channel="F10">
     <title>F10 DEPORTES</title>
     <desc>Sector deportivo de F10 con las noticias deportivas mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231003230500 +0000" stop="20231004000000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003230500 +0000" stop="20231004000000 +0000" channel="F10">
     <title>F10 DORAMAS</title>
     <desc>Sector de novelas koreanas de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004000000 +0000" stop="20231004013000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004000000 +0000" stop="20231004013000 +0000" channel="F10">
     <title>F10 CENTRAL DE NOTICIAS - REPRIS</title>
     <desc>Repris de noticiero central de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004013000 +0000" stop="20231004043500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004013000 +0000" stop="20231004043500 +0000" channel="F10">
     <title>CIERRE DE EMIMISION</title>
     <desc>Cierre de emision de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20231004043500 +0000" stop="20231004050000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004043500 +0000" stop="20231004050000 +0000" channel="F10">
     <title>INICIO DE TRANSMISION</title>
     <desc>inicio de transmision de f10 bolivia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>  
-  <programme start="20231004050000 +0000" stop="20231004063000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004050000 +0000" stop="20231004063000 +0000" channel="F10">
     <title>TODO WALIKI</title>
     <desc>Sector de musica y entrenimiento nacional</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004063000 +0000" stop="20231004080000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004063000 +0000" stop="20231004080000 +0000" channel="F10">
     <title>NOTICIERO F10 PRIMERA EDICION</title>
     <desc>Noticiero de F10 primera edicion con las noticias iniciales de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004080000 +0000" stop="20231004093000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004080000 +0000" stop="20231004093000 +0000" channel="F10">
     <title>REVISTA 40 60</title>
     <desc>Revista matinal de F10 donde se trata temas actuales concursos y grupos en vivo</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004093000 +0000" stop="20231004103000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004093000 +0000" stop="20231004103000 +0000" channel="F10">
     <title>SECTOR POR DEFINIR</title>
     <desc>SECTOR POR DEFINIR</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004103000 +0000" stop="20231004113000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004103000 +0000" stop="20231004113000 +0000" channel="F10">
     <title>YATI COLOR</title>
     <desc>Programa infantil matinal de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004113000 +0000" stop="20231004120000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004113000 +0000" stop="20231004120000 +0000" channel="F10">
     <title>CHAYRITO MUSICAL DE F10</title>
     <desc>Sector de videos musicales nacionales e internacionales</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004120000 +0000" stop="20231004140000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004120000 +0000" stop="20231004140000 +0000" channel="F10">
     <title>F10 NOTICIAS DE LA TARDE</title>
     <desc>Sector de noticias nacionales e internacionales con los temas mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004140000 +0000" stop="20231004143000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004140000 +0000" stop="20231004143000 +0000" channel="F10">
     <title>F10 DEPORTES</title>
     <desc>Central de deportes de F10 con los temas mas importantes del ambito deportivo local y internacional</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004143000 +0000" stop="20231004150000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004143000 +0000" stop="20231004150000 +0000" channel="F10">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004150000 +0000" stop="20231004152500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004150000 +0000" stop="20231004152500 +0000" channel="F10">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004152500 +0000" stop="20231004153000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004152500 +0000" stop="20231004153000 +0000" channel="F10">
     <title>SECTOR DE COCINA F10</title>
     <desc>Espacio donde te enseñamos la mejor receta culinaria de los platos mas espciales y ricos</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004153000 +0000" stop="20231004163000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004153000 +0000" stop="20231004163000 +0000" channel="F10">
     <title>YATI COLOR</title>
     <desc>Sector infantil de F10 de cultura y entrenimiento familiar</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004163000 +0000" stop="20231004170000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004163000 +0000" stop="20231004170000 +0000" channel="F10">
     <title>ZATCH BELL!-SERIE ANIME</title>
     <desc>En un mundo mágico cada 100 años, 100 niños mamodos son enviados a la Tierra donde batallaran entre si, donde el ganador será nombrado el rey del mundo mágico</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004170000 +0000" stop="20231004172500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004170000 +0000" stop="20231004172500 +0000" channel="F10">
     <title>MAZINGER Z - SERIE CLASICA</title>
     <desc>Serie anime clasica</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004172500 +0000" stop="20231004173000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004172500 +0000" stop="20231004173000 +0000" channel="F10">
     <title>MICRO-SECTOR F10 INFORMATIVO </title>
     <desc>Con las 5 noticias mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004173000 +0000" stop="20231004183000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004173000 +0000" stop="20231004183000 +0000" channel="F10">
     <title>CUARTO SHOW</title>
     <desc>Revista juvenil de la tarde con musica actual y entrevistas</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>  
-  <programme start="20231004183000 +0000" stop="20231004185500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004183000 +0000" stop="20231004185500 +0000" channel="F10">
     <title>HECHIZADA-SERIE CLASICA</title>
     <desc>Samantha, una mujer que pertenece a un largo linaje de brujas, se enamora y se casa con el ejecutivo Darrin Stephens, un mortal. Las aventuras se producen cuando Sam y Darrin intentan vivir una vida sin magia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004185500 +0000" stop="20231004203000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004185500 +0000" stop="20231004203000 +0000" channel="F10">
     <title>F10 NOTICIAS EDICION CENTRAL</title>
     <desc>Noticiero central F10 con las noticias mas importantes de la jornada diaria</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004203000 +0000" stop="20231004213000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004203000 +0000" stop="20231004213000 +0000" channel="F10">
     <title>TERCER MILENIO - LA ULTIMA HORA</title>
     <desc>Revista internacional con el presentador Ufologo Jaime Mausan</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004213000 +0000" stop="20231004223000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004213000 +0000" stop="20231004223000 +0000" channel="F10">
     <title>A MI NO ME NADIE</title>
     <desc>Revista nocturna de debate con los temas de la coyuntura politica actual</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004223000 +0000" stop="20231004230500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004223000 +0000" stop="20231004230500 +0000" channel="F10">
     <title>F10 DEPORTES</title>
     <desc>Sector deportivo de F10 con las noticias deportivas mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231004230500 +0000" stop="20231005000000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004230500 +0000" stop="20231005000000 +0000" channel="F10">
     <title>F10 DORAMAS</title>
     <desc>Sector de novelas koreanas de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005000000 +0000" stop="20231005013000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005000000 +0000" stop="20231005013000 +0000" channel="F10">
     <title>F10 CENTRAL DE NOTICIAS - REPRIS</title>
     <desc>Repris de noticiero central de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005013000 +0000" stop="20231005043500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005013000 +0000" stop="20231005043500 +0000" channel="F10">
     <title>CIERRE DE EMIMISION</title>
     <desc>Cierre de emision de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20231005043500 +0000" stop="20231005050000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005043500 +0000" stop="20231005050000 +0000" channel="F10">
     <title>INICIO DE TRANSMISION</title>
     <desc>inicio de transmision de f10 bolivia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>  
-  <programme start="20231005050000 +0000" stop="20231005063000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005050000 +0000" stop="20231005063000 +0000" channel="F10">
     <title>TODO WALIKI</title>
     <desc>Sector de musica y entrenimiento nacional</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005063000 +0000" stop="20231005080000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005063000 +0000" stop="20231005080000 +0000" channel="F10">
     <title>NOTICIERO F10 PRIMERA EDICION</title>
     <desc>Noticiero de F10 primera edicion con las noticias iniciales de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005080000 +0000" stop="20231005093000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005080000 +0000" stop="20231005093000 +0000" channel="F10">
     <title>REVISTA 40 60</title>
     <desc>Revista matinal de F10 donde se trata temas actuales concursos y grupos en vivo</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005093000 +0000" stop="20231005103000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005093000 +0000" stop="20231005103000 +0000" channel="F10">
     <title>SECTOR POR DEFINIR</title>
     <desc>SECTOR POR DEFINIR</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005103000 +0000" stop="20231005113000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005103000 +0000" stop="20231005113000 +0000" channel="F10">
     <title>YATI COLOR</title>
     <desc>Programa infantil matinal de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005113000 +0000" stop="20231005120000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005113000 +0000" stop="20231005120000 +0000" channel="F10">
     <title>CHAYRITO MUSICAL DE F10</title>
     <desc>Sector de videos musicales nacionales e internacionales</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005120000 +0000" stop="20231005140000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005120000 +0000" stop="20231005140000 +0000" channel="F10">
     <title>F10 NOTICIAS DE LA TARDE</title>
     <desc>Sector de noticias nacionales e internacionales con los temas mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005140000 +0000" stop="20231005143000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005140000 +0000" stop="20231005143000 +0000" channel="F10">
     <title>F10 DEPORTES</title>
     <desc>Central de deportes de F10 con los temas mas importantes del ambito deportivo local y internacional</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005143000 +0000" stop="20231005150000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005143000 +0000" stop="20231005150000 +0000" channel="F10">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005150000 +0000" stop="20231005152500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005150000 +0000" stop="20231005152500 +0000" channel="F10">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005152500 +0000" stop="20231005153000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005152500 +0000" stop="20231005153000 +0000" channel="F10">
     <title>SECTOR DE COCINA F10</title>
     <desc>Espacio donde te enseñamos la mejor receta culinaria de los platos mas espciales y ricos</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005153000 +0000" stop="20231005163000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005153000 +0000" stop="20231005163000 +0000" channel="F10">
     <title>YATI COLOR</title>
     <desc>Sector infantil de F10 de cultura y entrenimiento familiar</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005163000 +0000" stop="20231005170000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005163000 +0000" stop="20231005170000 +0000" channel="F10">
     <title>ZATCH BELL!-SERIE ANIME</title>
     <desc>En un mundo mágico cada 100 años, 100 niños mamodos son enviados a la Tierra donde batallaran entre si, donde el ganador será nombrado el rey del mundo mágico</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005170000 +0000" stop="20231005172500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005170000 +0000" stop="20231005172500 +0000" channel="F10">
     <title>MAZINGER Z - SERIE CLASICA</title>
     <desc>Serie anime clasica</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005172500 +0000" stop="20231005173000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005172500 +0000" stop="20231005173000 +0000" channel="F10">
     <title>MICRO-SECTOR F10 INFORMATIVO </title>
     <desc>Con las 5 noticias mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005173000 +0000" stop="20231005183000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005173000 +0000" stop="20231005183000 +0000" channel="F10">
     <title>CUARTO SHOW</title>
     <desc>Revista juvenil de la tarde con musica actual y entrevistas</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>  
-  <programme start="20231005183000 +0000" stop="20231005185500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005183000 +0000" stop="20231005185500 +0000" channel="F10">
     <title>HECHIZADA-SERIE CLASICA</title>
     <desc>Samantha, una mujer que pertenece a un largo linaje de brujas, se enamora y se casa con el ejecutivo Darrin Stephens, un mortal. Las aventuras se producen cuando Sam y Darrin intentan vivir una vida sin magia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005185500 +0000" stop="20231005203000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005185500 +0000" stop="20231005203000 +0000" channel="F10">
     <title>F10 NOTICIAS EDICION CENTRAL</title>
     <desc>Noticiero central F10 con las noticias mas importantes de la jornada diaria</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005203000 +0000" stop="20231005213000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005203000 +0000" stop="20231005213000 +0000" channel="F10">
     <title>TERCER MILENIO - LA ULTIMA HORA</title>
     <desc>Revista internacional con el presentador Ufologo Jaime Mausan</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005213000 +0000" stop="20231005223000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005213000 +0000" stop="20231005223000 +0000" channel="F10">
     <title>A MI NO ME NADIE</title>
     <desc>Revista nocturna de debate con los temas de la coyuntura politica actual</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005223000 +0000" stop="20231005230500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005223000 +0000" stop="20231005230500 +0000" channel="F10">
     <title>F10 DEPORTES</title>
     <desc>Sector deportivo de F10 con las noticias deportivas mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231005230500 +0000" stop="20231006000000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005230500 +0000" stop="20231006000000 +0000" channel="F10">
     <title>F10 DORAMAS</title>
     <desc>Sector de novelas koreanas de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006000000 +0000" stop="20231006013000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006000000 +0000" stop="20231006013000 +0000" channel="F10">
     <title>F10 CENTRAL DE NOTICIAS - REPRIS</title>
     <desc>Repris de noticiero central de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006013000 +0000" stop="20231006043500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006013000 +0000" stop="20231006043500 +0000" channel="F10">
     <title>CIERRE DE EMIMISION</title>
     <desc>Cierre de emision de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
-  <programme start="20231006043500 +0000" stop="20231006050000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006043500 +0000" stop="20231006050000 +0000" channel="F10">
     <title>INICIO DE TRANSMISION</title>
     <desc>inicio de transmision de f10 bolivia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>  
-  <programme start="20231006050000 +0000" stop="20231006063000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006050000 +0000" stop="20231006063000 +0000" channel="F10">
     <title>TODO WALIKI</title>
     <desc>Sector de musica y entrenimiento nacional</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006063000 +0000" stop="20231006080000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006063000 +0000" stop="20231006080000 +0000" channel="F10">
     <title>NOTICIERO F10 PRIMERA EDICION</title>
     <desc>Noticiero de F10 primera edicion con las noticias iniciales de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006080000 +0000" stop="20231006093000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006080000 +0000" stop="20231006093000 +0000" channel="F10">
     <title>REVISTA 40 60</title>
     <desc>Revista matinal de F10 donde se trata temas actuales concursos y grupos en vivo</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006093000 +0000" stop="20231006103000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006093000 +0000" stop="20231006103000 +0000" channel="F10">
     <title>SECTOR POR DEFINIR</title>
     <desc>SECTOR POR DEFINIR</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006103000 +0000" stop="20231006113000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006103000 +0000" stop="20231006113000 +0000" channel="F10">
     <title>YATI COLOR</title>
     <desc>Programa infantil matinal de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006113000 +0000" stop="20231006120000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006113000 +0000" stop="20231006120000 +0000" channel="F10">
     <title>CHAYRITO MUSICAL DE F10</title>
     <desc>Sector de videos musicales nacionales e internacionales</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006120000 +0000" stop="20231006140000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006120000 +0000" stop="20231006140000 +0000" channel="F10">
     <title>F10 NOTICIAS DE LA TARDE</title>
     <desc>Sector de noticias nacionales e internacionales con los temas mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006140000 +0000" stop="20231006143000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006140000 +0000" stop="20231006143000 +0000" channel="F10">
     <title>F10 DEPORTES</title>
     <desc>Central de deportes de F10 con los temas mas importantes del ambito deportivo local y internacional</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006143000 +0000" stop="20231006150000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006143000 +0000" stop="20231006150000 +0000" channel="F10">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006150000 +0000" stop="20231006152500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006150000 +0000" stop="20231006152500 +0000" channel="F10">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006152500 +0000" stop="20231006153000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006152500 +0000" stop="20231006153000 +0000" channel="F10">
     <title>SECTOR DE COCINA F10</title>
     <desc>Espacio donde te enseñamos la mejor receta culinaria de los platos mas espciales y ricos</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006153000 +0000" stop="20231006163000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006153000 +0000" stop="20231006163000 +0000" channel="F10">
     <title>YATI COLOR</title>
     <desc>Sector infantil de F10 de cultura y entrenimiento familiar</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006163000 +0000" stop="20231006170000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006163000 +0000" stop="20231006170000 +0000" channel="F10">
     <title>ZATCH BELL!-SERIE ANIME</title>
     <desc>En un mundo mágico cada 100 años, 100 niños mamodos son enviados a la Tierra donde batallaran entre si, donde el ganador será nombrado el rey del mundo mágico</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006170000 +0000" stop="20231006172500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006170000 +0000" stop="20231006172500 +0000" channel="F10">
     <title>MAZINGER Z - SERIE CLASICA</title>
     <desc>Serie anime clasica</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006172500 +0000" stop="20231006173000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006172500 +0000" stop="20231006173000 +0000" channel="F10">
     <title>MICRO-SECTOR F10 INFORMATIVO </title>
     <desc>Con las 5 noticias mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006173000 +0000" stop="20231006183000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006173000 +0000" stop="20231006183000 +0000" channel="F10">
     <title>CUARTO SHOW</title>
     <desc>Revista juvenil de la tarde con musica actual y entrevistas</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>  
-  <programme start="20231006183000 +0000" stop="20231006185500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006183000 +0000" stop="20231006185500 +0000" channel="F10">
     <title>HECHIZADA-SERIE CLASICA</title>
     <desc>Samantha, una mujer que pertenece a un largo linaje de brujas, se enamora y se casa con el ejecutivo Darrin Stephens, un mortal. Las aventuras se producen cuando Sam y Darrin intentan vivir una vida sin magia</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006185500 +0000" stop="20231006203000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006185500 +0000" stop="20231006203000 +0000" channel="F10">
     <title>F10 NOTICIAS EDICION CENTRAL</title>
     <desc>Noticiero central F10 con las noticias mas importantes de la jornada diaria</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006203000 +0000" stop="20231006213000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006203000 +0000" stop="20231006213000 +0000" channel="F10">
     <title>TERCER MILENIO - LA ULTIMA HORA</title>
     <desc>Revista internacional con el presentador Ufologo Jaime Mausan</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006213000 +0000" stop="20231006223000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006213000 +0000" stop="20231006223000 +0000" channel="F10">
     <title>A MI NO ME NADIE</title>
     <desc>Revista nocturna de debate con los temas de la coyuntura politica actual</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006223000 +0000" stop="20231006230500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006223000 +0000" stop="20231006230500 +0000" channel="F10">
     <title>F10 DEPORTES</title>
     <desc>Sector deportivo de F10 con las noticias deportivas mas importantes de la jornada</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231006230500 +0000" stop="20231007000000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006230500 +0000" stop="20231007000000 +0000" channel="F10">
     <title>F10 DORAMAS</title>
     <desc>Sector de novelas koreanas de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231007000000 +0000" stop="20231007013000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231007000000 +0000" stop="20231007013000 +0000" channel="F10">
     <title>F10 CENTRAL DE NOTICIAS - REPRIS</title>
     <desc>Repris de noticiero central de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231007013000 +0000" stop="20231007043500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231007013000 +0000" stop="20231007043500 +0000" channel="F10">
     <title>CIERRE DE EMIMISION</title>
     <desc>Cierre de emision de F10</desc>
     <country lang="bo">bolivia</country>
-    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
   
