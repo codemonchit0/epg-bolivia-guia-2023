@@ -41,7 +41,7 @@
     <icon src="https://i.postimg.cc/1tv6QGb3/TVU-HD-NEW-2023.jpg" />
   </channel>
   <channel id="EFEDIEZ BOLIVIA">
-    <display-name>EFE10 BOLIVIA</display-name>
+    <display-name>EFEDIEZ BOLIVIA</display-name>
     <url>https://f10.tv.bo</url>
     <icon src="https://i.postimg.cc/BnCJ92YW/efediezbolivia.jpg" />
   </channel>
@@ -4827,6 +4827,14 @@
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
 
+
+  <programme start="20231001233500 +0000" stop="20231002013500 +0000" channel="EFEDIEZ BOLIVIA">
+    <title>MUSICAL F10</title>
+    <desc>inicio de transmision de f10 bolivia</desc>
+    <country lang="bo">bolivia</country>
+    <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
+    <category lang="es">programacion de lunes a viernes</category>
+  </programme>
   <programme start="20231002043500 +0000" stop="20231002050000 +0000" channel="EFEDIEZ BOLIVIA">
     <title>INICIO DE TRANSMISION</title>
     <desc>inicio de transmision de f10 bolivia</desc>
@@ -4890,14 +4898,14 @@
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230921143000 +0000" stop="20230921150000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002143000 +0000" stop="20231002150000 +0000" channel="EFEDIEZ BOLIVIA">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230921150000 +0000" stop="20230921152500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002150000 +0000" stop="20231002152500 +0000" channel="EFEDIEZ BOLIVIA">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
@@ -5066,14 +5074,14 @@
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230921143000 +0000" stop="20230921150000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003143000 +0000" stop="20231003150000 +0000" channel="EFEDIEZ BOLIVIA">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230921150000 +0000" stop="20230921152500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231003150000 +0000" stop="20231003152500 +0000" channel="EFEDIEZ BOLIVIA">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
@@ -5242,14 +5250,14 @@
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230921143000 +0000" stop="20230921150000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004143000 +0000" stop="20231004150000 +0000" channel="EFEDIEZ BOLIVIA">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230921150000 +0000" stop="20230921152500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231004150000 +0000" stop="20231004152500 +0000" channel="EFEDIEZ BOLIVIA">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
@@ -5418,14 +5426,14 @@
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230921143000 +0000" stop="20230921150000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005143000 +0000" stop="20231005150000 +0000" channel="EFEDIEZ BOLIVIA">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230921150000 +0000" stop="20230921152500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231005150000 +0000" stop="20231005152500 +0000" channel="EFEDIEZ BOLIVIA">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
@@ -5594,14 +5602,14 @@
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230921143000 +0000" stop="20230921150000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006143000 +0000" stop="20231006150000 +0000" channel="EFEDIEZ BOLIVIA">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20230921150000 +0000" stop="20230921152500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231006150000 +0000" stop="20231006152500 +0000" channel="EFEDIEZ BOLIVIA">
     <title>DORAMA F10</title>
     <desc>Novela korena familiar de F10</desc>
     <country lang="bo">bolivia</country>
