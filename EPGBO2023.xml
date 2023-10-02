@@ -4828,14 +4828,14 @@
   </programme>
 
 
-  <programme start="20231001233500 +0000" stop="20231002013500 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231001233500 +0000" stop="20231002014500 +0000" channel="EFEDIEZ BOLIVIA">
     <title>MUSICAL F10</title>
     <desc>inicio de transmision de f10 bolivia</desc>
     <country lang="bo">bolivia</country>
     <icon src="https://i.ibb.co/ggkqLnh/F10-HD.jpg"/>
     <category lang="es">programacion de lunes a viernes</category>
   </programme>
-  <programme start="20231002043500 +0000" stop="20231002050000 +0000" channel="EFEDIEZ BOLIVIA">
+  <programme start="20231002014500 +0000" stop="20231002050000 +0000" channel="EFEDIEZ BOLIVIA">
     <title>INICIO DE TRANSMISION</title>
     <desc>inicio de transmision de f10 bolivia</desc>
     <country lang="bo">bolivia</country>
